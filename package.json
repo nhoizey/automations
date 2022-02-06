@@ -1,0 +1,27 @@
+{
+  "name": "send-tweets",
+  "version": "1.0.0",
+  "title": "Send tweets for Nicolas Hoizey sites",
+  "author": {
+    "name": "Nicolas Hoizey",
+    "email": "nicolas@hoizey.com",
+    "url": "https://nicolas-hoizey.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://nicolas-hoizey.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhoizey/send-tweets"
+  },
+  "scripts": {
+    "tweets": "node ./send-tweets.js"
+  },
+  "devDependencies": {
+    "bent": "^7.3.12",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.0.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^3.2.0",
+    "twitter": "^1.7.1"
+  }
+}
