@@ -1,0 +1,26 @@
+name: Update Algolia
+on:
+  schedule:
+    # Runs every 15 minutes
+    - cron: "1/15 * * * *"
+jobs:
+  tweets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the project
+        uses: actions/checkout@v2
+
+      - name: Select Node.js version
+        uses: actions/setup-node@v1
+        with:
+          node-version: "16"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update Algolia
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
+        run: npm run algolia

@@ -15,13 +15,15 @@
   },
   "scripts": {
     "tweets": "node ./scripts/send-tweets.js",
+    "algolia": "node ./scripts/update-algolia.js"
   },
   "devDependencies": {
+    "atomic-algolia": "^0.3.19",
     "bent": "^7.3.12",
     "buffer": "^6.0.3",
     "dotenv": "^16.0.0",
     "moment": "^2.29.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "twitter": "^1.7.1"
   }
 }
