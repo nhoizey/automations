@@ -2,7 +2,7 @@ name: Update Algolia
 on:
   schedule:
     # Runs every 15 minutes
-    - cron: "1/15 * * * *"
+    - cron: "1/27 * * * *"
 jobs:
   algolia:
     runs-on: ubuntu-latest
