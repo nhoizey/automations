@@ -3,7 +3,7 @@ on:
   schedule:
     # Runs every 7 minutes
     # https://crontab.guru/#1/7_*_*_*_*
-    - cron: "1/17 * * * *"
+    - cron: "1/7 * * * *"
 jobs:
   tweets:
     runs-on: ubuntu-latest
