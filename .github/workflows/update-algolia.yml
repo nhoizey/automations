@@ -1,8 +1,9 @@
 name: Update Algolia
 on:
   schedule:
-    # Runs once an hour
-    - cron: "0 * * * *"
+    # At minute 0 past every 2nd hour from 0 through 23.
+    # https://crontab.guru/#0_0/2_*_*_*
+    - cron: "0 0/2 * * *"
 jobs:
   algolia:
     runs-on: ubuntu-latest

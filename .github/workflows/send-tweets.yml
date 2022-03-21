@@ -1,9 +1,9 @@
 name: Send tweets
 on:
   schedule:
-    # Runs every 7 minutes
-    # https://crontab.guru/#1/7_*_*_*_*
-    - cron: "1/7 * * * *"
+    # At every 14th minute from 1 through 59
+    # https://crontab.guru/#1/14_*_*_*_*
+    - cron: "1/14 * * * *"
 jobs:
   tweets:
     runs-on: ubuntu-latest
