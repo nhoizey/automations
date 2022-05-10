@@ -31,7 +31,7 @@ const handleError = (error) => {
 
 // Helper Function to return function status
 const status = (code, msg) => {
-  console.log(msg);
+  console.log(`[${code}] ${msg}`);
   // TODO: no need to return
   return {
     statusCode: code,
