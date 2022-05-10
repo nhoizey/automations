@@ -25,6 +25,7 @@ const twitter = new Twitter({
 // Helper Function to return unknown errors
 const handleError = (error) => {
   const msg = Array.isArray(error) ? error[0].message : error.message;
+  process.exitCode = 1;
   // TODO: no need to return
   return status(422, String(msg));
 };
