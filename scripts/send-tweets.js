@@ -49,7 +49,7 @@ const processFeed = async (feed) => {
 
   if (!items.length) {
     // TODO: no need to return
-    return status(404, "No item found to process.");
+    return status(200, "No item found to process.");
   }
 
   // assume the last item is not yet syndicated
