@@ -4,6 +4,8 @@ on:
     # At minute 0 past every 2nd hour from 0 through 23.
     # https://crontab.guru/#0_0/2_*_*_*
     - cron: "0 0/2 * * *"
+  workflow_dispatch:
+
 jobs:
   algolia:
     runs-on: ubuntu-latest
