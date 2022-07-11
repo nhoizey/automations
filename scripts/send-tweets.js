@@ -40,12 +40,21 @@ const status = (code, msg) => {
   };
 };
 
-// Check exisiting entries
+const asyncFilter = async (items, predicate) => {
+  const results = await Promise.all(items.map(predicate));
+
+  return items.filter((_v, index) => results[index]);
+};
+
 const processFeed = async (feed) => {
   // Keep items published less than 7 days ago
   let items = feed.items.filter((item) =>
     moment(item.date_published).isAfter(moment().subtract(6, "d"))
-  ).filter((item) => {
+  );
+
+  // Check exisiting entries with async filter
+  // https://advancedweb.hu/how-to-use-async-functions-with-array-filter-in-javascript/
+  items = await asyncFilter(items, async (item) => {
     // check twitter for any tweets containing the item URL in last 7 days (API limit).
     // TODO: keep a cache of sent tweets instead of searching with the API
     // if there are none, publish it.
@@ -56,7 +65,9 @@ const processFeed = async (feed) => {
     if (q.statuses && q.statuses.length === 0) {
       return true;
     } else {
-      console.log(`item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}`);
+      console.log(
+        `item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}`
+      );
       return false;
     }
   });
@@ -69,7 +80,7 @@ const processFeed = async (feed) => {
   const latestItem = items[0];
 
   try {
-  return publishItem(latestItem);
+    return publishItem(latestItem);
   } catch (error) {
     return handleError(error);
   }
