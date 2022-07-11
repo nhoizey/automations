@@ -45,33 +45,31 @@ const processFeed = async (feed) => {
   // Keep items published less than 7 days ago
   let items = feed.items.filter((item) =>
     moment(item.date_published).isAfter(moment().subtract(6, "d"))
-  );
+  ).filter((item) => {
+    // check twitter for any tweets containing the item URL in last 7 days (API limit).
+    // TODO: keep a cache of sent tweets instead of searching with the API
+    // if there are none, publish it.
+    const q = await twitter.get("search/tweets", {
+      q: `${item.url} from:${myTwitterUsername}`,
+      result_type: "recent",
+    });
+    if (q.statuses && q.statuses.length === 0) {
+      return true;
+    } else {
+      console.log(`item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}`);
+      return false;
+    }
+  });
 
   if (!items.length) {
     // TODO: no need to return
     return status(200, "No item found to process.");
   }
 
-  // assume the last item is not yet syndicated
-  // TODO: manage multiple items not yet syndicated?
   const latestItem = items[0];
 
   try {
-    // check twitter for any tweets containing item URL in last 7 days (API limit).
-    // TODO: keep a cache of sent tweets instead of seaching with the API
-    // if there are none, publish it.
-    const q = await twitter.get("search/tweets", {
-      q: `${latestItem.url} from:${myTwitterUsername}`,
-      result_type: "recent",
-    });
-    if (q.statuses && q.statuses.length === 0) {
-      return publishItem(latestItem);
-    } else {
-      return status(
-        200,
-        `Latest item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}`
-      );
-    }
+  return publishItem(latestItem);
   } catch (error) {
     return handleError(error);
   }
@@ -138,7 +136,7 @@ const publishItem = async (item) => {
     if (tweet) {
       return status(
         200,
-        `Item "${item.title}" successfully posted to Twitter.`
+        `Item "${item.title}" successfully posted to Twitter: https://twitter.com/user/status/${tweet.id_str}`
       );
     } else {
       // TODO: get the actual issue from each call
