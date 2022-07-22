@@ -166,6 +166,7 @@ const main = async () => {
       "https://nicolas-hoizey.com/feeds/twitter/notes.json",
       "https://nicolas-hoizey.com/feeds/twitter/billets.json",
     ].map(async (feedUrl) => {
+      console.log(`Fetching ${feedUrl}…`);
       return fetch(feedUrl)
         .then((response) => response.json())
         .then(processFeed)
