@@ -15,7 +15,6 @@
   },
   "scripts": {
     "tweets": "node ./scripts/send-tweets.js",
-    "algolia": "node ./scripts/update-algolia.js"
   },
   "devDependencies": {
     "atomic-algolia": "^0.3.19",
