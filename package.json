@@ -14,7 +14,7 @@
     "url": "https://github.com/nhoizey/send-tweets"
   },
   "scripts": {
-    "tweets": "node ./scripts/send-tweets.js",
+    "tweets": "node ./scripts/send-tweets.js"
   },
   "devDependencies": {
     "bent": "^7.3.12",
