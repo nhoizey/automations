@@ -94,7 +94,9 @@ const publishItem = async (item) => {
     let tweet;
 
     console.log(
-      `Attempting to post a tweet with ${statusText.length} characters…`
+      `Attempting to post a tweet with ${statusText.length} characters…
+
+${statusText}`
     );
 
     // Check if there's at least one image attachment
