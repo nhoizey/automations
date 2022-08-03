@@ -66,8 +66,9 @@ const processFeed = async (feed) => {
       return true;
     } else {
       console.log(
-        `item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}`
-      );
+        `Item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}
+${item.content_text.slice(0, 50)}…
+`);
       return false;
     }
   });
