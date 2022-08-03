@@ -32,7 +32,8 @@ const handleError = (error) => {
 
 // Helper Function to return function status
 const status = (code, msg) => {
-  console.log(`[${code}] ${msg}`);
+  console.log(`
+[${code}] ${msg}`);
   // TODO: no need to return
   return {
     statusCode: code,
@@ -65,10 +66,8 @@ const processFeed = async (feed) => {
     if (q.statuses && q.statuses.length === 0) {
       return true;
     } else {
-      console.log(
-        `Item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}
-${item.content_text.slice(0, 50)}…
-`);
+      console.log(`Item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}
+${item.content_text.slice(0, 80)}…`);
       return false;
     }
   });
@@ -169,7 +168,7 @@ const main = async () => {
       "https://nicolas-hoizey.com/feeds/twitter/notes.json",
       "https://nicolas-hoizey.com/feeds/twitter/billets.json",
     ].map(async (feedUrl) => {
-      console.log(`Fetching ${feedUrl}…`);
+      console.log(`Fetching ${feedUrl} …`);
       return fetch(feedUrl)
         .then((response) => response.json())
         .then(processFeed)
