@@ -66,8 +66,9 @@ const processFeed = async (feed) => {
     if (q.statuses && q.statuses.length === 0) {
       return true;
     } else {
-      console.log(`Item already on Twitter: https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}
-${item.content_text.slice(0, 80)}…`);
+      console.log(`
+Already on Twitter: ${item.title}
+  https://twitter.com/${myTwitterUsername}/status/${q.statuses[0].id_str}`);
       return false;
     }
   });
