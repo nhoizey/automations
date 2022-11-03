@@ -91,7 +91,25 @@ Already on Twitter: ${item.title}
 const publishItem = async (item) => {
   try {
     // TODO: shorten the status text if it's too long, or let the API call fail (current behavior)
-    const statusText = item.content_text;
+    let statusText = item.content_text;
+
+    // Add zero width space to CSS At-rules
+    // https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule
+    [
+      "charset",
+      "import",
+      "namespace",
+      "media",
+      "supports",
+      "page",
+      "font-face",
+      "keyframes",
+      "counter-style",
+      "property",
+      "layer",
+    ].forEach((atRule) => {
+      statusText = statusText.replace(`@{atRule}`, `@​{atRule}`);
+    });
     let tweet;
 
     console.log(
