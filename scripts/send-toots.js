@@ -185,9 +185,9 @@ const main = async () => {
   // TODO: use Promise.allSettled to continue even if one is rejected
   let result = await Promise.all(
     [
-      "https://nicolas-hoizey.com/feeds/twitter/links.json",
-      "https://nicolas-hoizey.com/feeds/twitter/notes.json",
-      "https://nicolas-hoizey.com/feeds/twitter/billets.json",
+      "https://nicolas-hoizey.com/feeds/mastodon/links.json",
+      "https://nicolas-hoizey.com/feeds/mastodon/notes.json",
+      "https://nicolas-hoizey.com/feeds/mastodon/billets.json",
     ].map(async (feedUrl) => {
       console.log(`Fetching ${feedUrl} …`);
       return fetch(feedUrl)
