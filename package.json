@@ -14,12 +14,14 @@
     "url": "https://github.com/nhoizey/send-tweets"
   },
   "scripts": {
-    "tweets": "node ./scripts/send-tweets.js"
+    "tweets": "node ./scripts/send-tweets.js",
+    "toots": "node ./scripts/send-toots.js"
   },
   "devDependencies": {
     "bent": "^7.3.12",
     "buffer": "^6.0.3",
     "dotenv": "^16.0.0",
+    "mastodon": "^1.2.2",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.7",
     "twitter": "^1.7.1"

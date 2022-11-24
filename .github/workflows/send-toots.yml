@@ -1,0 +1,29 @@
+name: Send toots
+on:
+  schedule:
+    # At every 14th minute from 1 through 59
+    # https://crontab.guru/#1/14_*_*_*_*
+    - cron: "1/14 * * * *"
+  workflow_dispatch:
+
+jobs:
+  toots:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js ⚙️
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+          cache: "npm"
+
+      - name: Install dependencies 📦
+        run: npm ci
+
+      - name: Send toots
+        env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: npm run toots >> $GITHUB_STEP_SUMMARY
