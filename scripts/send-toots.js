@@ -54,11 +54,12 @@ const processFeed = async (feed) => {
     moment(item.date_published).isAfter(moment().subtract(6, "d"))
   );
 
-  // Check exisiting entries with async filter
+  // Check existing entries with async filter
   // https://advancedweb.hu/how-to-use-async-functions-with-array-filter-in-javascript/
   items = await asyncFilter(items, async (item) => {
     // check Mastodon for any toots containing the item URL
     // if there are none, publish it.
+    console.log(`[DEBUG] Check existing message with ${item.url}`);
     const q = await MastodonClient.get("search", {
       type: "statuses",
       account_id: MY_MASTODON_ID,
