@@ -131,6 +131,7 @@ ${statusText}`
             // Get the image as a base64 string
             // let imageBuffer = await getBuffer(attachment.url);
             // let imageData = await imageBuffer.toString("base64");
+            console.log(`[DEBUG] Uploading ${attachment.url}`);
             let imageData = fs.createReadStream(attachment.url);
 
             // TODO: prevent sending toot if media too large
@@ -146,23 +147,27 @@ ${statusText}`
             let media = await MastodonClient.post("media", {
               file: imageData,
             });
+            console.log(`[DEBUG] Uploaded with ID ${media.data.id}`);
             return media.data.id;
           })
         );
 
         // Post the toot with the uploaded image(s)
+        console.log(`[DEBUG] Post message: ${statusText}`);
         toot = await MastodonClient.post("statuses", {
           status: statusText,
           media_ids: uploadedImages.join(","), // Pass the media id string(s)
         });
       } else {
         // There's no image afterall, simple text toot
+        console.log(`[DEBUG] Post message: ${statusText}`);
         toot = await MastodonClient.post("statuses", {
           status: statusText,
         });
       }
     } else {
       // Simple text toot
+      console.log(`[DEBUG] Post message: ${statusText}`);
       toot = await MastodonClient.post("statuses", {
         status: statusText,
       });
