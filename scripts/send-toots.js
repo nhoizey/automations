@@ -65,6 +65,7 @@ const processFeed = async (feed) => {
       account_id: MY_MASTODON_ID,
       q: item.url,
     });
+    console.dir(q);
     if (q.statuses && q.statuses.length === 0) {
       return true;
     } else {
