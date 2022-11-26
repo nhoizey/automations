@@ -127,7 +127,6 @@ ${statusText}`);
             imagesAttachments.map(async (attachment) => {
               console.log(`[DEBUG] Uploading ${attachment.url}`);
 
-              let imageStream = fs.createReadStream(attachment.url);
               // TODO: prevent sending toot if media too large
               // if (imageStream.length > 5000000) {
               //   console.error(
@@ -141,15 +140,14 @@ ${statusText}`);
               let media;
               try {
                 media = await MastodonClient.mediaAttachments.create({
-                  file: imageStream,
+                  file: fs.createReadStream(attachment.url),
                   description: attachment.title,
                 });
+                console.log(`[DEBUG] Uploaded with ID ${media.id}`);
+                return media.id;
               } catch (error) {
                 console.log(error);
               }
-
-              console.log(`[DEBUG] Uploaded with ID ${media.id}`);
-              return media.id;
             })
           );
 
