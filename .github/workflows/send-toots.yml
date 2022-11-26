@@ -3,7 +3,7 @@ on:
   schedule:
     # At every 14th minute from 1 through 59
     # https://crontab.guru/#1/14_*_*_*_*
-    - cron: "1/14 * * * *"
+    # - cron: "1/14 * * * *"
   workflow_dispatch:
 
 jobs:
