@@ -144,7 +144,7 @@ ${statusText}`);
                 description: attachment.title,
               });
 
-              console.log(`[DEBUG] Uploaded with ID ${media.data.id}`);
+              console.log(`[DEBUG] Uploaded with ID ${media.id}`);
               return media.id;
             })
           );
