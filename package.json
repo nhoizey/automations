@@ -21,7 +21,7 @@
     "bent": "^7.3.12",
     "buffer": "^6.0.3",
     "dotenv": "^16.0.0",
-    "mastodon": "^1.2.2",
+    "masto": "^4.6.9",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.7",
     "twitter": "^1.7.1"
