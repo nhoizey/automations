@@ -64,13 +64,12 @@ const main = async () => {
             }
           );
         let lastCreatedAt;
-        let nbToots = 0;
         for await (const statuses of statusesIterable) {
           const matches = statuses.filter((status) => {
             lastCreatedAt = status.createdAt;
             return (
               status.application?.name === "nicolas-hoizey.com" &&
-              status.card?.url === item.url
+              status.content.match(item.url)
             );
           });
           foundToots = foundToots.concat(matches);
@@ -128,20 +127,21 @@ ${statusText}`);
             imagesAttachments.map(async (attachment) => {
               console.log(`[DEBUG] Uploading ${attachment.url}`);
 
-              let imageData = fs.createReadStream(attachment.url);
+              let imageStream = fs.createReadStream(attachment.url);
               // TODO: prevent sending toot if media too large
-              if (imageData.length > 5000000) {
-                console.error(
-                  `Weight ~ ${
-                    Math.round(imageData.length / 100000) / 10
-                  } MB > 5 MB: ${attachment.url}`
-                );
-              }
+              // if (imageStream.length > 5000000) {
+              //   console.error(
+              //     `Weight ~ ${
+              //       Math.round(imageStream.length / 100000) / 10
+              //     } MB > 5 MB: ${attachment.url}`
+              //   );
+              // }
 
               // Upload the image to Mastodon
+              let media;
               try {
-                let media = await MastodonClient.mediaAttachments.create({
-                  file: imageData,
+                media = await MastodonClient.mediaAttachments.create({
+                  file: imageStream,
                   description: attachment.title,
                 });
               } catch (error) {
