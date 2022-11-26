@@ -85,7 +85,7 @@ const main = async () => {
         return true;
       } else {
         console.log(
-          `Already on Mastodon: ${item.title} -> ${foundToots[0].url}`
+          `Already on Mastodon: ${item.title} -> ${foundToots[0].uri}`
         );
         return false;
       }
@@ -180,7 +180,7 @@ ${statusText}`);
       if (toot) {
         return status(
           200,
-          `Item "${item.title}" successfully posted to Mastodon: ${toot.url}`
+          `Item "${item.title}" successfully posted to Mastodon: ${toot.uri}`
         );
       } else {
         // TODO: get the actual issue from each call
