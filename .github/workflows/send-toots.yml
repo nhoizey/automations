@@ -1,9 +1,9 @@
 name: Send toots
 on:
   schedule:
-    # At every 14th minute from 1 through 59
-    # https://crontab.guru/#1/14_*_*_*_*
-    - cron: "1/14 * * * *"
+    # At every 7th minute from 1 through 59
+    # https://crontab.guru/#1/7_*_*_*_*
+    - cron: "1/7 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -28,4 +28,5 @@ jobs:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
           MASTODON_ID: ${{ secrets.MASTODON_ID }}
+          RUNNER_TEMPORARY_DIRECTORY: ${{ runner.temp }}
         run: npm run toots >> $GITHUB_STEP_SUMMARY

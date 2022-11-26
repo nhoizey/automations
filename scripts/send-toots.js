@@ -1,7 +1,7 @@
 // Heavily inspired from
 // https://mxb.dev/blog/syndicating-content-to-twitter-with-netlify-functions/
 
-// Three values to put in environment variables
+// Values to put in environment variables
 // MASTODON_INSTANCE: the root URL of the Mastodon instance you're using
 // MASTODON_ID: your id, can be found with https://prouser123.me/mastodon-userid-lookup/
 // MASTODON_ACCESS_TOKEN: your access token, get it from /settings/applications/new
@@ -9,12 +9,18 @@
 const fetch = require("node-fetch");
 const dotenv = require("dotenv");
 const moment = require("moment");
-const fs = require("fs");
 const { login } = require("masto");
-
-const DAYS = 10;
+const path = require("node:path");
+const fs = require("fs");
+const crypto = require("crypto");
+const download = require("../lib/download.js");
 
 dotenv.config();
+
+const DAYS = 10;
+const TEMPORARY_DIRECTORY = process.env.RUNNER_TEMPORARY_DIRECTORY || "/tmp/";
+
+console.log(`Temporary directory: ${TEMPORARY_DIRECTORY}`);
 
 const main = async () => {
   // Helper Function to return unknown errors
@@ -27,8 +33,7 @@ const main = async () => {
 
   // Helper Function to return function status
   const status = (code, msg) => {
-    console.log(`
-[${code}] ${msg}`);
+    console.log(`[${code}] ${msg}`);
     // TODO: no need to return
     return {
       statusCode: code,
@@ -55,7 +60,7 @@ const main = async () => {
       // if there are none, publish it.
       let foundToots = [];
       try {
-        console.log(`[DEBUG] Check existing message with ${item.url}`);
+        // console.log(`[DEBUG] Check existing message with ${item.url}`);
         const statusesIterable =
           await MastodonClient.accounts.getStatusesIterable(
             process.env.MASTODON_ID,
@@ -85,7 +90,10 @@ const main = async () => {
         return true;
       } else {
         console.log(
-          `Already on Mastodon: ${item.title} -> ${foundToots[0].uri}`
+          `
+Already on Mastodon:
+  ${item.title}
+  -> ${foundToots[0].uri}`
         );
         return false;
       }
@@ -111,10 +119,7 @@ const main = async () => {
       let statusText = item.content_text;
       let toot;
 
-      console.log(`
-----------------------------------------------------------------------------------
-Attempting to post a toot with ${statusText.length} characters:
-${statusText}`);
+      console.log(`Posting toot "${item.title}"`);
 
       // Check if there's at least one image attachment
       if (item.hasOwnProperty("attachments") && item.attachments.length > 0) {
@@ -125,31 +130,34 @@ ${statusText}`);
         if (imagesAttachments.length > 0) {
           let uploadedImages = await Promise.all(
             imagesAttachments.map(async (attachment) => {
-              console.log(`[DEBUG] Uploading ${attachment.url}`);
-
-              // TODO: prevent sending toot if media too large
-              // if (imageStream.length > 5000000) {
-              //   console.error(
-              //     `Weight ~ ${
-              //       Math.round(imageStream.length / 100000) / 10
-              //     } MB > 5 MB: ${attachment.url}`
-              //   );
-              // }
-
-              // Upload the image to Mastodon
               let media;
+              let imageFile = path.join(
+                TEMPORARY_DIRECTORY,
+                `image-${crypto.randomUUID()}`
+              );
               try {
-                media = await MastodonClient.mediaAttachments.create({
-                  file: fs.createReadStream(attachment.url),
-                  description: attachment.title,
-                });
-                console.log(`[DEBUG] Uploaded with ID ${media.id}`);
-                return media.id;
-              } catch (error) {
-                console.log(error);
+                await download(attachment.url, imageFile);
+                // console.log("Download done");
+                try {
+                  media = await MastodonClient.mediaAttachments.create({
+                    file: fs.createReadStream(imageFile),
+                    description: attachment.title,
+                  });
+                  // console.log(`Uploaded with ID ${media.id}`);
+                  await fs.unlink(imageFile, () => {
+                    // console.log(`${imageFile} deleted.`);
+                  });
+                  return media.id;
+                } catch (error) {
+                  console.log(error);
+                }
+              } catch (e) {
+                // console.log("Download failed");
+                console.log(e.message);
               }
             })
           );
+          // console.dir(uploadedImages);
 
           // Post the toot with the uploaded image(s)
           console.log(`[DEBUG] Post message: ${item.title}`);
