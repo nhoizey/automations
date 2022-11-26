@@ -139,10 +139,14 @@ ${statusText}`);
               }
 
               // Upload the image to Mastodon
-              let media = await MastodonClient.mediaAttachments.create({
-                file: imageData,
-                description: attachment.title,
-              });
+              try {
+                let media = await MastodonClient.mediaAttachments.create({
+                  file: imageData,
+                  description: attachment.title,
+                });
+              } catch (error) {
+                console.log(error);
+              }
 
               console.log(`[DEBUG] Uploaded with ID ${media.id}`);
               return media.id;
@@ -150,7 +154,7 @@ ${statusText}`);
           );
 
           // Post the toot with the uploaded image(s)
-          console.log(`[DEBUG] Post message: ${statusText}`);
+          console.log(`[DEBUG] Post message: ${item.title}`);
           toot = await MastodonClient.statuses.create({
             status: statusText,
             visibility: "public",
@@ -159,7 +163,7 @@ ${statusText}`);
           });
         } else {
           // There's no image afterall, simple text toot
-          console.log(`[DEBUG] Post message: ${statusText}`);
+          console.log(`[DEBUG] Post message: ${item.title}`);
           toot = await MastodonClient.statuses.create({
             status: statusText,
             visibility: "public",
@@ -168,7 +172,7 @@ ${statusText}`);
         }
       } else {
         // Simple text toot
-        console.log(`[DEBUG] Post message: ${statusText}`);
+        console.log(`[DEBUG] Post message: ${item.title}`);
         toot = await MastodonClient.statuses.create({
           status: statusText,
           visibility: "public",
