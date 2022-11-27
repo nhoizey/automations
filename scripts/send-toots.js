@@ -6,19 +6,26 @@
 // MASTODON_ID: your id, can be found with https://prouser123.me/mastodon-userid-lookup/
 // MASTODON_ACCESS_TOKEN: your access token, get it from /settings/applications/new
 
+// Native Node modules
+const path = require("node:path");
+const fs = require("fs");
+const os = require("os");
+const crypto = require("crypto");
+
+// Third party dependencies
 const fetch = require("node-fetch");
 const dotenv = require("dotenv");
 const moment = require("moment");
 const { login } = require("masto");
-const path = require("node:path");
-const fs = require("fs");
-const crypto = require("crypto");
+
+// Local dependencies
 const download = require("../lib/download.js");
 
 dotenv.config();
 
 const DAYS = 10;
-const TEMPORARY_DIRECTORY = process.env.RUNNER_TEMPORARY_DIRECTORY || "/tmp/";
+const TEMPORARY_DIRECTORY =
+  process.env.RUNNER_TEMPORARY_DIRECTORY || os.tmpdir();
 
 console.log(`Temporary directory: ${TEMPORARY_DIRECTORY}`);
 
