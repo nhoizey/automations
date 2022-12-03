@@ -21,9 +21,12 @@ const { login } = require("masto");
 // Local dependencies
 const download = require("../lib/download.js");
 
+// Cache of toots already sent
+const cache = require("../data/posse-mastodon.json");
+
 dotenv.config();
 
-const DAYS = 10;
+const DAYS = 1;
 const TEMPORARY_DIRECTORY =
   process.env.RUNNER_TEMPORARY_DIRECTORY || os.tmpdir();
 
@@ -56,8 +59,10 @@ const main = async () => {
 
   const processFeed = async (feed) => {
     // Keep only recent items
-    let items = feed.items.filter((item) =>
-      moment(item.date_published).isAfter(moment().subtract(DAYS, "d"))
+    let items = feed.items.filter(
+      (item) =>
+        moment(item.date_published).isAfter(moment().subtract(DAYS, "d")) &&
+        cache[item.url] === undefined
     );
 
     // Check existing entries with async filter

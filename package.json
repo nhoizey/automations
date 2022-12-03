@@ -15,7 +15,7 @@
   },
   "scripts": {
     "tweets": "node ./scripts/send-tweets.js",
-    "toots": "node ./scripts/send-toots.js"
+    "posse-mastodon": "node ./scripts/posse-mastodon.js"
   },
   "devDependencies": {
     "bent": "^7.3.12",
