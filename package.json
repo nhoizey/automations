@@ -1,7 +1,7 @@
 {
-  "name": "send-tweets",
-  "version": "1.0.0",
-  "title": "Send tweets for Nicolas Hoizey sites",
+  "name": "automations",
+  "version": "2.0.0",
+  "title": "Some automations Nicolas Hoizey sites",
   "author": {
     "name": "Nicolas Hoizey",
     "email": "nicolas@hoizey.com",
@@ -11,7 +11,7 @@
   "homepage": "https://nicolas-hoizey.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhoizey/send-tweets"
+    "url": "https://github.com/nhoizey/automations"
   },
   "scripts": {
     "tweets": "node ./scripts/send-tweets.js",
