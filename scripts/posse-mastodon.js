@@ -22,11 +22,13 @@ const { login } = require("masto");
 const download = require("../lib/download.js");
 
 // Cache of toots already sent
-const cache = require("../data/posse-mastodon.json");
+const CACHE_FILE = "../data/cache-posse-mastodon.json";
+const cache = require(CACHE_FILE);
+let cacheUpdated = false;
 
 dotenv.config();
 
-const DAYS = 1;
+const DAYS = 10;
 const TEMPORARY_DIRECTORY =
   process.env.RUNNER_TEMPORARY_DIRECTORY || os.tmpdir();
 
@@ -58,60 +60,14 @@ const main = async () => {
   };
 
   const processFeed = async (feed) => {
-    // Keep only recent items
+    // Keep only recent items that have not been POSSEd yet
     let items = feed.items.filter(
       (item) =>
         moment(item.date_published).isAfter(moment().subtract(DAYS, "d")) &&
-        cache[item.url] === undefined
+        !cache.hasOwnProperty(item.url)
     );
 
-    // Check existing entries with async filter
-    // https://advancedweb.hu/how-to-use-async-functions-with-array-filter-in-javascript/
-    items = await asyncFilter(items, async (item) => {
-      // check Mastodon for any toots containing the item URL
-      // if there are none, publish it.
-      let foundToots = [];
-      try {
-        // console.log(`[DEBUG] Check existing message with ${item.url}`);
-        const statusesIterable =
-          await MastodonClient.accounts.getStatusesIterable(
-            process.env.MASTODON_ID,
-            {
-              excludeReplies: true,
-            }
-          );
-        let lastCreatedAt;
-        for await (const statuses of statusesIterable) {
-          const matches = statuses.filter((status) => {
-            lastCreatedAt = status.createdAt;
-            return (
-              status.application?.name === "nicolas-hoizey.com" &&
-              status.content.match(item.url)
-            );
-          });
-          foundToots = foundToots.concat(matches);
-          if (moment(lastCreatedAt).isBefore(moment().subtract(DAYS, "d"))) {
-            break;
-          }
-        }
-      } catch (error) {
-        console.dir(error);
-      }
-
-      if (foundToots.length === 0) {
-        return true;
-      } else {
-        console.log(
-          `
-Already on Mastodon:
-  ${item.title}
-  -> ${foundToots[0].uri}`
-        );
-        return false;
-      }
-    });
-
-    if (!items.length) {
+    if (items.length === 0) {
       // TODO: no need to return
       return status(200, "No item found to process.");
     }
@@ -198,6 +154,8 @@ Already on Mastodon:
         });
       }
       if (toot) {
+        cache[item.url] = toot.url;
+        cacheUpdated = true;
         return status(
           200,
           `Item "${item.title}" successfully posted to Mastodon: ${toot.uri}`
@@ -230,6 +188,11 @@ Already on Mastodon:
         .catch(handleError);
     })
   );
+  if (cacheUpdated) {
+    fs.writeFileSync(CACHE_FILE, JSON.stringify(cache), {
+      encoding: "utf8",
+    });
+  }
   // TODO: parse `result` to find potential errors and return accordingly
   // TODO: no need to return
   return { statusCode: 200, body: JSON.stringify(result) };
