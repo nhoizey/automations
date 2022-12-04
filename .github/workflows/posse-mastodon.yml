@@ -1,13 +1,13 @@
 name: POSSE to Mastodon
 on:
-  #schedule:
-    # At every 7th minute from 1 through 59
-    # https://crontab.guru/#1/7_*_*_*_*
-    #- cron: "1/7 * * * *"
+  schedule:
+    # At every 7th minute from 1 through 59 past every hour
+    # https://crontab.guru/#1/07_*_*_*_*
+    - cron: "1/07 * * * *"
   workflow_dispatch:
 
 jobs:
-  toots:
+  Mastodon:
     runs-on: ubuntu-latest
 
     steps:
@@ -27,26 +27,16 @@ jobs:
         env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
-          MASTODON_ID: ${{ secrets.MASTODON_ID }}
           RUNNER_TEMPORARY_DIRECTORY: ${{ runner.temp }}
         id: vars
-        run: |
-          UPDATED=$(npm run posse-mastodon)
-          if [[ -z "$UPDATED" ]]; then
-            echo 'Nothing to upgrade' >> $GITHUB_STEP_SUMMARY
-          else
-            echo 'Cache updated with new toot(s)' >> $GITHUB_STEP_SUMMARY
-            echo "$UPDATED" >> $GITHUB_STEP_SUMMARY
-          fi
-          echo "::set-output name=updated::$UPDATED"
+        run: npm run posse-mastodon >> $GITHUB_STEP_SUMMARY
 
-      - name: Commit and create PR 🔀
-        if: ${{ steps.vars.outputs.updated != '' }}
-        uses: peter-evans/create-pull-request@v3
+      - name: Pull any changes 📥
+        run: git pull
+
+      - name: Commit and push 📤
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          title: "chore(cache): update Mastodon cache file (automated)"
-          branch: "mastodon-cache-update-automated"
-          commit-message: "chore(cache): update Mastodon cache file (automated)"
-          labels: |
-            type: dependencies 🔗
-            automerge 🤞
+          commit_message: "chore(cache): update Mastodon cache file (automated)"
+          file_pattern: "cache/*.json"
+          skip_fetch: false

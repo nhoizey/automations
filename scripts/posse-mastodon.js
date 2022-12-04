@@ -3,7 +3,6 @@
 
 // Values to put in environment variables
 // MASTODON_INSTANCE: the root URL of the Mastodon instance you're using
-// MASTODON_ID: your id, can be found with https://prouser123.me/mastodon-userid-lookup/
 // MASTODON_ACCESS_TOKEN: your access token, get it from /settings/applications/new
 
 // Native Node modules
@@ -22,8 +21,8 @@ const { login } = require("masto");
 const download = require("../lib/download.js");
 
 // Cache of toots already sent
-const CACHE_FILE = "../data/cache-posse-mastodon.json";
-const cache = require(CACHE_FILE);
+const CACHE_FILE = "cache/posse-mastodon.json";
+const cache = require(path.join("..", CACHE_FILE));
 let cacheUpdated = false;
 
 dotenv.config();
@@ -31,8 +30,6 @@ dotenv.config();
 const DAYS = 10;
 const TEMPORARY_DIRECTORY =
   process.env.RUNNER_TEMPORARY_DIRECTORY || os.tmpdir();
-
-console.log(`Temporary directory: ${TEMPORARY_DIRECTORY}`);
 
 const main = async () => {
   // Helper Function to return unknown errors
@@ -85,6 +82,10 @@ const main = async () => {
     try {
       // TODO: shorten the status text if it's too long, or let the API call fail (current behavior)
       let statusText = item.content_text;
+      // Safeguard for test platform
+      if (process.env.MASTODON_INSTANCE.match("mastodon.hsablonniere.com")) {
+        statusText = statusText.replaceAll("@", "%");
+      }
       let toot;
 
       console.log(`Posting toot "${item.title}"`);
@@ -105,7 +106,6 @@ const main = async () => {
               );
               try {
                 await download(attachment.url, imageFile);
-                // console.log("Download done");
                 try {
                   media = await MastodonClient.mediaAttachments.create({
                     file: fs.createReadStream(imageFile),
@@ -120,15 +120,12 @@ const main = async () => {
                   console.log(error);
                 }
               } catch (e) {
-                // console.log("Download failed");
                 console.log(e.message);
               }
             })
           );
-          // console.dir(uploadedImages);
 
           // Post the toot with the uploaded image(s)
-          console.log(`[DEBUG] Post message: ${item.title}`);
           toot = await MastodonClient.statuses.create({
             status: statusText,
             visibility: "public",
@@ -137,7 +134,6 @@ const main = async () => {
           });
         } else {
           // There's no image afterall, simple text toot
-          console.log(`[DEBUG] Post message: ${item.title}`);
           toot = await MastodonClient.statuses.create({
             status: statusText,
             visibility: "public",
@@ -146,7 +142,6 @@ const main = async () => {
         }
       } else {
         // Simple text toot
-        console.log(`[DEBUG] Post message: ${item.title}`);
         toot = await MastodonClient.statuses.create({
           status: statusText,
           visibility: "public",
@@ -189,7 +184,7 @@ const main = async () => {
     })
   );
   if (cacheUpdated) {
-    fs.writeFileSync(CACHE_FILE, JSON.stringify(cache), {
+    fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2), {
       encoding: "utf8",
     });
   }
