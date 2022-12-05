@@ -2,9 +2,13 @@ name: POSSE to Mastodon
 on:
   schedule:
     # At every 7th minute from 1 through 59 past every hour
-    # https://crontab.guru/#1/07_*_*_*_*
-    - cron: "1/07 * * * *"
+    # https://crontab.guru/#1/7_*_*_*_*
+    - cron: "1/7 * * * *"
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.head_ref }}
+  cancel-in-progress: true
 
 jobs:
   Mastodon:
