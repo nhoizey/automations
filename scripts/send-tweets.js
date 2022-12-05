@@ -108,7 +108,7 @@ const publishItem = async (item) => {
       "property",
       "layer",
     ].forEach((atRule) => {
-      statusText = statusText.replace(`@{atRule}`, `@​{atRule}`);
+      statusText = statusText.replace(`@${atRule}`, `@​${atRule}`);
     });
     let tweet;
 
