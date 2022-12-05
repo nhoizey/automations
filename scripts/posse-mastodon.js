@@ -88,7 +88,10 @@ const main = async () => {
       }
       let toot;
 
-      console.log(`Posting toot "${item.title}"`);
+      console.log(
+        `%cPosting toot "${item.title}"`,
+        "display: inline-block; background-color: darkgreen; color: white; border-radius: 3px"
+      );
 
       // Check if there's at least one image attachment
       if (item.hasOwnProperty("attachments") && item.attachments.length > 0) {
