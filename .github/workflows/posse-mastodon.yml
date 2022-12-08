@@ -33,7 +33,7 @@ jobs:
           MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
           RUNNER_TEMPORARY_DIRECTORY: ${{ runner.temp }}
         id: vars
-        run: npm run posse-mastodon >> $GITHUB_STEP_SUMMARY
+        run: node ./scripts/posse-mastodon.js >> $GITHUB_STEP_SUMMARY
 
       - name: Pull any changes 📥
         run: git pull
