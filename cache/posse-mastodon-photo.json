@@ -2433,7 +2433,9 @@
         "title": "Photo titled: A very curious Vervet monkey"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109506443305470028"
+    ]
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/monkeys/mantled-guereza/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/monkeys/mantled-guereza/",
