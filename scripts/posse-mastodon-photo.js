@@ -19,6 +19,8 @@ const jsonTimestamp = require(path.join("..", TIMESTAMP_FILE));
 
 const MINUTES_BETWEEN_PHOTOS = 60 * 20; // 20 hours
 
+const MINUTES_BETWEEN_SAME_TOOT = 60 * 24 * 90; // 90 days
+
 const main = async () => {
   // Helper Function to return unknown errors
   const handleError = (error) => {
@@ -49,31 +51,56 @@ const main = async () => {
 
   const processFeed = async (feed) => {
     let items = feed.items;
+    const photosNotTootedRecently = {};
 
-    // Fill cache with new items
+    // Iterate over feed items
     items.forEach((item, index) => {
+      // Fill cache with new items
+      // TODO: remove items from cache that are not anymore in the feed
       if (jsonCache.hasOwnProperty(item.url)) {
         const existingToots = [...jsonCache[item.url].toots];
+        let lastTootTimestamp = jsonCache[item.url].lastTootTimestamp;
+        // Initialize lastTootTimestamp for photos already with some toots
+        if (lastTootTimestamp === undefined && existingToots.length > 0) {
+          lastTootTimestamp = Date.now();
+        }
+        // Update item content
         jsonCache[item.url] = item;
+        // Restore existing toots
         jsonCache[item.url].toots = existingToots;
+        jsonCache[item.url].lastTootTimestamp = lastTootTimestamp;
       } else {
         // This is a new photo
         jsonCache[item.url] = item;
         jsonCache[item.url].toots = [];
       }
+      // Fill candidates for toot
+      if (
+        jsonCache[item.url].lastTootTimestamp === undefined ||
+        Date.now() <
+          jsonCache[item.url].lastTootTimestamp +
+            MINUTES_BETWEEN_SAME_TOOT * 60 * 1000
+      ) {
+        photosNotTootedRecently[item.url] = { ...jsonCache[item.url] };
+      }
     });
+
+    if (Object.keys(photosNotTootedRecently).length === 0) {
+      return status(200, "No photo to toot");
+    }
 
     // Get lowest number of toots for any photo
     let minTimes = -1;
     const photosPerTimes = {};
-    for (const photoUrl in jsonCache) {
-      const photoTimes = jsonCache[photoUrl].toots.length;
+    for (const photoUrl in photosNotTootedRecently) {
+      const photoTimes = photosNotTootedRecently[photoUrl].toots.length;
       minTimes = minTimes === -1 ? photoTimes : Math.min(minTimes, photoTimes);
       if (!photosPerTimes.hasOwnProperty(photoTimes)) {
         photosPerTimes[photoTimes] = [];
       }
-      photosPerTimes[photoTimes].push(jsonCache[photoUrl]);
+      photosPerTimes[photoTimes].push(photosNotTootedRecently[photoUrl]);
     }
+
     // Keep only recent photos that have been POSSEd the less
     const candidates = photosPerTimes[minTimes];
 
@@ -86,6 +113,7 @@ const main = async () => {
       if (tootUrl?.startsWith(process.env.MASTODON_INSTANCE)) {
         console.log(`-> ${tootUrl}`);
         jsonCache[photoToPosse.url].toots.push(tootUrl);
+        jsonCache[photoToPosse.url].lastTootTimestamp = Date.now();
         jsonTimestamp.timestamp = Date.now();
       }
     } catch (error) {
@@ -93,6 +121,7 @@ const main = async () => {
     }
   };
 
+  // Manage multiple feeds
   // TODO: use Promise.allSettled to continue even if one is rejected
   await Promise.all(
     ["https://nicolas-hoizey.photo/feeds/mastodon/photos.json"].map(
