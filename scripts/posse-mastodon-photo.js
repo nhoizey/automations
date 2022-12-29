@@ -108,7 +108,7 @@ const main = async () => {
       candidates[Math.floor(Math.random() * candidates.length)];
 
     try {
-      console.log(`Trying to posting toot "${photoToPosse.title}"`);
+      console.log(`Trying to post toot "${photoToPosse.title}"`);
       const tootUrl = await createToot(photoToPosse);
       if (tootUrl?.startsWith(process.env.MASTODON_INSTANCE)) {
         console.log(`-> ${tootUrl}`);
