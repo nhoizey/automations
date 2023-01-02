@@ -2577,7 +2577,10 @@
         "title": "Photo titled: Grant's zebra"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109619687696069730"
+    ],
+    "lastTootTimestamp": 1672663691796
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/zebras/grant-s-zebras/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/zebras/grant-s-zebras/",
