@@ -2996,7 +2996,10 @@
         "title": "Photo titled: Now you see me"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109625351232682417"
+    ],
+    "lastTootTimestamp": 1672750110540
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/on-the-dirt-track-again/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/on-the-dirt-track-again/",
