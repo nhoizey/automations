@@ -886,7 +886,10 @@
         "title": "Photo titled: Winter is coming…"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109631012020249719"
+    ],
+    "lastTootTimestamp": 1672836487244
   },
   "https://nicolas-hoizey.photo/galleries/misc/still-life/pigments/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/still-life/pigments/",
