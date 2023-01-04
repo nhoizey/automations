@@ -1,4 +1,4 @@
-name: POSSE photos to Mastodon
+name: POSSE photos to Mastodon with GitHub Action
 on:
   schedule:
     # At 12:37 (UTC) on every day-of-week from Monday through Friday.
@@ -14,28 +14,15 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
 
-      - name: Set up Node.js ⚙️
-        uses: actions/setup-node@v3
-        with:
-          node-version-file: ".nvmrc"
-          cache: "npm"
-
-      - name: Install dependencies 📦
-        run: npm ci
-
       - name: POSSE photos to Mastodon 🦣
-        env:
-          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
-          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
-          RUNNER_TEMPORARY_DIRECTORY: ${{ runner.temp }}
-        run: node ./scripts/posse-mastodon-photo.js >> $GITHUB_STEP_SUMMARY
-
-      - name: Pull any changes 📥
-        run: git pull
+        uses: nhoizey/github-action-jsonfeed-to-mastodon@v1
+        with:
+          feedUrl: "https://nicolas-hoizey.photo/feeds/mastodon/photos.json"
+          mastodonInstance: ${{ secrets.MASTODON_INSTANCE }}
+          mastodonToken: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          cacheFile: "posse-mastodon-photo.json"
+          cacheTimestampFile: "posse-mastodon-photo-timestamp.json"
+          globalDelayToots: 1200 # 20 hours
 
       - name: Commit and push 📤
         uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore(cache): update Mastodon cache file (automated)"
-          file_pattern: "cache/*.json"
-          skip_fetch: false
