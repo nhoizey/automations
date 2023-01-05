@@ -26,7 +26,7 @@ jobs:
           mastodonToken: ${{ secrets.TEST_MASTODON_ACCESS_TOKEN }}
           cacheFile: "posse-mastodon-links.json"
           cacheTimestampFile: "posse-mastodon-links-timestamp.json"
-          globalDelayToots: 37
+          globalDelayToots: 5
 
       - name: Commit and push 📤
         uses: stefanzweifel/git-auto-commit-action@v4
