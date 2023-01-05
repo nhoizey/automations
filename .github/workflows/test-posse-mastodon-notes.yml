@@ -3,7 +3,7 @@ on:
   schedule:
     # At every 7th minute from 1 through 59 past every hour
     # https://crontab.guru/#1/7_*_*_*_*
-    - cron: "2/7 * * * *"
+    - cron: "1/10 * * * *"
   workflow_dispatch:
 
 env:
@@ -24,7 +24,7 @@ jobs:
       - name: POSSE ${{ env.TYPE }} to Mastodon 🦣
         uses: nhoizey/github-action-jsonfeed-to-mastodon@v1
         with:
-          feedUrl: "https://nicolas-hoizey.com/feeds/mastodon/notes.json"
+          feedUrl: "https://nicolas-hoizey.com/feeds/mastodon/${{ env.TYPE }}.json"
           mastodonInstance: ${{ secrets.TEST_MASTODON_INSTANCE }}
           mastodonToken: ${{ secrets.TEST_MASTODON_ACCESS_TOKEN }}
           cacheFile: "posse-mastodon-${{ env.TYPE }}.json"

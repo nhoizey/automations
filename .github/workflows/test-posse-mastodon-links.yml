@@ -3,8 +3,11 @@ on:
   schedule:
     # At every 7th minute from 1 through 59 past every hour
     # https://crontab.guru/#1/7_*_*_*_*
-    - cron: "1/7 * * * *"
+    - cron: "2/10 * * * *"
   workflow_dispatch:
+
+env:
+  TYPE: "links"
 
 concurrency:
   group: ${{ github.workflow }}
@@ -18,14 +21,14 @@ jobs:
       - name: Checkout 📥
         uses: actions/checkout@v3
 
-      - name: POSSE links to Mastodon 🦣
+      - name: POSSE ${{ env.TYPE }} to Mastodon 🦣
         uses: nhoizey/github-action-jsonfeed-to-mastodon@v1
         with:
-          feedUrl: "https://nicolas-hoizey.com/feeds/mastodon/links.json"
+          feedUrl: "https://nicolas-hoizey.com/feeds/mastodon/${{ env.TYPE }}.json"
           mastodonInstance: ${{ secrets.TEST_MASTODON_INSTANCE }}
           mastodonToken: ${{ secrets.TEST_MASTODON_ACCESS_TOKEN }}
-          cacheFile: "posse-mastodon-links.json"
-          cacheTimestampFile: "posse-mastodon-links-timestamp.json"
+          cacheFile: "posse-mastodon-${{ env.TYPE }}.json"
+          cacheTimestampFile: "posse-mastodon-${{ env.TYPE }}-timestamp.json"
           globalDelayToots: 5
 
       - name: Commit and push 📤
