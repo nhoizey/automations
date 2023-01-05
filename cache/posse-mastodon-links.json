@@ -160,7 +160,10 @@
         "title": "Screenshot of Font styles &amp; font fallback"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637723623973599"
+    ],
+    "lastTootTimestamp": 1672938898246
   },
   "https://nicolas-hoizey.com/links/2022/12/02/why-you-should-have-your-own-website/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/02/why-you-should-have-your-own-website/",
@@ -318,6 +321,38 @@
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://mxb.dev/blog/the-indieweb-for-everyone/",
         "mime_type": "image/png",
         "title": "Screenshot of The IndieWeb for Everyone"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/01/05/ai-is-not-your-friend/": {
+    "id": "https://nicolas-hoizey.com/links/2023/01/05/ai-is-not-your-friend/",
+    "url": "https://nicolas-hoizey.com/links/2023/01/05/ai-is-not-your-friend/",
+    "lang": "en",
+    "title": "🔗 AI Is Not Your Friend",
+    "date_published": "2023-01-05T11:15:29Z",
+    "content_text": "🔗 AI Is Not Your Friend\nby @ewen@photog.social\n\n#photography #AI \n\n⚓️ https://nicolas-hoizey.com/links/2023/01/05/ai-is-not-your-friend/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://ewenbell.com/blog/AI_Is_Not_Your_Friend",
+        "mime_type": "image/png",
+        "title": "Screenshot of AI Is Not Your Friend"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/": {
+    "id": "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/",
+    "url": "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/",
+    "lang": "en",
+    "title": "🔗 Priority Hints and optimizing LCP",
+    "date_published": "2023-01-03T14:34:20Z",
+    "content_text": "🔗 Priority Hints and optimizing LCP\nby @kevinfarrugia@webperf.social\n\n#WebPerf #priority #LCP #CWV \n\n⚓️ https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://imkev.dev/fetchpriority-opportunity",
+        "mime_type": "image/png",
+        "title": "Screenshot of Priority Hints and optimizing LCP"
       }
     ],
     "toots": []
