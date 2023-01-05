@@ -43,7 +43,10 @@
     "date_published": "2022-12-16T17:36:47Z",
     "content_text": "While we wait for browsers to implement the `text-wrap: balance;` #CSS property and value for text (pleeeeeease! 🙏), I may have created a silly — and probably sub-optimal — function to do it with HTML block elements:\n\nhttps://codepen.io/nhoizey/pen/mdjbrVx\n\nTell me what you think!\n\nBut why? Just because a colleague needed it, we could not find a solution in pure CSS, and I like challenges… 😅\n\n#Flexbox #JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/16/1/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638019788878306"
+    ],
+    "lastTootTimestamp": 1672943417318
   },
   "https://nicolas-hoizey.com/notes/2022/12/14/3/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/14/3/",
