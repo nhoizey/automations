@@ -13,7 +13,10 @@
         "title": "Three different scores: 44, 59, 19"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638271526234299"
+    ],
+    "lastTootTimestamp": 1672947258499
   },
   "https://nicolas-hoizey.com/notes/2022/12/18/2/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/18/2/",
