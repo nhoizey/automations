@@ -1,0 +1,269 @@
+{
+  "https://nicolas-hoizey.com/notes/2022/12/21/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/21/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/21/1/",
+    "lang": "en",
+    "title": "💬 Note from 21 December 2022, 20:03",
+    "date_published": "2022-12-21T19:03:53Z",
+    "content_text": "Same page tested on PageSpeed Insights over a few hours the same day, without anything modified, and the desktop scores vary from 19 to 59… 🤷‍♂️\n\nA lot of businesses rely on this crap to now if their site is \"fast\" enough for Google SEO! 😭\n\n#Google #Lighthouse #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/21/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/12/21/1/pagespeed-insight-scores.png",
+        "mime_type": "image/png",
+        "title": "Three different scores: 44, 59, 19"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/18/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/18/2/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/18/2/",
+    "lang": "en",
+    "title": "💬 Note from 18 December 2022, 21:34",
+    "date_published": "2022-12-18T20:34:29Z",
+    "content_text": "I wonder why there are not so many Web games using mostly HTML, CSS and #SVG for the UI, with all the #responsive power they have… 🤷‍♂️\n\nThis live demo is more than 6 years old: https://play.esviji.com/wow/\n\n(Remove `wow` at the end to really play… 😅)\n\n#esviji #game\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/18/2/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/18/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/18/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/18/1/",
+    "lang": "en",
+    "title": "💬 Note from 18 December 2022, 19:21",
+    "date_published": "2022-12-18T18:21:17Z",
+    "content_text": "> going forward, Twitter will no longer allow free promotion of specific social media platforms on Twitter\n> — Twitter's promotion of alternative social platforms policy\n\nEmon Lusk is so afraid. 🥳\n\n#Twitter\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/18/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/16/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/16/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/16/1/",
+    "lang": "en",
+    "title": "💬 Note from 16 December 2022, 18:36",
+    "date_published": "2022-12-16T17:36:47Z",
+    "content_text": "While we wait for browsers to implement the `text-wrap: balance;` #CSS property and value for text (pleeeeeease! 🙏), I may have created a silly — and probably sub-optimal — function to do it with HTML block elements:\n\nhttps://codepen.io/nhoizey/pen/mdjbrVx\n\nTell me what you think!\n\nBut why? Just because a colleague needed it, we could not find a solution in pure CSS, and I like challenges… 😅\n\n#Flexbox #JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/16/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/14/3/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/14/3/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/14/3/",
+    "lang": "en",
+    "title": "💬 Note from 14 December 2022, 16:59",
+    "date_published": "2022-12-14T15:59:14Z",
+    "content_text": "In all #WebPerf reporting tools with graphs, I would like to be able to quickly set a preferred scale, or ignore certain values that I know are incorrect.\n\nExamples from Contentsquare/Dareboost and SpeedCurve…\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/3/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/12/14/3/graph-useless-scale-dareboost-contentsquare.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of a Contentsquare/Dareboost graph with an incorrect value implying a useless scale"
+      },
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/12/14/3/graph-useless-scale-speedcurve.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of a SpeedCurve graph with an incorrect value implying a useless scale"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/14/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/14/2/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/14/2/",
+    "lang": "en",
+    "title": "💬 Note from 14 December 2022, 13:56",
+    "date_published": "2022-12-14T12:56:37Z",
+    "content_text": "I needed a JavaScript way to verify if two arrays contain the same (all different) values.\n\nI then found a better solution for my use case, but it might be useful later, so here it is:\n\n```javascript\nconst sameValues = (array1, array2) =>\n  array1.length === array2.length &&\n  array1.every((element) => array2.includes(element));\n```\n\n#JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/2/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/14/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/14/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/14/1/",
+    "lang": "en",
+    "title": "💬 Note from 14 December 2022, 09:48",
+    "date_published": "2022-12-14T08:48:14Z",
+    "content_text": "It's pretty annoying to see the same toot repeatedly on @Mastodon@mastodon.social because everyone is boosting it, even if it's legitimately awesome.\n\nCurrently, a boost of a toot is only posted if at least 40 other toots have been posted since the previous boost of the same toot.\n\nThere is a GitHub issue asking to allow the user to change this number, or set a duration instead:\nhttps://github.com/mastodon/mastodon/issues/18693\n\nPlease vote!\n\n#UX\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/13/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/13/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/13/1/",
+    "lang": "en",
+    "title": "💬 Note from 13 December 2022, 12:11",
+    "date_published": "2022-12-13T11:11:23Z",
+    "content_text": "⚠️ Be carefull if you use SVGO or SVGOMG to optimize #SVG images using `<symbol>`s.\n\nThere's a bug that might remove them when it shouldn't:\nhttps://github.com/svg/svgo/issues/1726\n\n#image #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/13/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/12/13/1/svgomg-inline-styles-symbol-bug.gif",
+        "mime_type": "image/gif",
+        "title": "Screencast of the bug in SVGOMG"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/12/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/12/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/12/1/",
+    "lang": "en",
+    "title": "💬 Note from 12 December 2022, 10:51",
+    "date_published": "2022-12-12T09:51:19Z",
+    "content_text": "Of course we don't work on performance improvements only for Google, but the Search Console is our clients' main concern, so when it shows such a graph, it's satisfying for everyone! 🎉\n\n#CWV #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/12/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/12/12/1/google-search-console-core-web-vitals.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of a graph from the Google Search Console showing a great improvement of Core Web Vitals"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/12/05/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/12/05/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/12/05/1/",
+    "lang": "en",
+    "title": "💬 Note from 5 December 2022, 17:31",
+    "date_published": "2022-12-05T16:31:06Z",
+    "content_text": "I always forget how to extract the content of matching HTML tags with a REGEX, so here it is:\n\n```javascript\ncontent.match(/<pre>(((?!</pre>).)*)</pre>/gs)\n```\n\nIt uses negative lookahead.\n\n(I know I should use the DOM API instead… 🤷‍♂️)\n\n#regex\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/05/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/30/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/30/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/30/1/",
+    "lang": "en",
+    "title": "💬 Note from 30 November 2022, 16:13",
+    "date_published": "2022-11-30T15:13:18Z",
+    "content_text": "When we say \"truncation is not a content strategy\", it's true also for design tokens names!\n\nI saw this is Shopify's Polaris Design System… 🤷‍♂️\n\n#DesignSystem #DesignTokens #Shopify #truncation\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/30/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/11/30/1/shopify-polaris-truncated-token-names.png",
+        "mime_type": "image/png",
+        "title": "3 design tokens have their names truncated, so they look the same"
+      }
+    ],
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637856210296738"
+    ],
+    "lastTootTimestamp": 1672940921597
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/26/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/26/2/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/26/2/",
+    "lang": "en",
+    "title": "💬 Note from 26 November 2022, 11:52",
+    "date_published": "2022-11-26T10:52:18Z",
+    "content_text": "I'm still looking for an alternative to Forestry:\nhttps://forestry.io/blog/tina-cloud-the-next-forestry/\n\nAs Netlify doesn't seem to care for Netlify CMS anymore:\nhttps://answers.netlify.com/t/is-this-project-dead/70988/1\n\nA fork managed by a community might be a good solution, I'll keep an eye on it:\nhttps://staticjscms.netlify.app/\n\n#CMS #Forestry #Netlify\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/26/2/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/26/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/26/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/26/1/",
+    "lang": "en",
+    "title": "💬 Note from 26 November 2022, 01:01",
+    "date_published": "2022-11-26T00:01:00Z",
+    "content_text": "My notes will now be push to Mastodon as toots, this feels great! 🎉\n\n#IndieWeb #Mastodon #POSSE\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/26/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/11/26/1/screenshot-mastodon-toot-from-my-own-site.png",
+        "mime_type": "image/png",
+        "title": "A screenshot of a toot where the application used to publish is \"nicolas-hoizey.com\""
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/18/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/18/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/18/1/",
+    "lang": "en",
+    "title": "💬 Note from 18 November 2022, 17:34",
+    "date_published": "2022-11-18T16:34:14Z",
+    "content_text": "15 years ago… 🤷‍♂️\n\nhttps://twitter.com/nhoizey/status/77754112\n\nTwitter might not exist anymore soon, or change to the point I don't want to use it anymore.\n\nBut I’ve been on Mastodon for a few years now, and it’s great. Find me at https://mamot.fr/@nhoizey\n\n#Mastodon #Twitter\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/18/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/07/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/07/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/07/1/",
+    "lang": "en",
+    "title": "💬 Note from 7 November 2022, 19:20",
+    "date_published": "2022-11-07T18:20:24Z",
+    "content_text": "I'm trying to use #Leonardo to create a real set of design tokens for the colors I currently use on https://nicolas-hoizey.photo but I didn't find how to set the background color to `#292929` instead of white… 🤷‍♂️\n\nhttps://leonardocolor.io/theme.html?name=nicolas-hoizey.photo&config=%7B%22baseScale%22%3A%22Gray%22%2C%22colorScales%22%3A%5B%7B%22name%22%3A%22Gray%22%2C%22colorKeys%22%3A%5B%22%23000000%22%5D%2C%22colorspace%22%3A%22RGB%22%2C%22ratios%22%3A%5B%221.45%22%2C%222.05%22%2C%223.03%22%2C%224.54%22%2C%227%22%2C%2210.86%22%5D%2C%22smooth%22%3Afalse%7D%2C%7B%22name%22%3A%22Rebecca+Purple%22%2C%22colorKeys%22%3A%5B%22%23663399%22%5D%2C%22colorspace%22%3A%22HSL%22%2C%22ratios%22%3A%5B%221.45%22%2C%222.05%22%2C%223.03%22%2C%224.54%22%2C%227%22%2C%2210.86%22%5D%2C%22smooth%22%3Atrue%7D%5D%2C%22lightness%22%3A100%2C%22contrast%22%3A1.19%2C%22saturation%22%3A100%2C%22formula%22%3A%22wcag2%22%7D\n\n#DesignTokens\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/07/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/11/07/1/leonardo-color-background.png",
+        "mime_type": "image/png",
+        "title": "A screenshot of Leonardo UI with the background set to white"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/06/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/06/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/06/1/",
+    "lang": "en",
+    "title": "💬 Note from 6 November 2022, 13:47",
+    "date_published": "2022-11-06T12:47:57Z",
+    "content_text": "https://twitter.com/vitalyf/status/1589206913463779328\n\nIn addition to prominent navigation options @vitalyf shows in his thread, I really like the horizontal overflow scrolling navigation, enhanced with @LeaVerou's scrolling shadows.\n\n#mobile #UX\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/06/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/03/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/03/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/03/1/",
+    "lang": "en",
+    "title": "💬 Note from 3 November 2022, 10:19",
+    "date_published": "2022-11-03T09:19:51Z",
+    "content_text": "Do we really need to repeat that using an icons font is a bad idea?\n\nThis is @Mastodon@mastodon.social UI right now:\n\nFonts are not loaded because of an error (from a Service Worker?):\n\nVery welcoming for new Mastodon users… 😔\n\n#font #icon #UX\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/03/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/11/03/1/mastodon-social-icon-font-missing.png",
+        "mime_type": "image/png",
+        "title": "Icons missing in Mastodon UI"
+      },
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/11/03/1/mastodon-social-icon-font-loading-error.png",
+        "mime_type": "image/png",
+        "title": "NS_ERROR_INTERCEPTION_FAILED errors in Firefox network panel"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/11/02/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/11/02/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/11/02/1/",
+    "lang": "en",
+    "title": "💬 Note from 2 November 2022, 22:07",
+    "date_published": "2022-11-02T21:07:46Z",
+    "content_text": "TIL `@​media not (min-width: 60rem) { … }` doesn't work in Safari, while it works in Chromium and Firefox.\n\nSafari requires a media type, like `all`.\n\nSo here's the \"right\" syntax:\n`@media not all and (min-width: 60rem) { … }`\n\n#CSS #responsive\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/02/1/",
+    "attachments": [],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/10/31/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/10/31/2/",
+    "url": "https://nicolas-hoizey.com/notes/2022/10/31/2/",
+    "lang": "en",
+    "title": "💬 Note from 31 October 2022, 17:42",
+    "date_published": "2022-10-31T16:42:37Z",
+    "content_text": "Would it be useful to add a filter on linked authors to my links page?\n\nFor example, the most linked author is currently @zachleat 😁\nhttps://nicolas-hoizey.com/links/?query=Zach%2520Leatherman\n\n#search\n\n⚓️ https://nicolas-hoizey.com/notes/2022/10/31/2/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2022/10/31/2/links-search-zach-leatherman.jpg",
+        "mime_type": "image/jpg",
+        "title": "I already shared 6 links to Zach Leatherman's contents"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/notes/2022/10/31/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2022/10/31/1/",
+    "url": "https://nicolas-hoizey.com/notes/2022/10/31/1/",
+    "lang": "en",
+    "title": "💬 Note from 31 October 2022, 00:42",
+    "date_published": "2022-10-30T23:42:37Z",
+    "content_text": "> There is not enough interest from the entire ecosystem to continue experimenting with JPEG XL — https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84\n\nI can't believe this, #Chrome is really removing the support for JPEG XL we've been waiting for years! 😡\n\n#image #JPEGXL #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2022/10/31/1/",
+    "attachments": [],
+    "toots": []
+  }
+}
