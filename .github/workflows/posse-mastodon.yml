@@ -1,4 +1,4 @@
-name: POSSE to Mastodon
+name: "POSSE to Mastodon with script"
 on:
   schedule:
     # At every 7th minute from 1 through 59 past every hour
