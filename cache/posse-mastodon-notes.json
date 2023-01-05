@@ -177,7 +177,10 @@
         "title": "A screenshot of a toot where the application used to publish is \"nicolas-hoizey.com\""
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638056822327088"
+    ],
+    "lastTootTimestamp": 1672943983222
   },
   "https://nicolas-hoizey.com/notes/2022/11/18/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/11/18/1/",
