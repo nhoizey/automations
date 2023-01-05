@@ -93,7 +93,10 @@
     "date_published": "2022-12-14T08:48:14Z",
     "content_text": "It's pretty annoying to see the same toot repeatedly on @Mastodon@mastodon.social because everyone is boosting it, even if it's legitimately awesome.\n\nCurrently, a boost of a toot is only posted if at least 40 other toots have been posted since the previous boost of the same toot.\n\nThere is a GitHub issue asking to allow the user to change this number, or set a duration instead:\nhttps://github.com/mastodon/mastodon/issues/18693\n\nPlease vote!\n\n#UX\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/1/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638201431050548"
+    ],
+    "lastTootTimestamp": 1672946191796
   },
   "https://nicolas-hoizey.com/notes/2022/12/13/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/13/1/",
