@@ -144,7 +144,10 @@
         "title": "Screenshot of How HTTPS works"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637801117632449"
+    ],
+    "lastTootTimestamp": 1672940080706
   },
   "https://nicolas-hoizey.com/links/2022/12/03/font-styles-and-font-fallback/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/03/font-styles-and-font-fallback/",
