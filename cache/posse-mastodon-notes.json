@@ -206,7 +206,10 @@
         "title": "A screenshot of Leonardo UI with the background set to white"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638087779372903"
+    ],
+    "lastTootTimestamp": 1672944454803
   },
   "https://nicolas-hoizey.com/notes/2022/11/06/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/11/06/1/",
