@@ -164,7 +164,10 @@
     "date_published": "2022-11-26T10:52:18Z",
     "content_text": "I'm still looking for an alternative to Forestry:\nhttps://forestry.io/blog/tina-cloud-the-next-forestry/\n\nAs Netlify doesn't seem to care for Netlify CMS anymore:\nhttps://answers.netlify.com/t/is-this-project-dead/70988/1\n\nA fork managed by a community might be a good solution, I'll keep an eye on it:\nhttps://staticjscms.netlify.app/\n\n#CMS #Forestry #Netlify\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/26/2/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638158746677700"
+    ],
+    "lastTootTimestamp": 1672945537630
   },
   "https://nicolas-hoizey.com/notes/2022/11/26/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/11/26/1/",
