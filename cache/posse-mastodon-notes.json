@@ -67,7 +67,10 @@
         "title": "Screenshot of a SpeedCurve graph with an incorrect value implying a useless scale"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638119579443808"
+    ],
+    "lastTootTimestamp": 1672944940324
   },
   "https://nicolas-hoizey.com/notes/2022/12/14/2/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/14/2/",
