@@ -74,7 +74,10 @@
     "date_published": "2022-12-14T12:56:37Z",
     "content_text": "I needed a JavaScript way to verify if two arrays contain the same (all different) values.\n\nI then found a better solution for my use case, but it might be useful later, so here it is:\n\n```javascript\nconst sameValues = (array1, array2) =>\n  array1.length === array2.length &&\n  array1.every((element) => array2.includes(element));\n```\n\n#JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/2/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637972859913749"
+    ],
+    "lastTootTimestamp": 1672942701486
   },
   "https://nicolas-hoizey.com/notes/2022/12/14/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/14/1/",
