@@ -1,0 +1,32 @@
+name: "🚨 TEST 🚨 POSSE links to Mastodon with GitHub Action"
+on:
+  schedule:
+    # At every 7th minute from 1 through 59 past every hour
+    # https://crontab.guru/#1/7_*_*_*_*
+    - cron: "1/7 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  Mastodon:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 📥
+        uses: actions/checkout@v3
+
+      - name: POSSE links to Mastodon 🦣
+        uses: nhoizey/github-action-jsonfeed-to-mastodon@v1
+        with:
+          feedUrl: "https://nicolas-hoizey.com/feeds/mastodon/links.json"
+          mastodonInstance: ${{ secrets.TEST_MASTODON_INSTANCE }}
+          mastodonToken: ${{ secrets.TEST_MASTODON_ACCESS_TOKEN }}
+          cacheFile: "posse-mastodon-links.json"
+          cacheTimestampFile: "posse-mastodon-links-timestamp.json"
+          globalDelayToots: 37
+
+      - name: Commit and push 📤
+        uses: stefanzweifel/git-auto-commit-action@v4
