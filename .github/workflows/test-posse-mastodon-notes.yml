@@ -31,5 +31,8 @@ jobs:
           cacheTimestampFile: "posse-mastodon-${{ env.TYPE }}-timestamp.json"
           globalDelayToots: 5
 
+      - name: Pull any changes from Git 📥
+        run: git pull
+
       - name: Commit and push 📤
         uses: stefanzweifel/git-auto-commit-action@v4
