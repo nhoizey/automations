@@ -29,7 +29,10 @@
         "title": "Screenshot of The Performance Inequality Gap, 2023"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638051392111672"
+    ],
+    "lastTootTimestamp": 1672943899645
   },
   "https://nicolas-hoizey.com/links/2022/12/20/beating-latency-on-scalemates-com/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/20/beating-latency-on-scalemates-com/",
