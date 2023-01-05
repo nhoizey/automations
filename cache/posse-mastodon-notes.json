@@ -275,7 +275,10 @@
         "title": "I already shared 6 links to Zach Leatherman's contents"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638232665029935"
+    ],
+    "lastTootTimestamp": 1672946665514
   },
   "https://nicolas-hoizey.com/notes/2022/10/31/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/10/31/1/",
