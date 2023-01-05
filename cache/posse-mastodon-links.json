@@ -191,7 +191,10 @@
         "title": "Screenshot of Why you should have your own website"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638202210266129"
+    ],
+    "lastTootTimestamp": 1672946201434
   },
   "https://nicolas-hoizey.com/links/2022/12/02/transient-frameworks/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/02/transient-frameworks/",
