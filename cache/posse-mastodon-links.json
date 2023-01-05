@@ -77,7 +77,10 @@
         "title": "Screenshot of Browsing with assistive technology videos"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637973761731550"
+    ],
+    "lastTootTimestamp": 1672942715013
   },
   "https://nicolas-hoizey.com/links/2022/12/04/responsive-logo-composition-with-svg/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/04/responsive-logo-composition-with-svg/",
