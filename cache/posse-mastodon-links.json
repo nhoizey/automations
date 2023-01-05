@@ -363,7 +363,10 @@
         "title": "Screenshot of AI Is Not Your Friend"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638271916594957"
+    ],
+    "lastTootTimestamp": 1672947264615
   },
   "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/": {
     "id": "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/",
