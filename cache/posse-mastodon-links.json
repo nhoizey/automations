@@ -121,7 +121,10 @@
         "title": "Screenshot of How do you test a service worker, anyway?"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638310274805007"
+    ],
+    "lastTootTimestamp": 1672947849766
   },
   "https://nicolas-hoizey.com/links/2022/12/04/alt-vs-figcaption/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/04/alt-vs-figcaption/",
