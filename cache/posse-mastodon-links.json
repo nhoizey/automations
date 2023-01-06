@@ -109,9 +109,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638232922740493"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638232922740493",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643303310502560"
     ],
-    "lastTootTimestamp": 1672946670347
+    "lastTootTimestamp": 1673024037579
   },
   "https://nicolas-hoizey.com/links/2022/12/04/how-do-you-test-a-service-worker-anyway/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/04/how-do-you-test-a-service-worker-anyway/",
