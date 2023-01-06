@@ -105,7 +105,10 @@
     "date_published": "2022-02-19T22:55:02Z",
     "content_text": "📓 Maintenant que j'ai publié toute ma série \"miniature\" de l'expo de la semaine dernière, à partir de ce soir, je vous emmène dans un nouveau voyage.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/19/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644332802090056"
+    ],
+    "lastTootTimestamp": 1673039746204
   },
   "https://nicolas-hoizey.com/billets/2022/02/18/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/18/",
