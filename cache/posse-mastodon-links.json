@@ -268,9 +268,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642725609124617"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642725609124617",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643677203473926"
     ],
-    "lastTootTimestamp": 1673015222455
+    "lastTootTimestamp": 1673029742747
   },
   "https://nicolas-hoizey.com/links/2022/11/28/our-web-design-tools-are-holding-us-back/": {
     "id": "https://nicolas-hoizey.com/links/2022/11/28/our-web-design-tools-are-holding-us-back/",
