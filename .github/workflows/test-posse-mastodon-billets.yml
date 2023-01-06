@@ -30,6 +30,7 @@ jobs:
           cacheFile: "posse-mastodon-${{ env.TYPE }}.json"
           cacheTimestampFile: "posse-mastodon-${{ env.TYPE }}-timestamp.json"
           globalDelayToots: 10
+          testMode: true
 
       - name: Pull any changes from Git 📥
         run: git pull
