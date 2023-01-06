@@ -239,7 +239,10 @@
     "date_published": "2022-01-15T22:47:24Z",
     "content_text": "📓 David s'est jeté à l'eau et a lancé son propre site photo et vidéo ! 🎉\n\n⚓️ https://nicolas-hoizey.com/billets/2022/01/15/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644276833452400"
+    ],
+    "lastTootTimestamp": 1673038892210
   },
   "https://nicolas-hoizey.com/billets/2022/01/13/": {
     "id": "https://nicolas-hoizey.com/billets/2022/01/13/",
