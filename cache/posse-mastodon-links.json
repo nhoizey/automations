@@ -392,9 +392,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638271916594957"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638271916594957",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643539900968790"
     ],
-    "lastTootTimestamp": 1672947264615
+    "lastTootTimestamp": 1673027647542
   },
   "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/": {
     "id": "https://nicolas-hoizey.com/links/2023/01/03/priority-hints-and-optimizing-lcp/",
