@@ -73,9 +73,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638018372678791"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638018372678791",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643736877855084"
     ],
-    "lastTootTimestamp": 1672943395787
+    "lastTootTimestamp": 1673030653402
   },
   "https://nicolas-hoizey.com/links/2022/12/05/browsing-with-assistive-technology-videos/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/05/browsing-with-assistive-technology-videos/",
