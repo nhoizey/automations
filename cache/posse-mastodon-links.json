@@ -243,9 +243,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638158873942398"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638158873942398",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643258431859552"
     ],
-    "lastTootTimestamp": 1672945539580
+    "lastTootTimestamp": 1673023353772
   },
   "https://nicolas-hoizey.com/links/2022/11/29/responsive-images-on-shopify-with-liquid/": {
     "id": "https://nicolas-hoizey.com/links/2022/11/29/responsive-images-on-shopify-with-liquid/",
