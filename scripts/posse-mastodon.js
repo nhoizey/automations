@@ -176,8 +176,8 @@ const main = async () => {
   let result = await Promise.all(
     [
       // "https://nicolas-hoizey.com/feeds/mastodon/links.json",
-      "https://nicolas-hoizey.com/feeds/mastodon/notes.json",
-      "https://nicolas-hoizey.com/feeds/mastodon/billets.json",
+      // "https://nicolas-hoizey.com/feeds/mastodon/notes.json",
+      // "https://nicolas-hoizey.com/feeds/mastodon/billets.json",
     ].map(async (feedUrl) => {
       console.log(`Fetching ${feedUrl} …`);
       return fetch(feedUrl)

@@ -1,13 +1,13 @@
-name: "POSSE links to Mastodon"
+name: "POSSE notes to Mastodon"
 on:
   schedule:
-    # At every 16th minute from 1 through 59 past every hour
-    # https://crontab.guru/#1/16_*_*_*_*
-    - cron: "1/16 * * * *"
+    # At every 16th minute from 5 through 59 past every hour
+    # https://crontab.guru/#1/7_*_*_*_*
+    - cron: "5/16 * * * *"
   workflow_dispatch:
 
 env:
-  TYPE: "links"
+  TYPE: "notes"
 
 concurrency:
   group: ${{ github.workflow }}
