@@ -62,7 +62,10 @@
     "date_published": "2022-02-25T17:17:05Z",
     "content_text": "📓 Oh oui, oh oui, Véro veut se lancer à son tour dans les Webmentions pour son site !\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/25/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644919517855288"
+    ],
+    "lastTootTimestamp": 1673048698801
   },
   "https://nicolas-hoizey.com/billets/2022/02/24/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/24/",
