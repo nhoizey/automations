@@ -63,7 +63,10 @@
     "date_published": "2022-02-24T14:54:01Z",
     "content_text": "📓 Je ne me suis jamais penché sur le sujet de la retraireretraite sérieusement, ayant juste en tête qu'elle est encore loin.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/24/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644040489347809"
+    ],
+    "lastTootTimestamp": 1673035285915
   },
   "https://nicolas-hoizey.com/billets/2022/02/23/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/23/",
