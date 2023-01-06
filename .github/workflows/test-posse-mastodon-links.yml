@@ -1,9 +1,9 @@
 name: "🚨 TEST 🚨 POSSE links to Mastodon with GitHub Action"
 on:
-  # schedule:
-  # At every 7th minute from 1 through 59 past every hour
-  # https://crontab.guru/#1/7_*_*_*_*
-  # - cron: "2/10 * * * *"
+  schedule:
+    # At every 7th minute from 1 through 59 past every hour
+    # https://crontab.guru/#1/7_*_*_*_*
+    - cron: "2/10 * * * *"
   workflow_dispatch:
 
 env:
