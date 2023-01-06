@@ -147,9 +147,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637534939434521"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637534939434521",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643216092234270"
     ],
-    "lastTootTimestamp": 1672936019123
+    "lastTootTimestamp": 1673022706647
   },
   "https://nicolas-hoizey.com/links/2022/12/04/how-https-works/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/04/how-https-works/",
