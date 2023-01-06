@@ -137,7 +137,10 @@
         "title": "Screenshot of a graph from the Google Search Console showing a great improvement of Core Web Vitals"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642763112674567"
+    ],
+    "lastTootTimestamp": 1673015794666
   },
   "https://nicolas-hoizey.com/notes/2022/12/05/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/05/1/",
