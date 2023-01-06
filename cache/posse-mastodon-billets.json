@@ -210,7 +210,10 @@
     "date_published": "2022-01-16T23:18:29Z",
     "content_text": "📓 Étrange hasard, magie de la sérendipité, je lisais « ainsi va la vie, en attendant le tsunami » chez Karl juste quelques minutes après avoir publié mon billet à propos de l'éruption…\n\n⚓️ https://nicolas-hoizey.com/billets/2022/01/17/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644100083872237"
+    ],
+    "lastTootTimestamp": 1673036196050
   },
   "https://nicolas-hoizey.com/billets/2022/01/16/": {
     "id": "https://nicolas-hoizey.com/billets/2022/01/16/",
