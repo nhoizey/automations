@@ -321,9 +321,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642962743806242"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642962743806242",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643394630458205"
     ],
-    "lastTootTimestamp": 1673018840850
+    "lastTootTimestamp": 1673025430901
   },
   "https://nicolas-hoizey.com/links/2022/11/26/it-s-all-about-that-space/": {
     "id": "https://nicolas-hoizey.com/links/2022/11/26/it-s-all-about-that-space/",
