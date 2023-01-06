@@ -33,9 +33,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638051392111672"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638051392111672",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643430339961255"
     ],
-    "lastTootTimestamp": 1672943899645
+    "lastTootTimestamp": 1673025975793
   },
   "https://nicolas-hoizey.com/links/2022/12/20/beating-latency-on-scalemates-com/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/20/beating-latency-on-scalemates-com/",
