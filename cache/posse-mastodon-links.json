@@ -131,9 +131,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638310274805007"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638310274805007",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643500143286604"
     ],
-    "lastTootTimestamp": 1672947849766
+    "lastTootTimestamp": 1673027040956
   },
   "https://nicolas-hoizey.com/links/2022/12/04/alt-vs-figcaption/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/04/alt-vs-figcaption/",
