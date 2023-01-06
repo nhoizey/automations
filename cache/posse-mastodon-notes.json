@@ -121,7 +121,10 @@
         "title": "Screencast of the bug in SVGOMG"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642794028096281"
+    ],
+    "lastTootTimestamp": 1673016266750
   },
   "https://nicolas-hoizey.com/notes/2022/12/12/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/12/12/1/",
