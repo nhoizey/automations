@@ -20,7 +20,10 @@
     "date_published": "2022-05-17T22:33:41Z",
     "content_text": "📓 J'avais prévenu que je ne serai pas forcément très prolixe dans ce journal, la preuve est faite, mon billet précédent a plus de 2 mois… 😅\n\n⚓️ https://nicolas-hoizey.com/billets/2022/05/18/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644211953621670"
+    ],
+    "lastTootTimestamp": 1673037902222
   },
   "https://nicolas-hoizey.com/billets/2022/03/11/": {
     "id": "https://nicolas-hoizey.com/billets/2022/03/11/",
