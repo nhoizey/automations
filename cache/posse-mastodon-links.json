@@ -251,7 +251,10 @@
         "title": "Screenshot of Responsive images on Shopify with Liquid"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642725609124617"
+    ],
+    "lastTootTimestamp": 1673015222455
   },
   "https://nicolas-hoizey.com/links/2022/11/28/our-web-design-tools-are-holding-us-back/": {
     "id": "https://nicolas-hoizey.com/links/2022/11/28/our-web-design-tools-are-holding-us-back/",
