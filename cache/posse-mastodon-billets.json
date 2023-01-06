@@ -199,7 +199,10 @@
     "date_published": "2022-01-21T17:01:38Z",
     "content_text": "📓 Bon bin voilà… 💉 + 💉 + 💉 + 🦠 🤷‍♂️\n\n⚓️ https://nicolas-hoizey.com/billets/2022/01/21/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644624366037745"
+    ],
+    "lastTootTimestamp": 1673044195180
   },
   "https://nicolas-hoizey.com/billets/2022/01/18/": {
     "id": "https://nicolas-hoizey.com/billets/2022/01/18/",
