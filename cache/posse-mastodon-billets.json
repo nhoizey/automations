@@ -83,7 +83,10 @@
     "date_published": "2022-02-22T21:07:53Z",
     "content_text": "📓 Cool, Véro lance une nouvelle section dans son site pour des petites notes, ça laisse espérer plus de régularité dans les publications. 🎉\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/22/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643976248046986"
+    ],
+    "lastTootTimestamp": 1673034305680
   },
   "https://nicolas-hoizey.com/billets/2022/02/19/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/19/",
