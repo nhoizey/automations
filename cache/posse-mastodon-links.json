@@ -53,9 +53,10 @@
       }
     ],
     "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642877250558223"
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642877250558223",
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109643709362474880"
     ],
-    "lastTootTimestamp": 1673017536451
+    "lastTootTimestamp": 1673030233381
   },
   "https://nicolas-hoizey.com/links/2022/12/13/svg-sprites-oldschool-modern-unknown-and-forgotten/": {
     "id": "https://nicolas-hoizey.com/links/2022/12/13/svg-sprites-oldschool-modern-unknown-and-forgotten/",
