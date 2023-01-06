@@ -150,7 +150,10 @@
     "date_published": "2022-02-11T10:49:06Z",
     "content_text": "📓 Comme je disais, c'est pas toujours simple de chercher l'indépendance des grosses plateformes.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/11/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644511747122143"
+    ],
+    "lastTootTimestamp": 1673042476709
   },
   "https://nicolas-hoizey.com/billets/2022/02/10/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/10/",
