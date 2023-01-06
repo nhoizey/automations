@@ -280,7 +280,10 @@
     "date_published": "2022-11-02T21:07:46Z",
     "content_text": "TIL `@​media not (min-width: 60rem) { … }` doesn't work in Safari, while it works in Chromium and Firefox.\n\nSafari requires a media type, like `all`.\n\nSo here's the \"right\" syntax:\n`@media not all and (min-width: 60rem) { … }`\n\n#CSS #responsive\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/02/1/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642831418750803"
+    ],
+    "lastTootTimestamp": 1673016836961
   },
   "https://nicolas-hoizey.com/notes/2022/10/31/2/": {
     "id": "https://nicolas-hoizey.com/notes/2022/10/31/2/",
