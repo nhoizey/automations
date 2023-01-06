@@ -124,7 +124,10 @@
         "title": "Mes photos sur un des murs de l'exposition"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644385495631057"
+    ],
+    "lastTootTimestamp": 1673040550302
   },
   "https://nicolas-hoizey.com/billets/2022/02/14/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/14/",
