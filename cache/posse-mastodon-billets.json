@@ -70,7 +70,7 @@
     "lang": "fr",
     "title": "📓 Billet du 24 février 2022",
     "date_published": "2022-02-24T14:54:01Z",
-    "content_text": "📓 Je ne me suis jamais penché sur le sujet de la retraireretraite sérieusement, ayant juste en tête qu'elle est encore loin.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/24/",
+    "content_text": "📓 Je ne me suis jamais penché sur le sujet de la retraite sérieusement, ayant juste en tête qu'elle est encore loin.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/24/",
     "attachments": [],
     "toots": [
       "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644040489347809"
@@ -140,7 +140,10 @@
     "date_published": "2022-02-14T20:58:03Z",
     "content_text": "📓 Karl indique que mettre à jour les données de compatibilité sur MDN est simple. Mathieu m'avait donné le même lien. C'est sûr, quand on sait que c'est dans le dépôt browser-compat-…\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/14/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644684124992963"
+    ],
+    "lastTootTimestamp": 1673045107145
   },
   "https://nicolas-hoizey.com/billets/2022/02/11/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/11/",
