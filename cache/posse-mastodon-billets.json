@@ -70,7 +70,7 @@
     "lang": "fr",
     "title": "📓 Billet du 24 février 2022",
     "date_published": "2022-02-24T14:54:01Z",
-    "content_text": "📓 Je ne me suis jamais penché sur le sujet de la retraireretraite sérieusement, ayant juste en tête qu'elle est encore loin.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/24/",
+    "content_text": "📓 Je ne me suis jamais penché sur le sujet de la retraite sérieusement, ayant juste en tête qu'elle est encore loin.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/24/",
     "attachments": [],
     "toots": [
       "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644040489347809"
@@ -195,7 +195,10 @@
         "title": "La vue 3D de Google Maps"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644857957854474"
+    ],
+    "lastTootTimestamp": 1673047759509
   },
   "https://nicolas-hoizey.com/billets/2022/01/21/": {
     "id": "https://nicolas-hoizey.com/billets/2022/01/21/",
