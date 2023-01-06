@@ -13,9 +13,7 @@
         "title": "Three different scores: 44, 59, 19"
       }
     ],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638271526234299"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109553245483640494"],
     "lastTootTimestamp": 1672947258499
   },
   "https://nicolas-hoizey.com/notes/2022/12/18/2/": {
@@ -26,9 +24,7 @@
     "date_published": "2022-12-18T20:34:29Z",
     "content_text": "I wonder why there are not so many Web games using mostly HTML, CSS and #SVG for the UI, with all the #responsive power they have… 🤷‍♂️\n\nThis live demo is more than 6 years old: https://play.esviji.com/wow/\n\n(Remove `wow` at the end to really play… 😅)\n\n#esviji #game\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/18/2/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638309989078180"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109536677137488284"],
     "lastTootTimestamp": 1672947845421
   },
   "https://nicolas-hoizey.com/notes/2022/12/18/1/": {
@@ -39,9 +35,7 @@
     "date_published": "2022-12-18T18:21:17Z",
     "content_text": "> going forward, Twitter will no longer allow free promotion of specific social media platforms on Twitter\n> — Twitter's promotion of alternative social platforms policy\n\nEmon Lusk is so afraid. 🥳\n\n#Twitter\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/18/1/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638395520963972"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109536108994801227"],
     "lastTootTimestamp": 1672949150564
   },
   "https://nicolas-hoizey.com/notes/2022/12/16/1/": {
@@ -52,9 +46,7 @@
     "date_published": "2022-12-16T17:36:47Z",
     "content_text": "While we wait for browsers to implement the `text-wrap: balance;` #CSS property and value for text (pleeeeeease! 🙏), I may have created a silly — and probably sub-optimal — function to do it with HTML block elements:\n\nhttps://codepen.io/nhoizey/pen/mdjbrVx\n\nTell me what you think!\n\nBut why? Just because a colleague needed it, we could not find a solution in pure CSS, and I like challenges… 😅\n\n#Flexbox #JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/16/1/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638019788878306"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109524879057005804"],
     "lastTootTimestamp": 1672943417318
   },
   "https://nicolas-hoizey.com/notes/2022/12/14/3/": {
@@ -76,9 +68,7 @@
         "title": "Screenshot of a SpeedCurve graph with an incorrect value implying a useless scale"
       }
     ],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638119579443808"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109512986069913809"],
     "lastTootTimestamp": 1672944940324
   },
   "https://nicolas-hoizey.com/notes/2022/12/14/2/": {
@@ -89,9 +79,7 @@
     "date_published": "2022-12-14T12:56:37Z",
     "content_text": "I needed a JavaScript way to verify if two arrays contain the same (all different) values.\n\nI then found a better solution for my use case, but it might be useful later, so here it is:\n\n```javascript\nconst sameValues = (array1, array2) =>\n  array1.length === array2.length &&\n  array1.every((element) => array2.includes(element));\n```\n\n#JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/2/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637972859913749"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109512217325909622"],
     "lastTootTimestamp": 1672942701486
   },
   "https://nicolas-hoizey.com/notes/2022/12/14/1/": {
@@ -102,9 +90,7 @@
     "date_published": "2022-12-14T08:48:14Z",
     "content_text": "It's pretty annoying to see the same toot repeatedly on @Mastodon@mastodon.social because everyone is boosting it, even if it's legitimately awesome.\n\nCurrently, a boost of a toot is only posted if at least 40 other toots have been posted since the previous boost of the same toot.\n\nThere is a GitHub issue asking to allow the user to change this number, or set a duration instead:\nhttps://github.com/mastodon/mastodon/issues/18693\n\nPlease vote!\n\n#UX\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/14/1/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638201431050548"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109511286867385094"],
     "lastTootTimestamp": 1672946191796
   },
   "https://nicolas-hoizey.com/notes/2022/12/13/1/": {
@@ -121,9 +107,7 @@
         "title": "Screencast of the bug in SVGOMG"
       }
     ],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642794028096281"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109506109498449814"],
     "lastTootTimestamp": 1673016266750
   },
   "https://nicolas-hoizey.com/notes/2022/12/12/1/": {
@@ -140,9 +124,7 @@
         "title": "Screenshot of a graph from the Google Search Console showing a great improvement of Core Web Vitals"
       }
     ],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642763112674567"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109500200856680207"],
     "lastTootTimestamp": 1673015794666
   },
   "https://nicolas-hoizey.com/notes/2022/12/05/1/": {
@@ -153,9 +135,7 @@
     "date_published": "2022-12-05T16:31:06Z",
     "content_text": "I always forget how to extract the content of matching HTML tags with a REGEX, so here it is:\n\n```javascript\ncontent.match(/<pre>(((?!</pre>).)*)</pre>/gs)\n```\n\nIt uses negative lookahead.\n\n(I know I should use the DOM API instead… 🤷‍♂️)\n\n#regex\n\n⚓️ https://nicolas-hoizey.com/notes/2022/12/05/1/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642589575601239"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109462149716423047"],
     "lastTootTimestamp": 1673013146715
   },
   "https://nicolas-hoizey.com/notes/2022/11/30/1/": {
@@ -172,9 +152,7 @@
         "title": "3 design tokens have their names truncated, so they look the same"
       }
     ],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109637856210296738"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109433476889824869"],
     "lastTootTimestamp": 1672940921597
   },
   "https://nicolas-hoizey.com/notes/2022/11/26/2/": {
@@ -185,9 +163,7 @@
     "date_published": "2022-11-26T10:52:18Z",
     "content_text": "I'm still looking for an alternative to Forestry:\nhttps://forestry.io/blog/tina-cloud-the-next-forestry/\n\nAs Netlify doesn't seem to care for Netlify CMS anymore:\nhttps://answers.netlify.com/t/is-this-project-dead/70988/1\n\nA fork managed by a community might be a good solution, I'll keep an eye on it:\nhttps://staticjscms.netlify.app/\n\n#CMS #Forestry #Netlify\n\n⚓️ https://nicolas-hoizey.com/notes/2022/11/26/2/",
     "attachments": [],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638158746677700"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109446736026335686"],
     "lastTootTimestamp": 1672945537630
   },
   "https://nicolas-hoizey.com/notes/2022/11/26/1/": {
@@ -204,9 +180,7 @@
         "title": "A screenshot of a toot where the application used to publish is \"nicolas-hoizey.com\""
       }
     ],
-    "toots": [
-      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638056822327088"
-    ],
+    "toots": ["https://mamot.fr/@nhoizey/109448565897373232"],
     "lastTootTimestamp": 1672943983222
   },
   "https://nicolas-hoizey.com/notes/2022/11/18/1/": {
