@@ -1,9 +1,9 @@
 name: "🚨 TEST 🚨 POSSE notes to Mastodon with GitHub Action"
 on:
-  # schedule:
-  # At every 7th minute from 1 through 59 past every hour
-  # https://crontab.guru/#1/7_*_*_*_*
-  # - cron: "1/10 * * * *"
+  schedule:
+    # At every 7th minute from 1 through 59 past every hour
+    # https://crontab.guru/#1/7_*_*_*_*
+    - cron: "1/10 * * * *"
   workflow_dispatch:
 
 env:
@@ -29,7 +29,8 @@ jobs:
           mastodonToken: ${{ secrets.TEST_MASTODON_ACCESS_TOKEN }}
           cacheFile: "posse-mastodon-${{ env.TYPE }}.json"
           cacheTimestampFile: "posse-mastodon-${{ env.TYPE }}-timestamp.json"
-          globalDelayToots: 5
+          globalDelayToots: 60
+          testMode: true
 
       - name: Pull any changes from Git 📥
         run: git pull
