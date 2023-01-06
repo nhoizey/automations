@@ -389,5 +389,24 @@
       "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109638113510399142"
     ],
     "lastTootTimestamp": 1672944847395
+  },
+  "https://nicolas-hoizey.com/links/2023/01/06/let-s-think-about-quality-for-the-web/": {
+    "id": "https://nicolas-hoizey.com/links/2023/01/06/let-s-think-about-quality-for-the-web/",
+    "url": "https://nicolas-hoizey.com/links/2023/01/06/let-s-think-about-quality-for-the-web/",
+    "lang": "en",
+    "title": "🔗 Let’s think about Quality, for the web",
+    "date_published": "2023-01-06T10:39:47Z",
+    "content_text": "🔗 Let’s think about Quality, for the web\nby @joachim@boitam.eu\n\n#quality #Opquast \n\n⚓️ https://nicolas-hoizey.com/links/2023/01/06/let-s-think-about-quality-for-the-web/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://blog.professeurjoachim.com/billet/2018-12-04-lets-think-about-quality-for-the-web",
+        "mime_type": "image/png",
+        "title": "Screenshot of Let’s think about Quality, for the web"
+      }
+    ],
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642589667983879"
+    ],
+    "lastTootTimestamp": 1673013148526
   }
 }
