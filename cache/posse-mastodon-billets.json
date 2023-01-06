@@ -241,7 +241,10 @@
     "date_published": "2022-01-16T22:53:27Z",
     "content_text": "📓 L'impressionnante éruption du Hunga Tonga dans le Pacifique[1], et surtout les alertes au tsunami qui ont suivi dans plusieurs pays, ont été l'occasion d'expliquer aux enfants ce qu…\n\n⚓️ https://nicolas-hoizey.com/billets/2022/01/16/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644570427092965"
+    ],
+    "lastTootTimestamp": 1673043372114
   },
   "https://nicolas-hoizey.com/billets/2022/01/15/": {
     "id": "https://nicolas-hoizey.com/billets/2022/01/15/",
