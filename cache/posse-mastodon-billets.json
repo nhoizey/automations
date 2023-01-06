@@ -49,7 +49,10 @@
         "title": "La copie d'écran de Karl avec un message particulier dans la console"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644448419792632"
+    ],
+    "lastTootTimestamp": 1673041510429
   },
   "https://nicolas-hoizey.com/billets/2022/02/25/": {
     "id": "https://nicolas-hoizey.com/billets/2022/02/25/",
