@@ -270,7 +270,10 @@
         "title": "NS_ERROR_INTERCEPTION_FAILED errors in Firefox network panel"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109642877344255692"
+    ],
+    "lastTootTimestamp": 1673017537742
   },
   "https://nicolas-hoizey.com/notes/2022/11/02/1/": {
     "id": "https://nicolas-hoizey.com/notes/2022/11/02/1/",
