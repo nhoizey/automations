@@ -7,7 +7,10 @@
     "date_published": "2022-06-03T08:28:58Z",
     "content_text": "📓 Ça y est, je suis inscrit pour Paris Web 2022 ! 🎉\n\n⚓️ https://nicolas-hoizey.com/billets/2022/06/03/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644150897330276"
+    ],
+    "lastTootTimestamp": 1673036970596
   },
   "https://nicolas-hoizey.com/billets/2022/05/18/": {
     "id": "https://nicolas-hoizey.com/billets/2022/05/18/",
