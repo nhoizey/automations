@@ -172,7 +172,10 @@
     "date_published": "2022-02-10T21:56:48Z",
     "content_text": "📓 J'ai bien fait en lançant ces billets d'annoncer que je ne serais probablement pas très prolixe…\n\n⚓️ https://nicolas-hoizey.com/billets/2022/02/10/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109644993563209030"
+    ],
+    "lastTootTimestamp": 1673049828670
   },
   "https://nicolas-hoizey.com/billets/2022/01/25/": {
     "id": "https://nicolas-hoizey.com/billets/2022/01/25/",
