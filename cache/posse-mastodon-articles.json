@@ -238,5 +238,17 @@
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
     "lastTootTimestamp": 1673101984113
+  },
+  "https://nicolas-hoizey.com/articles/2023/01/07/let-s-posse-to-mastodon-with-a-json-feed-and-a-github-action/": {
+    "id": "https://nicolas-hoizey.com/articles/2023/01/07/let-s-posse-to-mastodon-with-a-json-feed-and-a-github-action/",
+    "url": "https://nicolas-hoizey.com/articles/2023/01/07/let-s-posse-to-mastodon-with-a-json-feed-and-a-github-action/",
+    "lang": "en",
+    "title": "🖋 Let's POSSE to Mastodon with a JSON Feed and a GitHub Action",
+    "date_published": "2023-01-07T12:49:09Z",
+    "content_text": "🖋 “Let's POSSE to Mastodon with a JSON Feed and a GitHub Action”\n\nAfter building a Node script for my own POSSE needs, I thought it would be good if other people could also use it. I knew not many people would be able to use the script as-is, so I built a GitHub Action that is much simpler to use, without losing any feature, even gaining some!\n\n📅 7 January 2023\n\n#IndieWeb #POSSE #Mastodon #JSONFeed #GitHub \n\n⚓️ https://nicolas-hoizey.com/articles/2023/01/07/let-s-posse-to-mastodon-with-a-json-feed-and-a-github-action/",
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109648473982824878"
+    ],
+    "lastTootTimestamp": 1673102935666
   }
 }
