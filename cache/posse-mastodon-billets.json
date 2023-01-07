@@ -33,7 +33,10 @@
     "date_published": "2022-03-11T18:51:52Z",
     "content_text": "📓 J'ai commencé le 19 février à partager quelques photos de Géorgie datant de 2018, quelques jours seulement avant l'invasion de l'Ukraine par la Russie, le 24 février 2022.\n\n⚓️ https://nicolas-hoizey.com/billets/2022/03/11/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mastodon.hsablonniere.com/users/test1g6a1g8x/statuses/109645074484293626"
+    ],
+    "lastTootTimestamp": 1673051063394
   },
   "https://nicolas-hoizey.com/billets/2022/03/08/": {
     "id": "https://nicolas-hoizey.com/billets/2022/03/08/",
