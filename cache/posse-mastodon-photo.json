@@ -1036,7 +1036,10 @@
         "title": "Photo titled: Light rays"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109676315763954003"
+    ],
+    "lastTootTimestamp": 1673527767534
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/great-spotted-woodpecker/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/great-spotted-woodpecker/",
