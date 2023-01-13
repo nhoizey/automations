@@ -470,5 +470,40 @@
       "https://mamot.fr/users/nhoizey/statuses/109647654627783228"
     ],
     "lastTootTimestamp": 1673090433451
+  },
+  "https://nicolas-hoizey.com/links/2023/01/13/can-i-get-an-encore-spotify-s-design-system-three-years-on/": {
+    "id": "https://nicolas-hoizey.com/links/2023/01/13/can-i-get-an-encore-spotify-s-design-system-three-years-on/",
+    "url": "https://nicolas-hoizey.com/links/2023/01/13/can-i-get-an-encore-spotify-s-design-system-three-years-on/",
+    "lang": "en",
+    "title": "🔗 Can I get an Encore? Spotify’s Design System, Three Years On",
+    "date_published": "2023-01-13T10:17:12Z",
+    "content_text": "🔗 “Can I get an Encore? Spotify’s Design System, Three Years On”\n\n#DesignSystem #DesignTokens \n\n⚓️ https://nicolas-hoizey.com/links/2023/01/13/can-i-get-an-encore-spotify-s-design-system-three-years-on/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://spotify.design/article/can-i-get-an-encore-spotifys-design-system-three-years-on",
+        "mime_type": "image/png",
+        "title": "Screenshot of Can I get an Encore? Spotify’s Design System, Three Years On"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/01/12/javascript-community/": {
+    "id": "https://nicolas-hoizey.com/links/2023/01/12/javascript-community/",
+    "url": "https://nicolas-hoizey.com/links/2023/01/12/javascript-community/",
+    "lang": "en",
+    "title": "🔗 JavaScript, Community",
+    "date_published": "2023-01-12T16:06:29Z",
+    "content_text": "🔗 “JavaScript, Community” by @zachleat@zachleat.com\n\n#JavaScript \n\n⚓️ https://nicolas-hoizey.com/links/2023/01/12/javascript-community/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zachleat.com/web/javascript-community/",
+        "mime_type": "image/png",
+        "title": "Screenshot of JavaScript, Community"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109681690435323649"
+    ],
+    "lastTootTimestamp": 1673609778508
   }
 }
