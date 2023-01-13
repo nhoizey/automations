@@ -335,5 +335,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109645202981772757"
     ],
     "lastTootTimestamp": 1673053024113
+  },
+  "https://nicolas-hoizey.com/notes/2023/01/13/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/01/13/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/01/13/1/",
+    "lang": "en",
+    "title": "💬 Note from 13 January 2023, 22:23",
+    "date_published": "2023-01-13T21:23:16Z",
+    "content_text": "For language changes inside a paragraph, MDN suggests we can use the `i` element:\n<https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i>\n\nThat's what I thought was one of the new use cases for `i`.\n\nA @w3c@w3c.social page about “Declaring language in HTML” (so @webi18n@w3c.social ?) says we should use a `span`, `div` or `bdi`:\n<https://www.w3.org/International/questions/qa-html-language-declarations.en#usingspan>\n\nSo no `i` after all?\n\n#HTML #language #MDN #W3C\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/13/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109684123798213982"
+    ],
+    "lastTootTimestamp": 1673646908698
   }
 }
