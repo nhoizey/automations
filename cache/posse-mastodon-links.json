@@ -508,5 +508,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109681690435323649"
     ],
     "lastTootTimestamp": 1673609778508
+  },
+  "https://nicolas-hoizey.com/links/2023/01/13/the-top-five-static-site-generators-for-2023-and-when-to-use-them/": {
+    "id": "https://nicolas-hoizey.com/links/2023/01/13/the-top-five-static-site-generators-for-2023-and-when-to-use-them/",
+    "url": "https://nicolas-hoizey.com/links/2023/01/13/the-top-five-static-site-generators-for-2023-and-when-to-use-them/",
+    "lang": "en",
+    "title": "🔗 The Top Five Static Site Generators for 2023 (and when to use them!)",
+    "date_published": "2023-01-13T19:07:15Z",
+    "content_text": "🔗 “The Top Five Static Site Generators for 2023 (and when to use them!)” by @avidlarge@fosstodon.org @cloudcannon@techhub.social\n\n#Eleventy \n\n⚓️ https://nicolas-hoizey.com/links/2023/01/13/the-top-five-static-site-generators-for-2023-and-when-to-use-them/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cloudcannon.com/blog/the-top-five-static-site-generators-for-2023-and-when-to-use-them/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The Top Five Static Site Generators for 2023 (and when to use them!)"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109683515783008197"
+    ],
+    "lastTootTimestamp": 1673637631095
   }
 }
