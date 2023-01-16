@@ -758,7 +758,10 @@
         "title": "Photo titled: Ancient Gods are in a bad mood"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109698964624447006"
+    ],
+    "lastTootTimestamp": 1673873361736
   },
   "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/chung-wui-mansion/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/chung-wui-mansion/",
