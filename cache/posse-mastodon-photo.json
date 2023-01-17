@@ -515,7 +515,10 @@
         "title": "Photo titled: Holy Trinity Cathedral of Tbilisi"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109704624589962774"
+    ],
+    "lastTootTimestamp": 1673959725979
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/chreli-abano/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/chreli-abano/",
@@ -5199,6 +5202,38 @@
         "url": "https://nicolas-hoizey.photo/photos/mangrove-tree-in-south-new-caledonia/small.jpg",
         "mime_type": "image/jpeg",
         "title": "Photo titled: Mangrove tree in south New Caledonia"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/": {
+    "id": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+    "url": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+    "language": "en",
+    "title": "Graphite in Batignolles",
+    "date_published": "2019-12-02T14:12:00Z",
+    "content_text": "“Graphite in Batignolles”\n\nCet immeuble de bureaux noir dans la rue Mstislav-Rostropovitch du nouveau quartier Clichy-Batignolles de Paris s'appelle « Graphite ».\n\nOVH Cloud, leader de l’hébergement et du Cloud, y a installé ses bureaux Parisiens à partir de 2018.\n\n📅 2nd December 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 27mm f/2.8\n🎞️ ISO 160, ƒ/9, 1/70s\n\n#Urban #Architecture #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/graphite-in-batignolles/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Graphite in Batignolles"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/": {
+    "id": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+    "url": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+    "language": "en",
+    "title": "Unic in Batignolles",
+    "date_published": "2019-12-02T14:12:00Z",
+    "content_text": "“Unic in Batignolles”\n\nAt number 22 of Mstislav-Rostropovitch street in the new Clichy-Batignolles district of Paris, this “Unic” apartment building was designed by Chinese architect Ma Yansong in collaboration with French architect Christian Biecher.\n\nCompleted in 2019, it…\n\n📅 2nd December 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 27mm f/2.8\n🎞️ ISO 160, ƒ/9, 1/350s\n\n#Urban #Architecture #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/unic-in-batignolles/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Unic in Batignolles"
       }
     ],
     "toots": []
