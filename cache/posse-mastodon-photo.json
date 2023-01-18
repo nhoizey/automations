@@ -1777,7 +1777,10 @@
         "title": "Photo titled: Mud lover"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109710283398327273"
+    ],
+    "lastTootTimestamp": 1674046072492
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/laherez/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/laherez/",
