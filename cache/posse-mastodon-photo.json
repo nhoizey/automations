@@ -2982,7 +2982,10 @@
         "title": "Photo titled: Newborn African buffalo"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109715949542725649"
+    ],
+    "lastTootTimestamp": 1674132531035
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/nothing-to-see-or-maybe/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/nothing-to-see-or-maybe/",
