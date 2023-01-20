@@ -4641,7 +4641,10 @@
         "title": "Photo titled: Strobe"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109721610261547217"
+    ],
+    "lastTootTimestamp": 1674218906816
   },
   "https://nicolas-hoizey.photo/galleries/portraits/studio/uncertainty/": {
     "id": "https://nicolas-hoizey.photo/galleries/portraits/studio/uncertainty/",
