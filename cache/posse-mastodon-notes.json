@@ -348,5 +348,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109684123798213982"
     ],
     "lastTootTimestamp": 1673646908698
+  },
+  "https://nicolas-hoizey.com/notes/2023/01/23/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/01/23/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/01/23/1/",
+    "lang": "en",
+    "title": "💬 Note from 23 January 2023, 23:37",
+    "date_published": "2023-01-23T22:37:49Z",
+    "content_text": "Large photos in photo pages of my photography site are now progressive JPEGs so that you can see them earlier, even if they're larger than with AVIF or WebP:\n\nThanks to Cloudinary and my responsive images plugin for Eleventy, it took me 10 seconds! 😍\n\nI wish Google didn't kill JPEG-XL… 😭\n\nI also wish Largest Contenful Paint didn't wait for the full progressive image to be downloaded and rendered.\n\n#image #performance #photography\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/23/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/01/23/1/nicolas-hoizey-photo-progressive-jpeg.jpg",
+        "mime_type": "image/jpg",
+        "title": "Screenshot of a page with a photo partially loaded"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109740982797516411"
+    ],
+    "lastTootTimestamp": 1674514508473
   }
 }
