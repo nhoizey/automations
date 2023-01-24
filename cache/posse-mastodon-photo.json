@@ -256,7 +256,10 @@
         "title": "Photo titled: Traigh beaches"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109744259039037272"
+    ],
+    "lastTootTimestamp": 1674564499683
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/at-loch-nan-uamh-s-end/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/at-loch-nan-uamh-s-end/",
