@@ -2144,7 +2144,10 @@
         "title": "Photo titled: Lesser blue-eared starling"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109749921630074542"
+    ],
+    "lastTootTimestamp": 1674650903929
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/pied-kingfisher-in-lake-nakuru-national-park-kenya/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/pied-kingfisher-in-lake-nakuru-national-park-kenya/",
