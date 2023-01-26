@@ -355,7 +355,7 @@
     "lang": "en",
     "title": "💬 Note from 23 January 2023, 23:37",
     "date_published": "2023-01-23T22:37:49Z",
-    "content_text": "Large photos in photo pages of my photography site are now progressive JPEGs so that you can see them earlier, even if they're larger than with AVIF or WebP:\n\nThanks to Cloudinary and my responsive images plugin for Eleventy, it took me 10 seconds! 😍\n\nI wish Google didn't kill JPEG-XL… 😭\n\nI also wish Largest Contenful Paint didn't wait for the full progressive image to be downloaded and rendered.\n\n#image #performance #photography\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/23/1/",
+    "content_text": "Large photos in photo pages of my photography site are now progressive JPEGs so that you can see them earlier, even if they weight more than with AVIF or WebP:\n\nThanks to Cloudinary and my responsive images plugin for Eleventy, it took me 10 seconds! 😍\n\nI wish Google didn't kill JPEG-XL… 😭\n\nI also wish Largest Contenful Paint didn't wait for the full progressive image to be downloaded and rendered.\n\n#image #performance #photography\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/23/1/",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.com/notes/2023/01/23/1/nicolas-hoizey-photo-progressive-jpeg.jpg",
@@ -367,5 +367,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109740982797516411"
     ],
     "lastTootTimestamp": 1674514508473
+  },
+  "https://nicolas-hoizey.com/notes/2023/01/26/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/01/26/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/01/26/1/",
+    "lang": "en",
+    "title": "💬 Note from 26 January 2023, 15:40",
+    "date_published": "2023-01-26T14:40:52Z",
+    "content_text": "TIL `IntersectionObserver`'s `rootMargin` only works if the observer is in the same origin, because of privacy concerns:\n\n> There is a risk that the API may be used to probe for information about the geometry of the global viewport itself, which may be used to deduce the user’s hardware configuration.\n\nThat's why this demo of a sticky navigation doesn't work in CodePen's default view… 😞\n\n<https://codepen.io/nhoizey/pen/QWBrrKB>\n\n#IntersectionObserver #JavaScript #security\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/26/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109756609117334978"
+    ],
+    "lastTootTimestamp": 1674752946906
   }
 }
