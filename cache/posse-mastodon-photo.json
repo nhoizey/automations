@@ -2751,7 +2751,10 @@
         "title": "Photo titled: Cleaning the dust"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109755590511485782"
+    ],
+    "lastTootTimestamp": 1674737404180
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/common-ostrich/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/common-ostrich/",
@@ -5284,6 +5287,550 @@
         "url": "https://nicolas-hoizey.photo/photos/loch-tummel-from-queen-s-view/small.jpg",
         "mime_type": "image/jpeg",
         "title": "Photo titled: Loch Tummel from Queen's View"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/diani-beach/diani-beach/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/diani-beach/diani-beach/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/diani-beach/diani-beach/",
+    "language": "en",
+    "title": "Diani Beach",
+    "date_published": "2019-03-06T11:03:00Z",
+    "content_text": "“Diani Beach”\n\nDiani Beach is a large beach on the coast of the Indian Ocean in Kenya. It is located 30 kilometers south of Mombasa in Kwale County.\n\nIt has been voted Africa's top beach destination for the fifth consecutive time since 2015.\n\n📅 6th March 2019\n\n📸 Apple iPhone 6s\n🎞️ ISO 25, ƒ/2.2, 1/2100s\n\n#Travels #Africa #Kenya #DianiBeach #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/diani-beach/diani-beach/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/diani-beach/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Diani Beach"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/40-c-no-problem/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/40-c-no-problem/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/40-c-no-problem/",
+    "language": "en",
+    "title": "40°C? No problem…",
+    "date_published": "2019-02-28T16:02:00Z",
+    "content_text": "“40°C? No problem…”\n\nIt is impressive to see these Kenyans playing soccer in the sun at 40°C, while we could hardly stand the heat even in the shade.\n\n📅 28th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 200, ƒ/2, 1/5800s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/40-c-no-problem/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/40-c-no-problem/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: 40°C? No problem…"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+    "language": "en",
+    "title": "Civilization",
+    "date_published": "2019-03-01T07:03:00Z",
+    "content_text": "“Civilization”\n\n\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/2.8, 1/3200s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/civilization/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Civilization"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/crowded-place/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/crowded-place/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/crowded-place/",
+    "language": "en",
+    "title": "Crowded place",
+    "date_published": "2019-02-28T17:02:00Z",
+    "content_text": "“Crowded place”\n\n\n\n📅 28th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 200, ƒ/2, 1/2900s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/crowded-place/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/crowded-place/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Crowded place"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/elephants-at-sunrise-in-front-of-kilimanjaro/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/elephants-at-sunrise-in-front-of-kilimanjaro/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/elephants-at-sunrise-in-front-of-kilimanjaro/",
+    "language": "en",
+    "title": "Elephants at sunrise in front of Kilimanjaro",
+    "date_published": "2019-03-01T05:03:00Z",
+    "content_text": "“Elephants at sunrise in front of Kilimanjaro”\n\nAmboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It is one of the best place in the world to get close to free-ranging elephants.\n\nThe park also has views…\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 250, ƒ/3.2, 1/500s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/elephants-at-sunrise-in-front-of-kilimanjaro/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/elephants-at-sunrise-in-front-of-kilimanjaro/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Elephants at sunrise in front of Kilimanjaro"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/empty/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/empty/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/empty/",
+    "language": "en",
+    "title": "Empty",
+    "date_published": "2019-03-01T06:03:00Z",
+    "content_text": "“Empty”\n\nThere is a strong contrast in Amboseli National Park, in Kenya, between swamps filled with animals and desert zones like this one.\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/10, 1/420s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/empty/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/empty/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Empty"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/flamingos-wading-in-wetlands-in-amboseli-national-park/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/flamingos-wading-in-wetlands-in-amboseli-national-park/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/flamingos-wading-in-wetlands-in-amboseli-national-park/",
+    "language": "en",
+    "title": "Flamingos wading in wetlands in Amboseli National Park",
+    "date_published": "2019-03-01T06:03:00Z",
+    "content_text": "“Flamingos wading in wetlands in Amboseli National Park”\n\nThe lakes in Amboseli National Park are seasonal and mainly located in the Western part of the park and usually fill up during the rainy season.\n\nThe…\n\n📅 1st March 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 320, ƒ/9, 1/900s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/flamingos-wading-in-wetlands-in-amboseli-national-park/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/flamingos-wading-in-wetlands-in-amboseli-national-park/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Flamingos wading in wetlands in Amboseli National Park"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/majestic-kilimanjaro/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/majestic-kilimanjaro/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/majestic-kilimanjaro/",
+    "language": "en",
+    "title": "Majestic Kilimanjaro",
+    "date_published": "2019-02-28T17:02:00Z",
+    "content_text": "“Majestic Kilimanjaro”\n\nAmboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.\n\nThis awesome view, the large…\n\n📅 28th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 200, ƒ/4, 1/900s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/majestic-kilimanjaro/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/majestic-kilimanjaro/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Majestic Kilimanjaro"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/on-the-move/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/on-the-move/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/on-the-move/",
+    "language": "en",
+    "title": "On the move…",
+    "date_published": "2019-03-01T07:03:00Z",
+    "content_text": "“On the move…”\n\n\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/10, 1/220s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/on-the-move/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/on-the-move/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: On the move…"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/",
+    "language": "en",
+    "title": "The iconic acacia tree in front of Mount Kilimanjaro",
+    "date_published": "2019-02-28T17:02:00Z",
+    "content_text": "“The iconic acacia tree in front of Mount Kilimanjaro”\n\nThe plains surrounding Kilimanjaro (the “lowlands”), are located between 600 and 800 meters above sea level. The climate is very hot and dry.\n\nThe vegetation is mainly composed of…\n\n📅 28th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 200, ƒ/1.2, 1/12800s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: The iconic acacia tree in front of Mount Kilimanjaro"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-snows-of-kilimanjaro/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-snows-of-kilimanjaro/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-snows-of-kilimanjaro/",
+    "language": "en",
+    "title": "The Snows of Kilimanjaro",
+    "date_published": "2019-03-01T07:03:00Z",
+    "content_text": "“The Snows of Kilimanjaro”\n\nAmboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.\n\nAlmost 85 percent of the ice cover…\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/8, 1/1100s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-snows-of-kilimanjaro/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-snows-of-kilimanjaro/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: The Snows of Kilimanjaro"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/waiting-for-dusk/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/waiting-for-dusk/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/waiting-for-dusk/",
+    "language": "en",
+    "title": "Waiting for dusk",
+    "date_published": "2019-03-01T06:03:00Z",
+    "content_text": "“Waiting for dusk”\n\nIn the last two decades alone, the African lion population is estimated to have decreased by over 40% and now occupies approximately 17% of its historical range.\n\nHowever, in the…\n\n📅 1st March 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 1.4× TC WR\n🎞️ ISO 320, ƒ/9, 1/500s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/waiting-for-dusk/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/waiting-for-dusk/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Waiting for dusk"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/what-are-you-waiting-for/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/what-are-you-waiting-for/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/what-are-you-waiting-for/",
+    "language": "en",
+    "title": "What are you waiting for?",
+    "date_published": "2019-02-28T16:02:00Z",
+    "content_text": "“What are you waiting for?”\n\n\n\n📅 28th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 640, ƒ/11, 1/500s\n\n#Travels #Africa #Kenya #AmboseliNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/what-are-you-waiting-for/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/what-are-you-waiting-for/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: What are you waiting for?"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/flooded-gate-at-lake-nakuru/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/flooded-gate-at-lake-nakuru/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/flooded-gate-at-lake-nakuru/",
+    "language": "en",
+    "title": "Flooded gate at Lake Nakuru",
+    "date_published": "2019-02-27T12:02:00Z",
+    "content_text": "“Flooded gate at Lake Nakuru”\n\nLake Nakuru joined in 2013 the list of other lakes in Rift Valley whose water levels have abnormally increased endangering the lives of residents and the ecosystems around the lake.\n\nSome lakes are recognized as…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 160, ƒ/1.2, 1/10000s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/flooded-gate-at-lake-nakuru/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/flooded-gate-at-lake-nakuru/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Flooded gate at Lake Nakuru"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/newborn-african-buffalo/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/newborn-african-buffalo/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/newborn-african-buffalo/",
+    "language": "en",
+    "title": "Newborn African buffalo",
+    "date_published": "2019-02-27T15:02:00Z",
+    "content_text": "“Newborn African buffalo”\n\nNewborn calves remain hidden in vegetation for the first few weeks while being nursed occasionally by the mother before joining the main herd. Older calves are held in the…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 800, ƒ/10, 1/400s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/newborn-african-buffalo/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/newborn-african-buffalo/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Newborn African buffalo"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/now-you-see-me/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/now-you-see-me/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/now-you-see-me/",
+    "language": "en",
+    "title": "Now you see me",
+    "date_published": "2019-02-27T15:02:00Z",
+    "content_text": "“Now you see me”\n\nNamed for their preferred proximity to water, the Common Waterbuck feeds on plants near bodies of water in various habitats, including savannas and forests.\n\nThese creatures are…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 800, ƒ/9.2, 1/60s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/now-you-see-me/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/now-you-see-me/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Now you see me"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/peaceful-cohabitation/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/peaceful-cohabitation/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/peaceful-cohabitation/",
+    "language": "en",
+    "title": "Peaceful cohabitation",
+    "date_published": "2019-02-27T16:02:00Z",
+    "content_text": "“Peaceful cohabitation”\n\n\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 800, ƒ/10, 1/250s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/peaceful-cohabitation/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/peaceful-cohabitation/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Peaceful cohabitation"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/so-you-re-still-ok-for-this/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/so-you-re-still-ok-for-this/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/so-you-re-still-ok-for-this/",
+    "language": "en",
+    "title": "So, you're still ok for this?",
+    "date_published": "2019-02-27T16:02:00Z",
+    "content_text": "“So, you're still ok for this?”\n\nWhile many might assume that the birds are a constant annoyance to the majestic buffalo who carry them across the plains of Kenya, they would only be half right.\n\nA…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 800, ƒ/11, 1/120s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/so-you-re-still-ok-for-this/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/so-you-re-still-ok-for-this/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: So, you're still ok for this?"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+    "language": "en",
+    "title": "Sunset on Lake Nakuru's flooded trees",
+    "date_published": "2019-02-27T17:02:00Z",
+    "content_text": "“Sunset on Lake Nakuru's flooded trees”\n\nThere are many lakes along the length of the African Rift Valley, which runs from the Red Sea in the north to Mozambique in the south. Kenya’s eastern Rift Valley has a string of eight lakes.\n\nThe Rift…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/3.2, 1/680s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/sunset-on-lake-nakuru-s-flooded-trees/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Sunset on Lake Nakuru's flooded trees"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/what-are-you-staring-at/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/what-are-you-staring-at/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/what-are-you-staring-at/",
+    "language": "en",
+    "title": "What are you staring at?",
+    "date_published": "2019-02-27T16:02:00Z",
+    "content_text": "“What are you staring at?”\n\nThe African buffalo is not an ancestor of domestic cattle and is only distantly related to other larger bovines. Its unpredictable temperament means that the African buffalo…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 800, ƒ/9, 1/125s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/what-are-you-staring-at/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/what-are-you-staring-at/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: What are you staring at?"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/who-is-the-observer/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/who-is-the-observer/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/who-is-the-observer/",
+    "language": "en",
+    "title": "Who is the observer?",
+    "date_published": "2019-02-26T16:02:00Z",
+    "content_text": "“Who is the observer?”\n\nThe Masai giraffe is the largest subspecies of giraffe, making it the tallest land animal on earth.\n\nIt is native to East Africa. The Masai giraffe can be found in central and southern Kenya and in Tanzania.\n\nIt has…\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/2.8, 1/6000s\n\n#Travels #Africa #Kenya #LakeNakuruNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/who-is-the-observer/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/who-is-the-observer/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Who is the observer?"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/a-little-nap/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/a-little-nap/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/a-little-nap/",
+    "language": "en",
+    "title": "A little nap",
+    "date_published": "2019-02-26T09:02:00Z",
+    "content_text": "“A little nap”\n\n\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/6.4, 1/340s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/a-little-nap/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/a-little-nap/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: A little nap"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/common-ostrich/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/common-ostrich/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/common-ostrich/",
+    "language": "en",
+    "title": "Common Ostrich",
+    "date_published": "2019-02-26T16:02:00Z",
+    "content_text": "“Common Ostrich”\n\nThe ostriches of the Kenyan savannah have never been so prized: first by jockeys, who ride them to the delight of spectators, and then by meat lovers, their flesh being reputed to…\n\n📅 26th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 2.0× TC WR\n🎞️ ISO 800, ƒ/10, 1/250s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/common-ostrich/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/common-ostrich/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Common Ostrich"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/follow-the-path-around/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/follow-the-path-around/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/follow-the-path-around/",
+    "language": "en",
+    "title": "Follow the path around",
+    "date_published": "2019-02-26T17:02:00Z",
+    "content_text": "“Follow the path around”\n\nUnlike in urban areas where we cut trees to build roads, here roads turn around trees, this is much better!\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/2.8, 1/1100s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/follow-the-path-around/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/follow-the-path-around/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Follow the path around"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/maasai-mara-national-reserve/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/maasai-mara-national-reserve/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/maasai-mara-national-reserve/",
+    "language": "en",
+    "title": "Maasai Mara National Reserve",
+    "date_published": "2019-02-26T06:02:00Z",
+    "content_text": "“Maasai Mara National Reserve”\n\nIt's not just about the wild animals, landscapes are great too!\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/2.8, 1/4000s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/maasai-mara-national-reserve/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/maasai-mara-national-reserve/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Maasai Mara National Reserve"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/making-fire/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/making-fire/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/making-fire/",
+    "language": "en",
+    "title": "Making fire",
+    "date_published": "2019-02-26T09:02:00Z",
+    "content_text": "“Making fire”\n\nReal practice or only folkloric demonstration for the easily impressed tourists, the realization of a fire by rubbing two pieces of wood is mastered by the Massaï.\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 320, ƒ/6.4, 1/60s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/making-fire/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/making-fire/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Making fire"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/nothing-to-see-or-maybe/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/nothing-to-see-or-maybe/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/nothing-to-see-or-maybe/",
+    "language": "en",
+    "title": "Nothing to see… or maybe…",
+    "date_published": "2019-02-26T16:02:00Z",
+    "content_text": "“Nothing to see… or maybe…”\n\nAs we drove slowly through the large empty spaces of the Maasai Mara National Reserve, I was fortunate enough to perceive a spot of slightly different color in a small group of bushes.\n\nIt was difficult to really…\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/2.8, 1/2900s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/nothing-to-see-or-maybe/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/nothing-to-see-or-maybe/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Nothing to see… or maybe…"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+    "language": "en",
+    "title": "Proud Maasai",
+    "date_published": "2019-02-26T09:02:00Z",
+    "content_text": "“Proud Maasai”\n\nStanding proud in the savannah with their red blankets and painted shields, the Maasai people have become one of the more widely known symbols of East Africa; the Maasai shield is even featured on Kenya’s national flag. It’s…\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/6.4, 1/450s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/proud-maasai/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Proud Maasai"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+    "language": "en",
+    "title": "Small break with the protection of the shade of the tree",
+    "date_published": "2019-02-26T10:02:00Z",
+    "content_text": "“Small break with the protection of the shade of the tree”\n\n\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/6.4, 1/450s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/small-break-with-the-protection-of-the-shade-of-the-tree/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Small break with the protection of the shade of the tree"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+    "language": "en",
+    "title": "The locomotion",
+    "date_published": "2019-02-26T10:02:00Z",
+    "content_text": "“The locomotion”\n\nMost Kenyans travel with motorcycles, and sometimes one of these is shared by multiple families, at least in Maasai villages.\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/6.4, 1/420s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-locomotion/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: The locomotion"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-village/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-village/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-village/",
+    "language": "en",
+    "title": "The village",
+    "date_published": "2019-02-26T09:02:00Z",
+    "content_text": "“The village”\n\nWe have been fortunate enough to visit an actual Maasai village with the son of the village's chef, an incredible experience.\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/6.4, 1/950s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-village/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-village/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: The village"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+    "language": "en",
+    "title": "Travel dreams…",
+    "date_published": "2019-02-26T09:02:00Z",
+    "content_text": "“Travel dreams…”\n\nPossibly Africa’s most famous ethnic group, the Maasai people are semi-nomadic people located primarily in Kenya and Northern Tanzania.\n\nAccording to their own oral history the Masai people originated in the Nile Valley in…\n\n📅 26th February 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 200, ƒ/6.4, 1/750s\n\n#Travels #Africa #Kenya #MaasaiMaraNationalReserve #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/travel-dreams/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Travel dreams…"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/african-baobab/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/african-baobab/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/african-baobab/",
+    "language": "en",
+    "title": "African baobab",
+    "date_published": "2019-03-01T14:03:00Z",
+    "content_text": "“African baobab”\n\nThe African Baobab is a multipurpose, drought resistant, wild fruit tree, endemic to arid and semi-arid lands of Sub-Saharan Africa. Baobab populations have been showing a lack of regeneration, and therefore causes concern for the…\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 400, ƒ/2.8, 1/8000s\n\n#Travels #Africa #Kenya #TsavoWestNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/african-baobab/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/african-baobab/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: African baobab"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/little-home/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/little-home/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/little-home/",
+    "language": "en",
+    "title": "Little home",
+    "date_published": "2019-03-01T15:03:00Z",
+    "content_text": "“Little home”\n\n\n\n📅 1st March 2019\n\n📸 Fujifilm X-T2 + Fujinon XF 27mm f/2.8\n🎞️ ISO 320, ƒ/2.8, 1/8000s\n\n#Travels #Africa #Kenya #TsavoWestNationalPark #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/tsavo-west/little-home/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/little-home/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Little home"
       }
     ],
     "toots": []
