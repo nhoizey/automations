@@ -380,5 +380,29 @@
       "https://mamot.fr/users/nhoizey/statuses/109756609117334978"
     ],
     "lastTootTimestamp": 1674752946906
+  },
+  "https://nicolas-hoizey.com/notes/2023/01/26/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/01/26/2/",
+    "url": "https://nicolas-hoizey.com/notes/2023/01/26/2/",
+    "lang": "en",
+    "title": "💬 Note from 26 January 2023, 22:14",
+    "date_published": "2023-01-26T21:14:06Z",
+    "content_text": "I updated the footer on <https://nicolas-hoizey.photo/> with nice icons for the other platforms where I publish photos, and the services I use to build and deploy the site.\n\nSome where hard to find, most were not optimized (thanks SGVOMG!).\n\nThe Pixelfed one is reaaaaaly heavy with all these gradients, masks and paths.\n\n#icon #SVG\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/26/2/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/01/26/2/photo-platforms.png",
+        "mime_type": "image/png",
+        "title": "Other platforms where I publish photos: Flickr, Unsplash, Mastodon, pixelfed, Locationscout"
+      },
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/01/26/2/site-building-and-hosting-services.png",
+        "mime_type": "image/png",
+        "title": "Services I use to build and deploy the site: Eleventy, Cloudinary, Netlify, Cloudflare"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109757789574152185"
+    ],
+    "lastTootTimestamp": 1674770959257
   }
 }
