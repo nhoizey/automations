@@ -5433,7 +5433,10 @@
         "title": "Photo titled: On the move…"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109761242159137330"
+    ],
+    "lastTootTimestamp": 1674823641580
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/",
@@ -5831,6 +5834,22 @@
         "url": "https://nicolas-hoizey.photo/photos/little-home/small.jpg",
         "mime_type": "image/jpeg",
         "title": "Photo titled: Little home"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/children-propelling-a-tire/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/children-propelling-a-tire/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/children-propelling-a-tire/",
+    "language": "en",
+    "title": "Children propelling a tire",
+    "date_published": "2019-02-27T09:02:00Z",
+    "content_text": "“Children propelling a tire”\n\nChildren love to play, and they don't need much in the way of accessories.\n\nHere, we offer them a thousand sophisticated and expensive gifts, and they sometimes prefer to play with packing boxes...\n\nOver there, in Kenya for example, they…\n\n📅 27th February 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 160, ƒ/1.2, 1/5000s\n\n#Travels #Africa #Kenya #Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/africa/kenya/children-propelling-a-tire/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/children-propelling-a-tire/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Photo titled: Children propelling a tire"
       }
     ],
     "toots": []
