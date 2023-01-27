@@ -411,11 +411,24 @@
     "lang": "en",
     "title": "💬 Note from 27 January 2023, 12:02",
     "date_published": "2023-01-27T11:02:40Z",
-    "content_text": "Fellow photographers, where in EXIF/IPTC meta data would you (or are you already) put a description of the photo?\n\nI'm not talking about the legend, more the description of the actual content of the image, how you would describe it to blind people?\n\nCouldn't find anything yet in Lightroom's UI.\n\n#photography\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/27/1/",
+    "content_text": "Fellow photographers, where in EXIF/IPTC meta data would you (or are you already) put a description of the photo?\n\nI'm not talking about the legend, more the description of the actual content of the image, how you would describe it to blind people.\n\nCouldn't find anything yet in Lightroom's UI.\n\n#photography\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/27/1/",
     "attachments": [],
     "toots": [
       "https://mamot.fr/users/nhoizey/statuses/109761036549978764"
     ],
     "lastTootTimestamp": 1674820504129
+  },
+  "https://nicolas-hoizey.com/notes/2023/01/27/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/01/27/2/",
+    "url": "https://nicolas-hoizey.com/notes/2023/01/27/2/",
+    "lang": "en",
+    "title": "💬 Note from 27 January 2023, 18:14",
+    "date_published": "2023-01-27T17:14:06Z",
+    "content_text": "I have a client site with a header that is hidden when the user scrolls down, but shown again when the user scrolls up, which seems pretty comon nowadays.\n\nThis triggers some CLS, even if the hide/show is done in less than 500 ms, as “continuous interactions such as scrolls, drags, or pinch and zoom gestures are not considered ‘recent input’”. 😞\n\n#CLS #CWV #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/27/2/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109762452724725804"
+    ],
+    "lastTootTimestamp": 1674842113233
   }
 }
