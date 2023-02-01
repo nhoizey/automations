@@ -675,7 +675,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/magmatic-eruption/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Magmatic eruption"
+        "title": "Magmatic eruption",
+        "_alt_text": "Macro photo of a lit red candle and small miniature figures of volcanologists on the edges (scale 1/87th)"
       }
     ],
     "toots": []
@@ -1093,7 +1094,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/bacchus-dream/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Bacchus dream"
+        "title": "Bacchus dream",
+        "_alt_text": "Photo of multiple bottles of wine full of dust, in a cellar."
       }
     ],
     "toots": []
@@ -3072,7 +3074,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/on-the-dirt-track-again/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "On the dirt track again"
+        "title": "On the dirt track again",
+        "_alt_text": "Photo of a red dirt track making turns in hills covered with low vegetation"
       }
     ],
     "toots": []
@@ -3879,7 +3882,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/not-so-colourful-netherlands/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Not so colourful Netherlands"
+        "title": "Not so colourful Netherlands",
+        "_alt_text": "Black and white photo of townhouses on the waterfront, under a cloudy sky"
       }
     ],
     "toots": [
@@ -4434,7 +4438,10 @@
         "title": "An evening on top of Rome"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109789559961598266"
+    ],
+    "lastTootTimestamp": 1675255736938
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/ponte-sant-angelo/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/ponte-sant-angelo/",
@@ -4877,7 +4884,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/incense-coils-in-man-mo-temple-hong-kong/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Incense coils in Man Mo Temple, Hong Kong"
+        "title": "Incense coils in Man Mo Temple, Hong Kong",
+        "_alt_text": "Photo of smoking incense spirals, hanging from the ceiling of a temple, with a light beam in the darkness"
       }
     ],
     "toots": []
