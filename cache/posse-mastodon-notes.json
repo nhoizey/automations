@@ -456,5 +456,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109785337838503274"
     ],
     "lastTootTimestamp": 1675191312341
+  },
+  "https://nicolas-hoizey.com/notes/2023/02/02/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/02/02/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/02/02/1/",
+    "lang": "en",
+    "title": "💬 Note from 2 February 2023, 15:04",
+    "date_published": "2023-02-02T14:04:07Z",
+    "content_text": "With Twitter limiting access to the API to users with a paid account, I guess it's time to run #tweetback update one last time before closing my Twitter account…\n\n`npm run fetch-new-data`\n\nSee https://github.com/tweetback/tweetback/#fetch-additional-tweets-from-the-api-optional\n\n#API #Twitter\n\n⚓️ https://nicolas-hoizey.com/notes/2023/02/02/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109795602391878902"
+    ],
+    "lastTootTimestamp": 1675347937057
   }
 }
