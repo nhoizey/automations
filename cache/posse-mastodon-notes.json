@@ -469,5 +469,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109795602391878902"
     ],
     "lastTootTimestamp": 1675347937057
+  },
+  "https://nicolas-hoizey.com/notes/2023/02/05/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/02/05/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/02/05/1/",
+    "lang": "en",
+    "title": "💬 Note from 5 February 2023, 20:20",
+    "date_published": "2023-02-05T19:20:04Z",
+    "content_text": "Firefox 110 will be released on February 14th, for all Container Queries lovers! 🥰\n\nhttps://caniuse.com/css-container-queries\n\n#ContainerQueries #CSS #Firefox\n\n⚓️ https://nicolas-hoizey.com/notes/2023/02/05/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109814001965601763"
+    ],
+    "lastTootTimestamp": 1675628692250
   }
 }
