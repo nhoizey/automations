@@ -5,7 +5,7 @@
     "lang": "en",
     "title": "🖋 Cutting back on Instacrap",
     "date_published": "2022-05-18T16:23:01Z",
-    "content_text": "🖋 “Cutting back on Instacrap”\n\nI've been disliking for a long time that Instagram is a closed platform, more so in the hands of Facebook.\n\n📅 18 May 2022\n\n#photography #Pixelfed #Flickr \n\n⚓️ https://nicolas-hoizey.com/articles/2022/05/18/cutting-back-on-instacrap/",
+    "content_text": "🖋 “Cutting back on Instacrap”\n\nI've been disliking for a long time that Instagram is a closed platform, more so in the hands of Facebook.\n\n#photography #Pixelfed #Flickr \n\n⚓️ https://nicolas-hoizey.com/articles/2022/05/18/cutting-back-on-instacrap/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -17,7 +17,7 @@
     "lang": "en",
     "title": "🖋 Accessible anchor links with Markdown-it and Eleventy",
     "date_published": "2021-02-25T21:08:34Z",
-    "content_text": "🖋 “Accessible anchor links with Markdown-it and Eleventy”\n\nI like to be able to link directly to a section in a long content. I wish every site provided anchor links associated to headings, even if Text Fragments might be a cross browser thing sometimes in the future. Here's how I made the anchor links of my Eleventy based site accessible.\n\n📅 25 February 2021\n\n#accessibility #Eleventy \n\n⚓️ https://nicolas-hoizey.com/articles/2021/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/",
+    "content_text": "🖋 “Accessible anchor links with Markdown-it and Eleventy”\n\nI like to be able to link directly to a section in a long content. I wish every site provided anchor links associated to headings, even if Text Fragments might be a cross browser thing sometimes in the future. Here's how I made the anchor links of my Eleventy based site accessible.\n\n#accessibility #Eleventy \n\n⚓️ https://nicolas-hoizey.com/articles/2021/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -29,7 +29,7 @@
     "lang": "en",
     "title": "🖋 Enhancing archives navigation, step 2",
     "date_published": "2020-11-01T22:55:51Z",
-    "content_text": "🖋 “Enhancing archives navigation, step 2”\n\nIn my previous article Enhancing archives navigation, step 1, I promised further archives navigation enhancements. Here they are!\n\n📅 1 November 2020\n\n#Eleventy #UX #Algolia \n\n⚓️ https://nicolas-hoizey.com/articles/2020/11/02/enhancing-archives-navigation-step-2/",
+    "content_text": "🖋 “Enhancing archives navigation, step 2”\n\nIn my previous article Enhancing archives navigation, step 1, I promised further archives navigation enhancements. Here they are!\n\n#Eleventy #UX #Algolia \n\n⚓️ https://nicolas-hoizey.com/articles/2020/11/02/enhancing-archives-navigation-step-2/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -41,7 +41,7 @@
     "lang": "en",
     "title": "🖋 Enhancing archives navigation, step 1",
     "date_published": "2020-10-26T14:16:23Z",
-    "content_text": "🖋 “Enhancing archives navigation, step 1”\n\nI decided years ago to remove paged navigation (aka \"pagination\"), because I find it not user friendly at all, and a nightmare for SEO with new content pushing one tenth of contents to another page (for a 10 items per page pagination). Now, I improved the UX even further.\n\n📅 26 October 2020\n\n#Eleventy #UX \n\n⚓️ https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/",
+    "content_text": "🖋 “Enhancing archives navigation, step 1”\n\nI decided years ago to remove paged navigation (aka \"pagination\"), because I find it not user friendly at all, and a nightmare for SEO with new content pushing one tenth of contents to another page (for a 10 items per page pagination). Now, I improved the UX even further.\n\n#Eleventy #UX \n\n⚓️ https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -53,7 +53,7 @@
     "lang": "en",
     "title": "🖋 How I build my SVG sprites",
     "date_published": "2020-10-14T22:02:19Z",
-    "content_text": "🖋 “How I build my SVG sprites”\n\nI'm using an SVG sprite on this site to make sure I don't repeat SVG code for icons that are used multiple times, and I inline it so the rendering doesn't depend on another resource loading. Here's how I build this sprite from individual SVG icons.\n\n📅 15 October 2020\n\n#SVG #WebPerf #Node \n\n⚓️ https://nicolas-hoizey.com/articles/2020/10/15/how-i-build-my-svg-sprites/",
+    "content_text": "🖋 “How I build my SVG sprites”\n\nI'm using an SVG sprite on this site to make sure I don't repeat SVG code for icons that are used multiple times, and I inline it so the rendering doesn't depend on another resource loading. Here's how I build this sprite from individual SVG icons.\n\n#SVG #WebPerf #Node \n\n⚓️ https://nicolas-hoizey.com/articles/2020/10/15/how-i-build-my-svg-sprites/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -65,7 +65,7 @@
     "lang": "en",
     "title": "🖋 Identify which Apache rewrite rules are used",
     "date_published": "2020-05-29T10:13:01Z",
-    "content_text": "🖋 “Identify which Apache rewrite rules are used”\n\nI have many rewrite rules in my Apache configuration for redirections, some dating from more than 15 years ago. So I wanted to know which ones are really useful, because there's maybe some cleaning to do. I'll explain here how I got the list.\n\n📅 29 May 2020\n\n#Apache #shell \n\n⚓️ https://nicolas-hoizey.com/articles/2020/05/29/identify-which-apache-rewrite-rules-are-used/",
+    "content_text": "🖋 “Identify which Apache rewrite rules are used”\n\nI have many rewrite rules in my Apache configuration for redirections, some dating from more than 15 years ago. So I wanted to know which ones are really useful, because there's maybe some cleaning to do. I'll explain here how I got the list.\n\n#Apache #shell \n\n⚓️ https://nicolas-hoizey.com/articles/2020/05/29/identify-which-apache-rewrite-rules-are-used/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -77,7 +77,7 @@
     "lang": "en",
     "title": "🖋 JAMstack is fast only if you make it so",
     "date_published": "2020-05-05T10:13:01Z",
-    "content_text": "🖋 “JAMstack is fast only if you make it so”\n\nJAMstack often promotes itself as an excellent way to provide performant sites. It's even the first listed benefit on jamstack.wtf, a \"guide [which] gathers the concept of JAMstack in a straight-forward guide to encourage other developers to adopt the workflow\". But too many JAMstack sites are very slow.\n\n📅 5 May 2020\n\n#JAMstack #WebPerf #API #Webmention \n\n⚓️ https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/",
+    "content_text": "🖋 “JAMstack is fast only if you make it so”\n\nJAMstack often promotes itself as an excellent way to provide performant sites. It's even the first listed benefit on jamstack.wtf, a \"guide [which] gathers the concept of JAMstack in a straight-forward guide to encourage other developers to adopt the workflow\". But too many JAMstack sites are very slow.\n\n#JAMstack #WebPerf #API #Webmention \n\n⚓️ https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -89,7 +89,7 @@
     "lang": "en",
     "title": "🖋 Updating npm packages versions in package.json",
     "date_published": "2020-03-06T10:13:01Z",
-    "content_text": "🖋 “Updating npm packages versions in package.json”\n\nI chose to use npm-check-updates to check for available updates of packages in my package.json files, and it always works without issues, so I guess I can recommend it.\n\n📅 6 March 2020\n\n#Node #npm \n\n⚓️ https://nicolas-hoizey.com/articles/2020/03/06/updating-npm-packages-versions-in-package-json/",
+    "content_text": "🖋 “Updating npm packages versions in package.json”\n\nI chose to use npm-check-updates to check for available updates of packages in my package.json files, and it always works without issues, so I guess I can recommend it.\n\n#Node #npm \n\n⚓️ https://nicolas-hoizey.com/articles/2020/03/06/updating-npm-packages-versions-in-package-json/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -101,7 +101,7 @@
     "lang": "en",
     "title": "🖋 Can we monitor User Happiness on the Web with performance tools?",
     "date_published": "2020-01-10T10:13:01Z",
-    "content_text": "🖋 “Can we monitor User Happiness on the Web with performance tools?”\n\nI really like that SpeedCurve tried to innovate with this recent \"User Happiness\" metric (original version). It aggregates multiple technical metrics to decide if users visiting the page are happy or not with it. But I see several issues in this metric.\n\n📅 10 January 2020\n\n#WebPerf #SpeedCurve \n\n⚓️ https://nicolas-hoizey.com/articles/2020/01/10/can-we-monitor-user-happiness-on-the-web-with-performance-tools/",
+    "content_text": "🖋 “Can we monitor User Happiness on the Web with performance tools?”\n\nI really like that SpeedCurve tried to innovate with this recent \"User Happiness\" metric (original version). It aggregates multiple technical metrics to decide if users visiting the page are happy or not with it. But I see several issues in this metric.\n\n#WebPerf #SpeedCurve \n\n⚓️ https://nicolas-hoizey.com/articles/2020/01/10/can-we-monitor-user-happiness-on-the-web-with-performance-tools/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -113,7 +113,7 @@
     "lang": "en",
     "title": "🖋 How the Boeing 737 Max Disaster Looks to a Software Developer",
     "date_published": "2019-04-19T10:00:00Z",
-    "content_text": "🖋 “How the Boeing 737 Max Disaster Looks to a Software Developer”\n\nExperienced plane pilot and software developer Gregory Travis explains in details what led to Boeing 737 Max recent disasters in this long article: How the Boeing 737 Max Disaster Looks to a Software Developer.\n\n📅 19 April 2019\n\n#KISS \n\n⚓️ https://nicolas-hoizey.com/articles/2019/04/19/how-the-boeing-737-max-disaster-looks-to-a-software-developer/",
+    "content_text": "🖋 “How the Boeing 737 Max Disaster Looks to a Software Developer”\n\nExperienced plane pilot and software developer Gregory Travis explains in details what led to Boeing 737 Max recent disasters in this long article: How the Boeing 737 Max Disaster Looks to a Software Developer.\n\n#KISS \n\n⚓️ https://nicolas-hoizey.com/articles/2019/04/19/how-the-boeing-737-max-disaster-looks-to-a-software-developer/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -125,7 +125,7 @@
     "lang": "en",
     "title": "🖋 100000 tweets",
     "date_published": "2018-10-24T10:00:00Z",
-    "content_text": "🖋 “100000 tweets”\n\n100000 tweets. Already! Only? A little more than 11 years on Twitter, since I signed up May 25th 2007, and today I post my 100000th tweet. A lot have changed on Twitter, and it has brought me a lot of great things.\n\n📅 24 October 2018\n\n#Twitter \n\n⚓️ https://nicolas-hoizey.com/articles/2018/10/24/100000-tweets/",
+    "content_text": "🖋 “100000 tweets”\n\n100000 tweets. Already! Only? A little more than 11 years on Twitter, since I signed up May 25th 2007, and today I post my 100000th tweet. A lot have changed on Twitter, and it has brought me a lot of great things.\n\n#Twitter \n\n⚓️ https://nicolas-hoizey.com/articles/2018/10/24/100000-tweets/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -137,7 +137,7 @@
     "lang": "en",
     "title": "🖋 The treasure behind the castle walls",
     "date_published": "2018-10-02T10:00:00Z",
-    "content_text": "🖋 “The treasure behind the castle walls”\n\nPile up enough treasure behind the castle walls and you'll eventually attract someone who can climb them.\n\n📅 2 October 2018\n\n#security #quote #Pinboard \n\n⚓️ https://nicolas-hoizey.com/articles/2018/10/02/the-treasure-behind-the-castle-walls/",
+    "content_text": "🖋 “The treasure behind the castle walls”\n\nPile up enough treasure behind the castle walls and you'll eventually attract someone who can climb them.\n\n#security #quote #Pinboard \n\n⚓️ https://nicolas-hoizey.com/articles/2018/10/02/the-treasure-behind-the-castle-walls/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -149,7 +149,7 @@
     "lang": "en",
     "title": "🖋 Using Cloudinary to convert an animated GIF to a video",
     "date_published": "2018-08-01T10:00:00Z",
-    "content_text": "🖋 “Using Cloudinary to convert an animated GIF to a video”\n\nI like animated GIFs, like most people these days I think, but they are really heavy, hurting the performance of web pages, and consuming data plans faster than should be needed. So we need to convert them to videos, which are much lighter, for the same visual result. Let's use Cloudinary.\n\n📅 1 August 2018\n\n#video #GIF #Cloudinary #WebPerf \n\n⚓️ https://nicolas-hoizey.com/articles/2018/08/01/using-cloudinary-s-fetch-api-to-convert-an-animated-gif-to-a-video/",
+    "content_text": "🖋 “Using Cloudinary to convert an animated GIF to a video”\n\nI like animated GIFs, like most people these days I think, but they are really heavy, hurting the performance of web pages, and consuming data plans faster than should be needed. So we need to convert them to videos, which are much lighter, for the same visual result. Let's use Cloudinary.\n\n#video #GIF #Cloudinary #WebPerf \n\n⚓️ https://nicolas-hoizey.com/articles/2018/08/01/using-cloudinary-s-fetch-api-to-convert-an-animated-gif-to-a-video/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -161,7 +161,7 @@
     "lang": "fr",
     "title": "🖋 Lapeyre, y'en a pas deux. J'espère !",
     "date_published": "2018-07-17T10:00:00Z",
-    "content_text": "🖋 “Lapeyre, y'en a pas deux. J'espère !”\n\nJe ne sais pas si vous avez déjà été confronté au SAV de Lapeyre, mais je peux vous dire qu'il vaut son pesant de cacahuètes.\n\n📅 17 July 2018\n\n#SAV #fail \n\n⚓️ https://nicolas-hoizey.com/articles/2018/07/17/lapeyre-y-en-a-pas-deux-j-espere/",
+    "content_text": "🖋 “Lapeyre, y'en a pas deux. J'espère !”\n\nJe ne sais pas si vous avez déjà été confronté au SAV de Lapeyre, mais je peux vous dire qu'il vaut son pesant de cacahuètes.\n\n#SAV #fail \n\n⚓️ https://nicolas-hoizey.com/articles/2018/07/17/lapeyre-y-en-a-pas-deux-j-espere/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -173,7 +173,7 @@
     "lang": "en",
     "title": "🖋 Could a MacBook Pro replace a Mac mini?",
     "date_published": "2018-07-11T10:00:00Z",
-    "content_text": "🖋 “Could a MacBook Pro replace a Mac mini?”\n\nI'm fed up with waiting for an updated Mac mini, but I need to replace one that is 10 years old (yes, 10 years!), so I'm considering other options.\n\n📅 11 July 2018\n\n#Apple #Mac \n\n⚓️ https://nicolas-hoizey.com/articles/2018/07/11/could-a-macbook-pro-replace-a-mac-mini/",
+    "content_text": "🖋 “Could a MacBook Pro replace a Mac mini?”\n\nI'm fed up with waiting for an updated Mac mini, but I need to replace one that is 10 years old (yes, 10 years!), so I'm considering other options.\n\n#Apple #Mac \n\n⚓️ https://nicolas-hoizey.com/articles/2018/07/11/could-a-macbook-pro-replace-a-mac-mini/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -185,7 +185,7 @@
     "lang": "en",
     "title": "🖋 Leaving 500px",
     "date_published": "2018-07-02T10:00:00Z",
-    "content_text": "🖋 “Leaving 500px”\n\n500px once was a light in the dark, when Flickr stopped evolving, years ago. But 500px gradually descended from its pedestal, as decisions were made against users' interests.\n\n📅 2 July 2018\n\n#photography #500px \n\n⚓️ https://nicolas-hoizey.com/articles/2018/07/02/leaving-500px/",
+    "content_text": "🖋 “Leaving 500px”\n\n500px once was a light in the dark, when Flickr stopped evolving, years ago. But 500px gradually descended from its pedestal, as decisions were made against users' interests.\n\n#photography #500px \n\n⚓️ https://nicolas-hoizey.com/articles/2018/07/02/leaving-500px/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -197,7 +197,7 @@
     "lang": "en",
     "title": "🖋 Users DO change font size",
     "date_published": "2018-06-15T10:00:00Z",
-    "content_text": "🖋 “Users DO change font size”\n\nEvan Minto wrote a great article showing the Internet Archive has tested the actual root font-size set by their visitors, and the result shows a lot of people still change the default one: Pixels vs. Ems: Users DO Change Font Size.\n\n📅 15 June 2018\n\n#accessibility #font #em \n\n⚓️ https://nicolas-hoizey.com/articles/2018/06/15/users-do-change-font-size/",
+    "content_text": "🖋 “Users DO change font size”\n\nEvan Minto wrote a great article showing the Internet Archive has tested the actual root font-size set by their visitors, and the result shows a lot of people still change the default one: Pixels vs. Ems: Users DO Change Font Size.\n\n#accessibility #font #em \n\n⚓️ https://nicolas-hoizey.com/articles/2018/06/15/users-do-change-font-size/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -209,7 +209,7 @@
     "lang": "fr",
     "title": "🖋 Contextes Opquast",
     "date_published": "2018-05-22T10:00:00Z",
-    "content_text": "🖋 “Contextes Opquast”\n\nJ'adore me tromper… Non, j’adore apprendre de mes erreurs, surtout si ça peut aider d’autres à apprendre en même temps.\n\n📅 22 May 2018\n\n#Opquast #quality \n\n⚓️ https://nicolas-hoizey.com/articles/2018/05/22/contextes-opquast/",
+    "content_text": "🖋 “Contextes Opquast”\n\nJ'adore me tromper… Non, j’adore apprendre de mes erreurs, surtout si ça peut aider d’autres à apprendre en même temps.\n\n#Opquast #quality \n\n⚓️ https://nicolas-hoizey.com/articles/2018/05/22/contextes-opquast/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -245,10 +245,22 @@
     "lang": "en",
     "title": "🖋 Let's POSSE to Mastodon with a JSON Feed and a GitHub Action",
     "date_published": "2023-01-07T12:49:09Z",
-    "content_text": "🖋 “Let's POSSE to Mastodon with a JSON Feed and a GitHub Action”\n\nAfter building a Node script for my own POSSE needs, I thought it would be good if other people could also use it. I knew not many people would be able to use the script as-is, so I built a GitHub Action that is much simpler to use, without losing any feature, even gaining some!\n\n📅 7 January 2023\n\n#IndieWeb #POSSE #Mastodon #JSONFeed #GitHub \n\n⚓️ https://nicolas-hoizey.com/articles/2023/01/07/let-s-posse-to-mastodon-with-a-json-feed-and-a-github-action/",
+    "content_text": "🖋 “Let's POSSE to Mastodon with a JSON Feed and a GitHub Action”\n\nAfter building a Node script for my own POSSE needs, I thought it would be good if other people could also use it. I knew not many people would be able to use the script as-is, so I built a GitHub Action that is much simpler to use, without losing any feature, even gaining some!\n\n#IndieWeb #POSSE #Mastodon #JSONFeed #GitHub \n\n⚓️ https://nicolas-hoizey.com/articles/2023/01/07/let-s-posse-to-mastodon-with-a-json-feed-and-a-github-action/",
     "toots": [
       "https://mamot.fr/users/nhoizey/statuses/109648473982824878"
     ],
     "lastTootTimestamp": 1673102935666
+  },
+  "https://nicolas-hoizey.com/articles/2023/02/05/updating-webmentions-on-a-static-site/": {
+    "id": "https://nicolas-hoizey.com/articles/2023/02/05/updating-webmentions-on-a-static-site/",
+    "url": "https://nicolas-hoizey.com/articles/2023/02/05/updating-webmentions-on-a-static-site/",
+    "lang": "en",
+    "title": "🖋 Updating webmentions on a static site",
+    "date_published": "2023-02-05T19:27:38Z",
+    "content_text": "🖋 “Updating webmentions on a static site”\n\nWhen I started using Webmention on this site (more than 5 years ago!), I was building the site on my local computer, and uploading the build result on my hosting with rsync. I've moved to Cloudflare Pages 6 months ago, which means webmentions where updated only when I pushed new content to GitHub. Here's how I fixed that.\n\n#Webmention #Eleventy #static #GitHub #Cloudflare \n\n⚓️ https://nicolas-hoizey.com/articles/2023/02/05/updating-webmentions-on-a-static-site/",
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109814034524432471"
+    ],
+    "lastTootTimestamp": 1675629189119
   }
 }
