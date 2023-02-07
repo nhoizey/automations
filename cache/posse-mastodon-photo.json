@@ -171,7 +171,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/blair-castle/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Blair Castle"
+        "title": "Blair Castle",
+        "_alt_text": "Photo of the front of a white Scottish castle, with a bench on a grassy area in front."
       }
     ],
     "toots": []
@@ -724,7 +725,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/biohazard/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Biohazard"
+        "title": "Biohazard",
+        "_alt_text": "Macro photo of a moldy clementine around which miniature characters in protective suits are busy"
       }
     ],
     "toots": []
@@ -2352,7 +2354,10 @@
         "title": "Elephants grazing in Amboseli swamps"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109823531377473487"
+    ],
+    "lastTootTimestamp": 1675774099850
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/morning-stroll/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/morning-stroll/",
