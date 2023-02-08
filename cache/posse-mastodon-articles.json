@@ -262,5 +262,17 @@
       "https://mamot.fr/users/nhoizey/statuses/109814034524432471"
     ],
     "lastTootTimestamp": 1675629189119
+  },
+  "https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/": {
+    "id": "https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/",
+    "url": "https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/",
+    "lang": "en",
+    "title": "🖋 A bookmarklet to create a new link content Markdown on GitHub",
+    "date_published": "2023-02-08T09:42:51Z",
+    "content_text": "🖋 “A bookmarklet to create a new link content Markdown on GitHub”\n\nWhen I was building my site on my local computer, I had a shell script to initialize a new Markdown file for sharing a link. When I moved to Cloudflare Pages 6 months ago, it opened a new opportunity to share links more easily in my Eleventy content, directly from the page I wanted to share. Bookmarklets are still an awesome invention!\n\n#Markdown #Eleventy #bookmarklet \n\n⚓️ https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/",
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109828724318350810"
+    ],
+    "lastTootTimestamp": 1675853337633
   }
 }
