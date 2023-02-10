@@ -527,5 +527,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109683515783008197"
     ],
     "lastTootTimestamp": 1673637631095
+  },
+  "https://nicolas-hoizey.com/links/2023/02/10/what-s-new-in-lighthouse-10/": {
+    "id": "https://nicolas-hoizey.com/links/2023/02/10/what-s-new-in-lighthouse-10/",
+    "url": "https://nicolas-hoizey.com/links/2023/02/10/what-s-new-in-lighthouse-10/",
+    "lang": "en",
+    "title": "🔗 What's new in Lighthouse 10",
+    "date_published": "2023-02-10T17:31:18Z",
+    "content_text": "🔗 “What's new in Lighthouse 10”\n\n#Lighthouse #performance #CLS \n\n⚓️ https://nicolas-hoizey.com/links/2023/02/10/what-s-new-in-lighthouse-10/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://developer.chrome.com/blog/lighthouse-10-0/",
+        "mime_type": "image/png",
+        "title": "Screenshot of What&#39;s new in Lighthouse 10"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109841768192658456"
+    ],
+    "lastTootTimestamp": 1676052371272
   }
 }
