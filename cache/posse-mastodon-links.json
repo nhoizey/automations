@@ -565,5 +565,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109842122189431381"
     ],
     "lastTootTimestamp": 1676057772863
+  },
+  "https://nicolas-hoizey.com/links/2023/02/10/midnight-is-a-terrible-time-for-coffee/": {
+    "id": "https://nicolas-hoizey.com/links/2023/02/10/midnight-is-a-terrible-time-for-coffee/",
+    "url": "https://nicolas-hoizey.com/links/2023/02/10/midnight-is-a-terrible-time-for-coffee/",
+    "lang": "en",
+    "title": "🔗 Midnight is a Terrible Time for Coffee",
+    "date_published": "2023-02-10T19:32:37Z",
+    "content_text": "🔗 “Midnight is a Terrible Time for Coffee” by @paulhebert@sunny.garden\n\n#UX \n\n⚓️ https://nicolas-hoizey.com/links/2023/02/10/midnight-is-a-terrible-time-for-coffee/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cloudfour.com/thinks/midnight-is-a-terrible-time-for-coffee/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Midnight is a Terrible Time for Coffee"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109842185028242991"
+    ],
+    "lastTootTimestamp": 1676058731663
   }
 }
