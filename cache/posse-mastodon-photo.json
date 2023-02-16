@@ -931,7 +931,10 @@
         "title": "Pigments"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109874493930895457"
+    ],
+    "lastTootTimestamp": 1676551726351
   },
   "https://nicolas-hoizey.photo/galleries/misc/still-life/rusty/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/still-life/rusty/",
