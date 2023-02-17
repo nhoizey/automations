@@ -556,7 +556,7 @@
     "content_text": "🔗 “The Content Management System of my Dreams” by @pdwn@mamot.fr\n\n#CMS #static \n\n⚓️ https://nicolas-hoizey.com/links/2023/02/10/the-content-management-system-of-my-dreams/",
     "attachments": [
       {
-        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.padawan.info/en/2023/02/the-content-managemepart 1) — A little bit of historynt-system-of-my-dreams-part-1-a-little-bit-of-history.html",
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.padawan.info/en/2023/02/the-content-management-system-of-my-dreams-part-1-a-little-bit-of-history.html",
         "mime_type": "image/png",
         "title": "Screenshot of The Content Management System of my Dreams"
       }
@@ -584,5 +584,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109842185028242991"
     ],
     "lastTootTimestamp": 1676058731663
+  },
+  "https://nicolas-hoizey.com/links/2023/02/17/push/": {
+    "id": "https://nicolas-hoizey.com/links/2023/02/17/push/",
+    "url": "https://nicolas-hoizey.com/links/2023/02/17/push/",
+    "lang": "en",
+    "title": "🔗 Push",
+    "date_published": "2023-02-17T13:10:54Z",
+    "content_text": "🔗 “Push” by @adactio@mastodon.social\n\n#PWA #push \n\n⚓️ https://nicolas-hoizey.com/links/2023/02/17/push/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://adactio.com/journal/19911",
+        "mime_type": "image/png",
+        "title": "Screenshot of Push"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109880346458611004"
+    ],
+    "lastTootTimestamp": 1676641028977
   }
 }
