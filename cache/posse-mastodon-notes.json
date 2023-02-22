@@ -523,6 +523,9 @@
     "date_published": "2023-02-20T17:11:33Z",
     "content_text": "TIL AVIF transformation is only available on #Cloudflare for images below 2 megapixels… 😭\n\nhttps://community.cloudflare.com/t/avif-size-limit/273724/5\n\nWe need JPEG XL! 🙏\n\n#AVIF #image #JPEGXL #performance\n\n⚓️ https://nicolas-hoizey.com/notes/2023/02/20/1/",
     "attachments": [],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109909492530451262"
+    ],
+    "lastTootTimestamp": 1677085762657
   }
 }
