@@ -603,5 +603,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109880346458611004"
     ],
     "lastTootTimestamp": 1676641028977
+  },
+  "https://nicolas-hoizey.com/links/2023/02/22/understanding-the-cost-of-not-being-accessible/": {
+    "id": "https://nicolas-hoizey.com/links/2023/02/22/understanding-the-cost-of-not-being-accessible/",
+    "url": "https://nicolas-hoizey.com/links/2023/02/22/understanding-the-cost-of-not-being-accessible/",
+    "lang": "en",
+    "title": "🔗 Understanding the cost of not being accessible",
+    "date_published": "2023-02-22T08:08:11Z",
+    "content_text": "🔗 “Understanding the cost of not being accessible” by @karlgroves@mastodon.social\n\n#accessibility \n\n⚓️ https://nicolas-hoizey.com/links/2023/02/22/understanding-the-cost-of-not-being-accessible/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://karlgroves.com/understanding-the-cost-of-not-being-accessible/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Understanding the cost of not being accessible"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109909383301427274"
+    ],
+    "lastTootTimestamp": 1677084095939
   }
 }
