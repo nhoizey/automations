@@ -527,5 +527,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109909492530451262"
     ],
     "lastTootTimestamp": 1677085762657
+  },
+  "https://nicolas-hoizey.com/notes/2023/02/22/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/02/22/2/",
+    "url": "https://nicolas-hoizey.com/notes/2023/02/22/2/",
+    "lang": "en",
+    "title": "💬 Note from 22 February 2023, 22:48",
+    "date_published": "2023-02-22T21:48:33Z",
+    "content_text": "Is it useful to have releases in GitHub for projects that are always installed from npmjs? 🤔\n\nAsking for example for a pet project (which is also a mono-repo).\n\n- GitHub: <https://github.com/nhoizey/images-responsiver/releases>\n- npm:\n  - `images-responsiver`: <https://www.npmjs.com/package/images-responsiver>\n  - `eleventy-plugin-images-responsiver`: <https://www.npmjs.com/package/eleventy-plugin-images-responsiver>\n\n#GitHub #npm\n\n⚓️ https://nicolas-hoizey.com/notes/2023/02/22/2/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109910670905993992"
+    ],
+    "lastTootTimestamp": 1677103743185
   }
 }
