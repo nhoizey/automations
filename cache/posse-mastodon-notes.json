@@ -540,5 +540,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109910670905993992"
     ],
     "lastTootTimestamp": 1677103743185
+  },
+  "https://nicolas-hoizey.com/notes/2023/02/22/3/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/02/22/3/",
+    "url": "https://nicolas-hoizey.com/notes/2023/02/22/3/",
+    "lang": "en",
+    "title": "💬 Note from 22 February 2023, 23:21",
+    "date_published": "2023-02-22T22:21:11Z",
+    "content_text": "In other news:\n\nMy @eleventy@fosstodon.org starter project is now using Eleventy 2.0! 🥳\n\n<https://pack11ty.dev>\n\nAnd my Eleventy plugin for responsive images based on standard Markdown syntax and usage of an image CDN/service is now compatible with Eleventy 2.0:\n\n<https://nhoizey.github.io/images-responsiver/eleventy-plugin-images-responsiver/>\n\n#Pack11ty\n\n⚓️ https://nicolas-hoizey.com/notes/2023/02/22/3/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109910789282076442"
+    ],
+    "lastTootTimestamp": 1677105549557
   }
 }
