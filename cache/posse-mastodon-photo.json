@@ -1335,7 +1335,10 @@
         "title": "A nut shell in Étretat"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109919792481523281"
+    ],
+    "lastTootTimestamp": 1677242927844
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/not-everyone-is-asleep-yet/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/not-everyone-is-asleep-yet/",
