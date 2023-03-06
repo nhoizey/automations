@@ -622,5 +622,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109909383301427274"
     ],
     "lastTootTimestamp": 1677084095939
+  },
+  "https://nicolas-hoizey.com/links/2023/03/06/the-next-generation-image-format-for-the-web-is-not-jpeg-xl/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/06/the-next-generation-image-format-for-the-web-is-not-jpeg-xl/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/06/the-next-generation-image-format-for-the-web-is-not-jpeg-xl/",
+    "lang": "en",
+    "title": "🔗 The next generation image format for the web is not JPEG XL?",
+    "date_published": "2023-03-06T20:52:36Z",
+    "content_text": "🔗 “The next generation image format for the web is not JPEG XL?”\n\n#image #JPEGXL \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/06/the-next-generation-image-format-for-the-web-is-not-jpeg-xl/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.roboleary.net/webdev/2023/03/06/next-web-image-format-not-jpegxl.html",
+        "mime_type": "image/png",
+        "title": "Screenshot of The next generation image format for the web is not JPEG XL?"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109978369398022159"
+    ],
+    "lastTootTimestamp": 1678136740347
   }
 }
