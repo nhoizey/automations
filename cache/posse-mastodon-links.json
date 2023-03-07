@@ -641,5 +641,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109978369398022159"
     ],
     "lastTootTimestamp": 1678136740347
+  },
+  "https://nicolas-hoizey.com/links/2023/03/07/why-you-need-to-know-your-site-s-performance-poverty-line-and-how-to-find-it/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/07/why-you-need-to-know-your-site-s-performance-poverty-line-and-how-to-find-it/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/07/why-you-need-to-know-your-site-s-performance-poverty-line-and-how-to-find-it/",
+    "lang": "en",
+    "title": "🔗 Why you need to know your site's performance poverty line (and how to find it)",
+    "date_published": "2023-03-07T22:20:26Z",
+    "content_text": "🔗 “Why you need to know your site's performance poverty line (and how to find it)” by @tammy@webperf.social\n\n#WebPerf #SpeedCurve \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/07/why-you-need-to-know-your-site-s-performance-poverty-line-and-how-to-find-it/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.speedcurve.com/blog/web-performance-poverty-line/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Why you need to know your site&#39;s performance poverty line (and how to find it)"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109984451015994677"
+    ],
+    "lastTootTimestamp": 1678229538610
   }
 }
