@@ -585,5 +585,18 @@
       "https://mamot.fr/users/nhoizey/statuses/109984519407846372"
     ],
     "lastTootTimestamp": 1678230582251
+  },
+  "https://nicolas-hoizey.com/notes/2023/03/08/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/03/08/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/03/08/1/",
+    "lang": "en",
+    "title": "💬 Note from 8 March 2023, 22:31",
+    "date_published": "2023-03-08T21:31:01Z",
+    "content_text": "I've read the whole documentation for @eleventy@fosstodon.org's WebC components: <https://www.11ty.dev/docs/languages/webc/>\n\nTime to experiment, I guess!\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/08/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109989888903629718"
+    ],
+    "lastTootTimestamp": 1678312513895
   }
 }
