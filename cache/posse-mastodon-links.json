@@ -660,5 +660,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109984451015994677"
     ],
     "lastTootTimestamp": 1678229538610
+  },
+  "https://nicolas-hoizey.com/links/2023/03/08/jpeg-xl-vs-avif-a-comparison/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/08/jpeg-xl-vs-avif-a-comparison/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/08/jpeg-xl-vs-avif-a-comparison/",
+    "lang": "en",
+    "title": "🔗 JPEG XL vs AVIF: A Comparison",
+    "date_published": "2023-03-08T14:17:55Z",
+    "content_text": "🔗 “JPEG XL vs AVIF: A Comparison”\n\n#JPEGXL #AVIF #image #WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/08/jpeg-xl-vs-avif-a-comparison/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://tonisagrista.com/blog/2023/jpegxl-vs-avif/",
+        "mime_type": "image/png",
+        "title": "Screenshot of JPEG XL vs AVIF: A Comparison"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/109988462165321703"
+    ],
+    "lastTootTimestamp": 1678290743725
   }
 }
