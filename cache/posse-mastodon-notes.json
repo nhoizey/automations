@@ -611,5 +611,24 @@
       "https://mamot.fr/users/nhoizey/statuses/109999617381423277"
     ],
     "lastTootTimestamp": 1678460962884
+  },
+  "https://nicolas-hoizey.com/notes/2023/03/13/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/03/13/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/03/13/1/",
+    "lang": "en",
+    "title": "💬 Note from 13 March 2023, 18:09",
+    "date_published": "2023-03-13T17:09:30Z",
+    "content_text": "The photo I use as my avatar everywhere is 10 years old, maybe it's time for an update? 🤔\n\n#me\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/13/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/03/13/1/nicolas-hoizey-portrait-2013-bretagne.jpg",
+        "mime_type": "image/jpg",
+        "title": "Portrait photo of Nicolas Hoizey, with hair lifted by the wind and a flashy light green coat"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110017193656617847"
+    ],
+    "lastTootTimestamp": 1678729151386
   }
 }
