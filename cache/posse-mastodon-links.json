@@ -698,5 +698,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110016827340826162"
     ],
     "lastTootTimestamp": 1678723562227
+  },
+  "https://nicolas-hoizey.com/links/2023/03/13/coil-bids-farewell-but-not-goodbye/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/13/coil-bids-farewell-but-not-goodbye/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/13/coil-bids-farewell-but-not-goodbye/",
+    "lang": "en",
+    "title": "🔗 Coil bids farewell, but not goodbye",
+    "date_published": "2023-03-13T20:15:14Z",
+    "content_text": "🔗 “Coil bids farewell, but not goodbye”\n\n#Coil #Uphold #WebMonetization \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/13/coil-bids-farewell-but-not-goodbye/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://contenthub.coil.com/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Coil bids farewell, but not goodbye"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110017840969838277"
+    ],
+    "lastTootTimestamp": 1678739028638
   }
 }
