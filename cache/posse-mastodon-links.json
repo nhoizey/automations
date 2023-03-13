@@ -686,7 +686,7 @@
     "lang": "en",
     "title": "🔗 Carrying a camera",
     "date_published": "2023-03-13T15:22:21Z",
-    "content_text": "🔗 “Carrying a camera”\n\n#photography \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/13/carrying-a-camera/",
+    "content_text": "🔗 “Carrying a camera” by @tmcw@mastodon.social\n\n#photography \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/13/carrying-a-camera/",
     "attachments": [
       {
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://macwright.com/2017/11/03/carrying-a-camera.html",
@@ -695,6 +695,8 @@
       }
     ],
     "toots": [
-    ]
+      "https://mamot.fr/users/nhoizey/statuses/110016827340826162"
+    ],
+    "lastTootTimestamp": 1678723562227
   }
 }
