@@ -717,5 +717,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110017840969838277"
     ],
     "lastTootTimestamp": 1678739028638
+  },
+  "https://nicolas-hoizey.com/links/2023/03/16/everything-is-awesome-don-t-forget-the-lego/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/16/everything-is-awesome-don-t-forget-the-lego/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/16/everything-is-awesome-don-t-forget-the-lego/",
+    "lang": "en",
+    "title": "🔗 Everything is awesome: Don't forget the Lego",
+    "date_published": "2023-03-16T09:51:22Z",
+    "content_text": "🔗 “Everything is awesome: Don't forget the Lego”\n\n#Lego \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/16/everything-is-awesome-don-t-forget-the-lego/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://onlinelibrary.wiley.com/doi/full/10.1111/jpc.14309",
+        "mime_type": "image/png",
+        "title": "Screenshot of Everything is awesome: Don&#39;t forget the Lego"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110032397801001737"
+    ],
+    "lastTootTimestamp": 1678961148220
   }
 }
