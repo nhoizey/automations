@@ -736,5 +736,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110032397801001737"
     ],
     "lastTootTimestamp": 1678961148220
+  },
+  "https://nicolas-hoizey.com/links/2023/03/16/accessibility-beyond-code-compliance/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/16/accessibility-beyond-code-compliance/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/16/accessibility-beyond-code-compliance/",
+    "lang": "en",
+    "title": "🔗 Accessibility Beyond Code Compliance",
+    "date_published": "2023-03-16T23:00:15Z",
+    "content_text": "🔗 “Accessibility Beyond Code Compliance” by @Aaron@front-end.social\n\n#DesignSystem #accessibility \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/16/accessibility-beyond-code-compliance/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.aaron-gustafson.com/notebook/accessibility-beyond-code-compliance/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Accessibility Beyond Code Compliance"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110035531063626400"
+    ],
+    "lastTootTimestamp": 1679008958124
   }
 }
