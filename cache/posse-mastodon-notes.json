@@ -630,5 +630,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110017193656617847"
     ],
     "lastTootTimestamp": 1678729151386
+  },
+  "https://nicolas-hoizey.com/notes/2023/03/16/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/03/16/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/03/16/1/",
+    "lang": "en",
+    "title": "💬 Note from 16 March 2023, 09:45",
+    "date_published": "2023-03-16T08:45:27Z",
+    "content_text": "TIL there are nullish coalescing operator (`??`) and assignment (`??=`) in many programming languages, including JavaScript.\n\nNever used them, always either using `||` or initialising variables with `undefined`.\n\nShould I refactor? 🤔\n\n#JavaScript\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/16/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110032119927138613"
+    ],
+    "lastTootTimestamp": 1678956908208
   }
 }
