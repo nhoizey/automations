@@ -755,5 +755,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110035531063626400"
     ],
     "lastTootTimestamp": 1679008958124
+  },
+  "https://nicolas-hoizey.com/links/2023/03/21/ten-tips-for-better-css-transitions-and-animations/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/21/ten-tips-for-better-css-transitions-and-animations/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/21/ten-tips-for-better-css-transitions-and-animations/",
+    "lang": "en",
+    "title": "🔗 Ten tips for better CSS transitions and animations",
+    "date_published": "2023-03-21T13:31:21Z",
+    "content_text": "🔗 “Ten tips for better CSS transitions and animations” by @collinsworth@mastodon.sandwich.net\n\n#CSS #animation \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/21/ten-tips-for-better-css-transitions-and-animations/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://joshcollinsworth.com/blog/great-transitions#5-multiple-properties-multiple-easings",
+        "mime_type": "image/png",
+        "title": "Screenshot of Ten tips for better CSS transitions and animations"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110061599283963246"
+    ],
+    "lastTootTimestamp": 1679406727549
   }
 }
