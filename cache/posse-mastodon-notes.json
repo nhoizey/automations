@@ -424,7 +424,7 @@
     "lang": "en",
     "title": "💬 Note from 27 January 2023, 18:14",
     "date_published": "2023-01-27T17:14:06Z",
-    "content_text": "I have a client site with a header that is hidden when the user scrolls down, but shown again when the user scrolls up, which seems pretty comon nowadays.\n\nThis triggers some CLS, even if the hide/show is done in less than 500 ms, as “continuous interactions such as scrolls, drags, or pinch and zoom gestures are not considered ‘recent input’”. 😞\n\n#CLS #CWV #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/27/2/",
+    "content_text": "I have a client site with a header that is hidden when the user scrolls down, but shown again when the user scrolls up, which seems pretty comon nowadays.\n\nThis triggers some CLS, even if the hide/show is done in less than 500 ms, as “continuous interactions such as scrolls, drags, or pinch and zoom gestures are not considered ‘recent input’”. 😞\n\n#CLS #CoreWebVitals #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/01/27/2/",
     "attachments": [],
     "toots": [
       "https://mamot.fr/users/nhoizey/statuses/109762452724725804"
@@ -643,5 +643,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110032119927138613"
     ],
     "lastTootTimestamp": 1678956908208
+  },
+  "https://nicolas-hoizey.com/notes/2023/03/21/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/03/21/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/03/21/1/",
+    "lang": "en",
+    "title": "💬 Note from 21 March 2023, 09:59",
+    "date_published": "2023-03-21T08:59:55Z",
+    "content_text": "Looks like Google likes it when we start improving websites performance! 🚀\n\n#CoreWebVitals #Google #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/21/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/03/21/1/google-search-console-web-vitals.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of Google Search Console's Core Web Vitals report, with an increasing number of green pages"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110060604600904285"
+    ],
+    "lastTootTimestamp": 1679391549848
   }
 }
