@@ -91,17 +91,17 @@ jobs:
           echo "$(git diff package.json | grep -e "^[-+]\s")" >> "${GITHUB_OUTPUT}"
           echo "${delimiter2}" >> "${GITHUB_OUTPUT}"
 
-      # - name: 🧐 Lint
-      #   if: ${{ steps.vars.outputs.updatable }}
-      #   run: npm lint:check
+      - name: 🧐 Lint
+        if: ${{ steps.vars.outputs.updatable }}
+        run: npm run lint --if-present
 
       - name: 🚨 Test
         if: ${{ steps.vars.outputs.updatable }}
-        run: npm run test
+        run: npm run test --if-present
 
       - name: 🏗️ Build
         if: ${{ steps.vars.outputs.updatable }}
-        run: npm run build
+        run: npm run build --if-present
 
       - name: 🔀 Commit and create PR
         if: ${{ steps.vars.outputs.updatable }}
