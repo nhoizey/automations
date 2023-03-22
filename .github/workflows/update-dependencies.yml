@@ -9,10 +9,6 @@ on:
   # workflow_dispatch:
   workflow_call:
 
-concurrency:
-  group: update-dependencies
-  cancel-in-progress: true
-
 jobs:
   update-packages:
     name: Update npm packages
