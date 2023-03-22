@@ -3987,7 +3987,10 @@
         "title": "A bridge not so far"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110067006248739883"
+    ],
+    "lastTootTimestamp": 1679489231359
   },
   "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/brooklyn-bridge-web-of-cables/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/brooklyn-bridge-web-of-cables/",
