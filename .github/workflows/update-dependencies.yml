@@ -97,7 +97,7 @@ jobs:
 
       - name: 🚨 Test
         if: ${{ steps.vars.outputs.updatable }}
-        run: npm test:unit
+        run: npm run test
 
       - name: 🏗️ Build
         if: ${{ steps.vars.outputs.updatable }}
