@@ -13,6 +13,10 @@
     "type": "git",
     "url": "https://github.com/nhoizey/automations"
   },
+  "scripts": {
+    "test": "echo \"No test script yet\"",
+    "build": "echo \"No build script yet\""
+  },
   "devDependencies": {
     "bent": "^7.3.12",
     "buffer": "^6.0.3",
