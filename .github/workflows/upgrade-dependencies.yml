@@ -10,7 +10,7 @@ on:
   workflow_call:
 
 concurrency:
-  group: ${{ github.workflow }}
+  group: update-dependencies
   cancel-in-progress: true
 
 jobs:
