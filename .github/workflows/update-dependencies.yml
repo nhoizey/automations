@@ -29,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: 🔍 Check for outdated packages
-        id: vars
+        id: check
         run: |
           # set -x
           # set -e
@@ -92,24 +92,24 @@ jobs:
 
       - name: ⏫ Update packages
         id: update
-        if: ${{ steps.vars.outputs.updatable }}
+        if: steps.check.outputs.updatable == true
         run: |
           npm update --save
 
       - name: 🧐 Lint
-        if: ${{ steps.vars.outputs.updatable }}
+        if: steps.check.outputs.updatable == true
         run: npm run lint --if-present
 
       - name: 🚨 Test
-        if: ${{ steps.vars.outputs.updatable }}
+        if: steps.check.outputs.updatable == true
         run: npm run test --if-present
 
       - name: 🏗️ Build
-        if: ${{ steps.vars.outputs.updatable }}
+        if: steps.check.outputs.updatable == true
         run: npm run build --if-present
 
       - name: 🔀 Commit and create PR
-        if: ${{ steps.vars.outputs.updatable }}
+        if: steps.check.outputs.updatable == true
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.PAT }}
