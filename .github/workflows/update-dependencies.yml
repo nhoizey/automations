@@ -86,10 +86,20 @@ jobs:
         run: |
           npm update --save
 
+          DIFF=$(git diff package.json | grep -e "^[-+]\s" | sort -k2)
+
           delimiter2="$(openssl rand -hex 8)"
           echo "diff_result<<${delimiter2}" >> "${GITHUB_OUTPUT}"
-          echo "$(git diff package.json | grep -e "^[-+]\s")" >> "${GITHUB_OUTPUT}"
+          echo "${DIFF}" >> "${GITHUB_OUTPUT}"
           echo "${delimiter2}" >> "${GITHUB_OUTPUT}"
+
+          {
+            echo ''
+            echo "Git diff:"
+            echo '```'
+            echo "${DIFF}"
+            echo '```'
+          } >> "${GITHUB_STEP_SUMMARY}"
 
       - name: 🧐 Lint
         if: ${{ steps.vars.outputs.updatable }}
