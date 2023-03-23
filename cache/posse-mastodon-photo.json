@@ -6080,7 +6080,10 @@
         "title": "Sailing from Mallaig to Isle of Skye"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110072672566825350"
+    ],
+    "lastTootTimestamp": 1679575692398
   },
   "https://nicolas-hoizey.photo/galleries/landscapes/traigh-beaches/": {
     "id": "https://nicolas-hoizey.photo/galleries/landscapes/traigh-beaches/",
