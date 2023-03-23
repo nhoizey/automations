@@ -662,5 +662,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110060604600904285"
     ],
     "lastTootTimestamp": 1679391549848
+  },
+  "https://nicolas-hoizey.com/notes/2023/03/23/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/03/23/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/03/23/1/",
+    "lang": "en",
+    "title": "💬 Note from 23 March 2023, 11:17",
+    "date_published": "2023-03-23T10:17:18Z",
+    "content_text": "Seriously, do we need yet another version of Low Quality Image Placeholders?\n\nWhy do some people want to do additional work just to show useless colourful pixels to users, delaying the rendering of the actual image?\n\nAs a user, I hate LQIP. Single colour backgrounds are fine, though.\n\n#image #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/23/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110072281746099488"
+    ],
+    "lastTootTimestamp": 1679569728915
   }
 }
