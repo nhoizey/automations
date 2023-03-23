@@ -65,11 +65,11 @@ jobs:
 
               delimiter="$(openssl rand -hex 8)"
               echo "updates_list<<${delimiter}" >> "${GITHUB_OUTPUT}"
-              echo "${COMPATIBLE_COUNT} package(s) will be updated:"
-              echo '```'
-              echo "${HEADER}"
-              echo "${COMPATIBLE}"
-              echo '```'
+              echo "${COMPATIBLE_COUNT} package(s) will be updated:" >> "${GITHUB_OUTPUT}"
+              echo '```' >> "${GITHUB_OUTPUT}"
+              echo "${HEADER}" >> "${GITHUB_OUTPUT}"
+              echo "${COMPATIBLE}" >> "${GITHUB_OUTPUT}"
+              echo '```' >> "${GITHUB_OUTPUT}"
               echo "${delimiter}" >> "${GITHUB_OUTPUT}"
 
               echo "updatable=true" >> "${GITHUB_OUTPUT}"
@@ -118,6 +118,7 @@ jobs:
             # Updating dependencies
 
             ${{ steps.check.outputs.updates_list }}
+
           branch: "update-dependencies"
           delete-branch: true
           commit-message: "build(deps): update NPM packages"
