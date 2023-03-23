@@ -108,7 +108,7 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.PAT }}
-          title: "build(deps): update NPM packages [skip ci]"
+          title: "build(deps): update NPM packages"
           body: |
             # Updating dependencies
 
@@ -121,7 +121,7 @@ jobs:
             [1]: https://github.com/peter-evans/create-pull-request
           branch: "update-dependencies"
           delete-branch: true
-          commit-message: "build(deps): update NPM packages [skip ci]"
+          commit-message: "build(deps): update NPM packages"
           labels: |
             type: dependencies 🔗
             automerge 🤞
