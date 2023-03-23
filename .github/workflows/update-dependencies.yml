@@ -117,7 +117,7 @@ jobs:
           body: |
             # Updating dependencies
 
-            ${{ steps.update.outputs.updates_list }}
+            ${{ steps.check.outputs.updates_list }}
           branch: "update-dependencies"
           delete-branch: true
           commit-message: "build(deps): update NPM packages"
