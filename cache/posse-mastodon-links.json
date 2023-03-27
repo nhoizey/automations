@@ -774,5 +774,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110061599283963246"
     ],
     "lastTootTimestamp": 1679406727549
+  },
+  "https://nicolas-hoizey.com/links/2023/03/27/the-yaml-document-from-hell/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/27/the-yaml-document-from-hell/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/27/the-yaml-document-from-hell/",
+    "lang": "en",
+    "title": "🔗 The yaml document from hell",
+    "date_published": "2023-03-27T09:07:05Z",
+    "content_text": "🔗 “The yaml document from hell” by @ruuda@fosstodon.org\n\n#YAML \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/27/the-yaml-document-from-hell/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+        "mime_type": "image/png",
+        "title": "Screenshot of The yaml document from hell"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110094515735838487"
+    ],
+    "lastTootTimestamp": 1679908992740
   }
 }
