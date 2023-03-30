@@ -812,5 +812,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110111965303879137"
     ],
     "lastTootTimestamp": 1680175251996
+  },
+  "https://nicolas-hoizey.com/links/2023/03/30/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/30/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/30/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/",
+    "lang": "en",
+    "title": "🔗 Using :is() in complex selectors selects more than you might initially think",
+    "date_published": "2023-03-30T21:02:03Z",
+    "content_text": "🔗 “Using :is() in complex selectors selects more than you might initially think” by @bramus@front-end.social\n\n#CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/30/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bram.us/2023/01/17/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Using :is() in complex selectors selects more than you might initially think"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110114322473120053"
+    ],
+    "lastTootTimestamp": 1680211219523
   }
 }
