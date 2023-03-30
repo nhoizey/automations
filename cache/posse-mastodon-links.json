@@ -793,5 +793,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110094515735838487"
     ],
     "lastTootTimestamp": 1679908992740
+  },
+  "https://nicolas-hoizey.com/links/2023/03/30/sass-and-native-nesting/": {
+    "id": "https://nicolas-hoizey.com/links/2023/03/30/sass-and-native-nesting/",
+    "url": "https://nicolas-hoizey.com/links/2023/03/30/sass-and-native-nesting/",
+    "lang": "en",
+    "title": "🔗 Sass and Native Nesting",
+    "date_published": "2023-03-30T10:35:03Z",
+    "content_text": "🔗 “Sass and Native Nesting” by @nex3@mastodon.social\n\n#Sass #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/03/30/sass-and-native-nesting/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://sass-lang.com/blog/sass-and-native-nesting",
+        "mime_type": "image/png",
+        "title": "Screenshot of Sass and Native Nesting"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110111965303879137"
+    ],
+    "lastTootTimestamp": 1680175251996
   }
 }
