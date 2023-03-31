@@ -5,7 +5,7 @@
     "lang": "en",
     "title": "🖋 Cutting back on Instacrap",
     "date_published": "2022-05-18T16:23:01Z",
-    "content_text": "🖋 “Cutting back on Instacrap”\n\nI've been disliking for a long time that Instagram is a closed platform, more so in the hands of Facebook.\n\n#photography #Pixelfed #Flickr \n\n⚓️ https://nicolas-hoizey.com/articles/2022/05/18/cutting-back-on-instacrap/",
+    "content_text": "🖋 “Cutting back on Instacrap”\n\nI've been disliking for a long time that Instagram is a closed platform, more so in the hands of Facebook. I additionally now really dislike that they are doing everything to resemble TikTok, by prioritizing video more and more, at the expense of photography.\n\n#photography #Pixelfed #Flickr \n\n⚓️ https://nicolas-hoizey.com/articles/2022/05/18/cutting-back-on-instacrap/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -41,7 +41,7 @@
     "lang": "en",
     "title": "🖋 Enhancing archives navigation, step 1",
     "date_published": "2020-10-26T14:16:23Z",
-    "content_text": "🖋 “Enhancing archives navigation, step 1”\n\nI decided years ago to remove paged navigation (aka \"pagination\"), because I find it not user friendly at all, and a nightmare for SEO with new content pushing one tenth of contents to another page (for a 10 items per page pagination). Now, I improved the UX even further.\n\n#Eleventy #UX \n\n⚓️ https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/",
+    "content_text": "🖋 “Enhancing archives navigation, step 1”\n\nI decided years ago to remove paged navigation (aka “pagination”), because I find it not user friendly at all, and a nightmare for SEO with new content pushing one tenth of contents to another page (for a 10 items per page pagination). Now, I improved the UX even further.\n\n#Eleventy #UX \n\n⚓️ https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -77,7 +77,7 @@
     "lang": "en",
     "title": "🖋 JAMstack is fast only if you make it so",
     "date_published": "2020-05-05T10:13:01Z",
-    "content_text": "🖋 “JAMstack is fast only if you make it so”\n\nJAMstack often promotes itself as an excellent way to provide performant sites. It's even the first listed benefit on jamstack.wtf, a \"guide [which] gathers the concept of JAMstack in a straight-forward guide to encourage other developers to adopt the workflow\". But too many JAMstack sites are very slow.\n\n#JAMstack #WebPerf #API #Webmention \n\n⚓️ https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/",
+    "content_text": "🖋 “JAMstack is fast only if you make it so”\n\nJAMstack often promotes itself as an excellent way to provide performant sites. It's even the first listed benefit on jamstack.wtf, a “guide [which] gathers the concept of JAMstack in a straight-forward guide to encourage other developers to adopt the workflow”. But too many JAMstack sites are very slow.\n\n#JAMstack #WebPerf #API #Webmention \n\n⚓️ https://nicolas-hoizey.com/articles/2020/05/05/jamstack-is-fast-only-if-you-make-it-so/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -89,7 +89,7 @@
     "lang": "en",
     "title": "🖋 Updating npm packages versions in package.json",
     "date_published": "2020-03-06T10:13:01Z",
-    "content_text": "🖋 “Updating npm packages versions in package.json”\n\nI chose to use npm-check-updates to check for available updates of packages in my package.json files, and it always works without issues, so I guess I can recommend it.\n\n#Node #npm \n\n⚓️ https://nicolas-hoizey.com/articles/2020/03/06/updating-npm-packages-versions-in-package-json/",
+    "content_text": "🖋 “Updating npm packages versions in package.json”\n\nI chose to use to check for available updates of packages in my files, and it always works without issues, so I guess I can recommend it. I'm also using this as a reminder for my own use… 😁\n\n#Node #npm \n\n⚓️ https://nicolas-hoizey.com/articles/2020/03/06/updating-npm-packages-versions-in-package-json/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -101,7 +101,7 @@
     "lang": "en",
     "title": "🖋 Can we monitor User Happiness on the Web with performance tools?",
     "date_published": "2020-01-10T10:13:01Z",
-    "content_text": "🖋 “Can we monitor User Happiness on the Web with performance tools?”\n\nI really like that SpeedCurve tried to innovate with this recent \"User Happiness\" metric (original version). It aggregates multiple technical metrics to decide if users visiting the page are happy or not with it. But I see several issues in this metric.\n\n#WebPerf #SpeedCurve \n\n⚓️ https://nicolas-hoizey.com/articles/2020/01/10/can-we-monitor-user-happiness-on-the-web-with-performance-tools/",
+    "content_text": "🖋 “Can we monitor User Happiness on the Web with performance tools?”\n\nI really like that SpeedCurve tried to innovate with this recent “User Happiness ” metric (original version ). It aggregates multiple technical metrics to decide if users visiting the page are happy or not with it. But I see several issues in this metric.\n\n#WebPerf #SpeedCurve \n\n⚓️ https://nicolas-hoizey.com/articles/2020/01/10/can-we-monitor-user-happiness-on-the-web-with-performance-tools/",
     "toots": [
       "Ignored during first run (see `ignoreFirstRun` input)"
     ],
@@ -257,7 +257,7 @@
     "lang": "en",
     "title": "🖋 Updating webmentions on a static site",
     "date_published": "2023-02-05T19:27:38Z",
-    "content_text": "🖋 “Updating webmentions on a static site”\n\nWhen I started using Webmention on this site (more than 5 years ago!), I was building the site on my local computer, and uploading the build result on my hosting with rsync. I've moved to Cloudflare Pages 6 months ago, which means webmentions where updated only when I pushed new content to GitHub. Here's how I fixed that.\n\n#Webmention #Eleventy #static #GitHub #Cloudflare \n\n⚓️ https://nicolas-hoizey.com/articles/2023/02/05/updating-webmentions-on-a-static-site/",
+    "content_text": "🖋 “Updating webmentions on a static site”\n\nWhen I started using Webmention on this site (more than 5 years ago!), I was building the site on my local computer, and uploading the build result on my hosting with. I've moved to Cloudflare Pages 6 months ago, which means webmentions where updated only when I pushed new content to GitHub. Here's how I fixed that.\n\n#Webmention #Eleventy #static #GitHub #Cloudflare \n\n⚓️ https://nicolas-hoizey.com/articles/2023/02/05/updating-webmentions-on-a-static-site/",
     "toots": [
       "https://mamot.fr/users/nhoizey/statuses/109814034524432471"
     ],
@@ -269,7 +269,7 @@
     "lang": "en",
     "title": "🖋 A bookmarklet to create a new link content Markdown on GitHub",
     "date_published": "2023-02-08T09:42:51Z",
-    "content_text": "🖋 “A bookmarklet to create a new link content Markdown on GitHub”\n\nWhen I was building my site on my local computer, I had a shell script to initialize a new Markdown file for sharing a link. When I moved to Cloudflare Pages 6 months ago, it opened a new opportunity to share links more easily in my Eleventy content, directly from the page I wanted to share. Bookmarklets are still an awesome invention!\n\n#Markdown #Eleventy #bookmarklet \n\n⚓️ https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/",
+    "content_text": "🖋 “A bookmarklet to create a new link content Markdown on GitHub”\n\nWhen I was building my site on my local computer, I had a shell script to initialize a new Markdown file for sharing a link. When I moved to Cloudflare Pages 6 months ago, it opened a new opportunity to share links more easily in my Eleventy content, directly from the page I wanted to share. Bookmarklets are still an awesome invention!\n\n#Markdown #Eleventy #bookmarklet \n\n⚓️ https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/",
     "toots": [
       "https://mamot.fr/users/nhoizey/statuses/109828724318350810"
     ],
@@ -286,5 +286,17 @@
       "https://mamot.fr/users/nhoizey/statuses/109828897889438131"
     ],
     "lastTootTimestamp": 1675855986020
+  },
+  "https://nicolas-hoizey.com/articles/2023/03/31/how-i-built-my-own-excerpt-for-markdown-content-in-eleventy/": {
+    "id": "https://nicolas-hoizey.com/articles/2023/03/31/how-i-built-my-own-excerpt-for-markdown-content-in-eleventy/",
+    "url": "https://nicolas-hoizey.com/articles/2023/03/31/how-i-built-my-own-excerpt-for-markdown-content-in-eleventy/",
+    "lang": "en",
+    "title": "🖋 How I built my own excerpt for Markdown content in Eleventy",
+    "date_published": "2023-03-30T23:40:32Z",
+    "content_text": "🖋 “How I built my own excerpt for Markdown content in Eleventy”\n\nI was not really happy with Eleventy's native excerpt solution requiring just a separator and having the excerpt content preserved in the content, without any way to style it differently. So I tried different alternatives, and settled on a solution with some Markdown-it plugins and a bunch of regexes.\n\n#Eleventy #Markdown \n\n⚓️ https://nicolas-hoizey.com/articles/2023/03/31/how-i-built-my-own-excerpt-for-markdown-content-in-eleventy/",
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110115151251256270"
+    ],
+    "lastTootTimestamp": 1680223866091
   }
 }
