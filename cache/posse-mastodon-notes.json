@@ -688,5 +688,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110118996476386985"
     ],
     "lastTootTimestamp": 1680282539143
+  },
+  "https://nicolas-hoizey.com/notes/2023/03/31/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/03/31/2/",
+    "url": "https://nicolas-hoizey.com/notes/2023/03/31/2/",
+    "lang": "en",
+    "title": "💬 Note from 31 March 2023, 19:20",
+    "date_published": "2023-03-31T17:20:25Z",
+    "content_text": "Is it ok to be proud to almost be in the top 25,000 of The WebAIM Million, the 2023 report on the accessibility of the top 1,000,000 home pages? ☺️\n\nWith \"Number of accessibility errors detected: 0\", my personal site is ranked #25,406 of the top 1,000,000 home pages.\n\n#accessibility #WebAIM\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/31/2/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/03/31/2/webaim-million-2023.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of my personal site rank in The WebAIM Million: 25,406 of 1,000,000"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110119115729461165"
+    ],
+    "lastTootTimestamp": 1680284359090
   }
 }
