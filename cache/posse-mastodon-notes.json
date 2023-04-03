@@ -682,7 +682,7 @@
     "lang": "en",
     "title": "💬 Note from 31 March 2023, 18:56",
     "date_published": "2023-03-31T16:56:45Z",
-    "content_text": "Each new feature/release makes me like Pixelfed a little less… 😞\n\n<https://mastodon.social/@pixelfed/110117529562163633>\n\nCloning Instacrap is not what I initialy thought Pixelfed would do.\n\nI guess I was right betting on my own website instead of Pixelfed after all: <https://nicolas-hoizey.photo>\n\n#photography #Pixelfed\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/31/1/",
+    "content_text": "Each new feature/release makes me like Pixelfed a little less… 😞\n\nhttps://mastodon.social/@pixelfed/110117529562163633\n\nCloning Instacrap is not what I initialy thought Pixelfed would do.\n\nI guess I was right betting on my own website instead of Pixelfed after all: <https://nicolas-hoizey.photo>\n\n#photography #Pixelfed\n\n⚓️ https://nicolas-hoizey.com/notes/2023/03/31/1/",
     "attachments": [],
     "toots": [
       "https://mamot.fr/users/nhoizey/statuses/110118996476386985"
@@ -707,5 +707,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110119115729461165"
     ],
     "lastTootTimestamp": 1680284359090
+  },
+  "https://nicolas-hoizey.com/notes/2023/04/03/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/04/03/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/04/03/1/",
+    "lang": "en",
+    "title": "💬 Note from 3 April 2023, 12:54",
+    "date_published": "2023-04-03T10:54:50Z",
+    "content_text": "I'm so happy to go soon to We ❤️ Speed 2023, the list of speakers and talks is amazing! 😍\n\nhttps://www.welovespeed.com/2023/interventions/\n\n#conference #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/04/03/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110134566860245206"
+    ],
+    "lastTootTimestamp": 1680520124692
   }
 }
