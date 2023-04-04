@@ -2075,7 +2075,10 @@
         "title": "Augur Buzzard"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110140612442545123"
+    ],
+    "lastTootTimestamp": 1680612372713
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/baglafecht-weaver/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/baglafecht-weaver/",
