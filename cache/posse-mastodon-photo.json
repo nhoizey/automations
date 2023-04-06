@@ -1647,7 +1647,10 @@
         "title": "Wisps of smoke"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110151935534998848"
+    ],
+    "lastTootTimestamp": 1680785149406
   },
   "https://nicolas-hoizey.photo/galleries/portraits/outdoor/aka-hadoken/": {
     "id": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/aka-hadoken/",
