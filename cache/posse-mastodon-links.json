@@ -831,5 +831,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110114322473120053"
     ],
     "lastTootTimestamp": 1680211219523
+  },
+  "https://nicolas-hoizey.com/links/2023/04/07/on-container-queries-responsive-images-and-jpeg-xl/": {
+    "id": "https://nicolas-hoizey.com/links/2023/04/07/on-container-queries-responsive-images-and-jpeg-xl/",
+    "url": "https://nicolas-hoizey.com/links/2023/04/07/on-container-queries-responsive-images-and-jpeg-xl/",
+    "lang": "en",
+    "title": "🔗 On Container Queries, Responsive Images, and JPEG-XL",
+    "date_published": "2023-04-07T06:33:40Z",
+    "content_text": "🔗 “On Container Queries, Responsive Images, and JPEG-XL” by @grigs@front-end.social\n\n#image #CSS #RWD #JPEGXL #WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/07/on-container-queries-responsive-images-and-jpeg-xl/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cloudfour.com/thinks/on-container-queries-responsive-images-and-jpeg-xl/",
+        "mime_type": "image/png",
+        "title": "Screenshot of On Container Queries, Responsive Images, and JPEG-XL"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110156207040568098"
+    ],
+    "lastTootTimestamp": 1680850331848
   }
 }
