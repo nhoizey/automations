@@ -850,5 +850,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110156207040568098"
     ],
     "lastTootTimestamp": 1680850331848
+  },
+  "https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/": {
+    "id": "https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/",
+    "url": "https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/",
+    "lang": "en",
+    "title": "🔗 Largest Contentul Paint change in Chrome 112 to ignore low-entropy images",
+    "date_published": "2023-04-07T13:06:04Z",
+    "content_text": "🔗 “Largest Contentul Paint change in Chrome 112 to ignore low-entropy images”\n\n#LCP #CoreWebVitals \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/2023_04_lcp.md",
+        "mime_type": "image/png",
+        "title": "Screenshot of Largest Contentul Paint change in Chrome 112 to ignore low-entropy images"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110157745273178973"
+    ],
+    "lastTootTimestamp": 1680873801987
   }
 }
