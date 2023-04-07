@@ -720,5 +720,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110134566860245206"
     ],
     "lastTootTimestamp": 1680520124692
+  },
+  "https://nicolas-hoizey.com/notes/2023/04/07/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/04/07/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/04/07/1/",
+    "lang": "en",
+    "title": "💬 Note from 7 April 2023, 13:59",
+    "date_published": "2023-04-07T11:59:13Z",
+    "content_text": "Chrome 113 beta adds support for `@​media (update: slow)` (Firefox already has it), great to remove some animations.\n\nBut can we `@​supports` a `@media` to use it only if supported? I don't think so.\n\nHow do you use new `@media` features progressively?\n\n#animation #CSS\n\n⚓️ https://nicolas-hoizey.com/notes/2023/04/07/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110157540011093897"
+    ],
+    "lastTootTimestamp": 1680870667204
   }
 }
