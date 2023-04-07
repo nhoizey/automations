@@ -857,7 +857,7 @@
     "lang": "en",
     "title": "🔗 Largest Contentul Paint change in Chrome 112 to ignore low-entropy images",
     "date_published": "2023-04-07T13:06:04Z",
-    "content_text": "🔗 “Largest Contentul Paint change in Chrome 112 to ignore low-entropy images”\n\n#LCP #CoreWebVitals \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/",
+    "content_text": "🔗 “Largest Contentul Paint change in Chrome 112 to ignore low-entropy images”\n\n#LCP #CoreWebVitals #image #WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/",
     "attachments": [
       {
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/2023_04_lcp.md",
@@ -869,5 +869,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110157745273178973"
     ],
     "lastTootTimestamp": 1680873801987
+  },
+  "https://nicolas-hoizey.com/links/2023/04/07/how-tweetbot-died-and-lived-again/": {
+    "id": "https://nicolas-hoizey.com/links/2023/04/07/how-tweetbot-died-and-lived-again/",
+    "url": "https://nicolas-hoizey.com/links/2023/04/07/how-tweetbot-died-and-lived-again/",
+    "lang": "en",
+    "title": "🔗 How Tweetbot died (and lived again)",
+    "date_published": "2023-04-07T15:30:32Z",
+    "content_text": "🔗 “How Tweetbot died (and lived again)” by @dubbin@friend.camp\n\n#Twitter #Mastodon \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/07/how-tweetbot-died-and-lived-again/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.theverge.com/23653556/tweetbot-twitter-api-elon-musk-mastodon",
+        "mime_type": "image/png",
+        "title": "Screenshot of How Tweetbot died (and lived again)"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110158385425321985"
+    ],
+    "lastTootTimestamp": 1680883569280
   }
 }
