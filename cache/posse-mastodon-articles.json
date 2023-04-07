@@ -298,5 +298,17 @@
       "https://mamot.fr/users/nhoizey/statuses/110115151251256270"
     ],
     "lastTootTimestamp": 1680223866091
+  },
+  "https://nicolas-hoizey.com/articles/2023/04/07/running-css-animations-only-if-both-the-device-and-the-user-allow-it/": {
+    "id": "https://nicolas-hoizey.com/articles/2023/04/07/running-css-animations-only-if-both-the-device-and-the-user-allow-it/",
+    "url": "https://nicolas-hoizey.com/articles/2023/04/07/running-css-animations-only-if-both-the-device-and-the-user-allow-it/",
+    "lang": "en",
+    "title": "🖋 Running CSS animations only if both the device and the user allow it",
+    "date_published": "2023-04-07T17:49:14Z",
+    "content_text": "🖋 “Running CSS animations only if both the device and the user allow it”\n\nThanks to Chrome release notes, I discovered today that there is an media feature which accepts values, and, to set styles depending on the ability of the device to update the rendering and the speed of it. As I'm already respecting the user's preference with the media feature, I wondered how I could progressively enhance this with the new media feature.\n\n#CSS \n\n⚓️ https://nicolas-hoizey.com/articles/2023/04/07/running-css-animations-only-if-both-the-device-and-the-user-allow-it/",
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110158917114398369"
+    ],
+    "lastTootTimestamp": 1680891680584
   }
 }
