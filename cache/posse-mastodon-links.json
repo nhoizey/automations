@@ -888,5 +888,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110158385425321985"
     ],
     "lastTootTimestamp": 1680883569280
+  },
+  "https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/": {
+    "id": "https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
+    "url": "https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
+    "lang": "en",
+    "title": "🔗 3 Methods for Scoped Styles in Web Components That Work Everywhere",
+    "date_published": "2023-04-08T10:29:57Z",
+    "content_text": "🔗 “3 Methods for Scoped Styles in Web Components That Work Everywhere” by @zachleat@zachleat.com\n\n#WebC #webComponents #JavaScript #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zachleat.com/web/styling-web-components/",
+        "mime_type": "image/png",
+        "title": "Screenshot of 3 Methods for Scoped Styles in Web Components That Work Everywhere"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110162814140661708"
+    ],
+    "lastTootTimestamp": 1680951143804
   }
 }
