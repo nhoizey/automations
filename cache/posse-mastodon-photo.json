@@ -1634,7 +1634,10 @@
         "title": "Splash"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110174515701714809"
+    ],
+    "lastTootTimestamp": 1681129699426
   },
   "https://nicolas-hoizey.photo/galleries/misc/still-life/wisps-of-smoke/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/still-life/wisps-of-smoke/",
