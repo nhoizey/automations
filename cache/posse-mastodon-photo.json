@@ -6283,7 +6283,10 @@
         "title": "Who is the observer?"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110191503546630836"
+    ],
+    "lastTootTimestamp": 1681388909251
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
