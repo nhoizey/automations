@@ -746,5 +746,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110158935366216718"
     ],
     "lastTootTimestamp": 1680891958296
+  },
+  "https://nicolas-hoizey.com/notes/2023/04/13/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/04/13/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/04/13/1/",
+    "lang": "en",
+    "title": "💬 Note from 13 April 2023, 10:40",
+    "date_published": "2023-04-13T08:40:23Z",
+    "content_text": "I love @speedcurve@webperf.social's simple and efficient Core Web Vitals Real User Monitoring, especially when everything is green! 🥳\n\nThis is a real e-commerce site, with many real users everyday. After a few months of performance optimisation.\n\n#CoreWebVitals #RUM #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/04/13/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/04/13/1/SpeedCurve-RUM-dashboard.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of graphs for last week's Core Web Vitals in SpeedCurve Real User Monitoring"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110190664558817839"
+    ],
+    "lastTootTimestamp": 1681376107347
   }
 }
