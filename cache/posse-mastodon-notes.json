@@ -765,5 +765,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110190664558817839"
     ],
     "lastTootTimestamp": 1681376107347
+  },
+  "https://nicolas-hoizey.com/notes/2023/04/14/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/04/14/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/04/14/1/",
+    "lang": "en",
+    "title": "💬 Note from 14 April 2023, 22:13",
+    "date_published": "2023-04-14T20:13:21Z",
+    "content_text": "I still don't understand why using Cloudflare in front of Netlify allows for a much better and stable Time To First Byte (TTFB) than Cloudflare Pages or Netlify alone… 🤷‍♂️\n\nTTFB for static sites should always be very low.\n\n#Cloudflare #Netlify #TTFB #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/04/14/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/04/14/1/SpeedCurve-TTFB-Netlify-Cloudflare.png",
+        "mime_type": "image/png",
+        "title": "SpeedCurve graph with Time To First Byte for the 3 hosting solutions"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110199037137560540"
+    ],
+    "lastTootTimestamp": 1681503862720
   }
 }
