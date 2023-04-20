@@ -907,5 +907,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110162814140661708"
     ],
     "lastTootTimestamp": 1680951143804
+  },
+  "https://nicolas-hoizey.com/links/2023/04/20/pixels-vs-relative-units-in-css-why-it-s-still-a-big-deal/": {
+    "id": "https://nicolas-hoizey.com/links/2023/04/20/pixels-vs-relative-units-in-css-why-it-s-still-a-big-deal/",
+    "url": "https://nicolas-hoizey.com/links/2023/04/20/pixels-vs-relative-units-in-css-why-it-s-still-a-big-deal/",
+    "lang": "en",
+    "title": "🔗 Pixels vs. Relative Units in CSS: why it’s still a big deal",
+    "date_published": "2023-04-20T09:25:34Z",
+    "content_text": "🔗 “Pixels vs. Relative Units in CSS: why it’s still a big deal” by @resource11@front-end.social\n\n#accessibility #CSS #em #rem \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/20/pixels-vs-relative-units-in-css-why-it-s-still-a-big-deal/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Pixels vs. Relative Units in CSS: why it’s still a big deal"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110230462095190029"
+    ],
+    "lastTootTimestamp": 1681983370570
   }
 }
