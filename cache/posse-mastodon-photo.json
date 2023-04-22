@@ -4541,7 +4541,10 @@
         "title": "The (new) Road to Hell('s Kitchen)"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110242462668294431"
+    ],
+    "lastTootTimestamp": 1682166483796
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/an-evening-on-top-of-rome/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/an-evening-on-top-of-rome/",
