@@ -1876,7 +1876,10 @@
         "title": "Lahérez"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110259450951963343"
+    ],
+    "lastTootTimestamp": 1682425704429
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/ploumanac-h-b-and-w/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/ploumanac-h-b-and-w/",
