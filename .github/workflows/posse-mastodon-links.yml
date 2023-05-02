@@ -29,7 +29,11 @@ jobs:
           mastodonToken: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           cacheFile: "posse-mastodon-${{ env.TYPE }}.json"
           cacheTimestampFile: "posse-mastodon-${{ env.TYPE }}-timestamp.json"
-          globalDelayToots: 10
+          # 23 hours between links
+          globalDelayToots: 1380
+          nbTootsPerItem: 2
+          # 8.5 days between same links
+          delayTootsSameItem: 12240
 
       - name: Pull any changes from Git 📥
         run: git pull
