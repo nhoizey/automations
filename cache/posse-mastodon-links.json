@@ -581,9 +581,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/109842185028242991"
+      "https://mamot.fr/users/nhoizey/statuses/109842185028242991",
+      "https://mamot.fr/users/nhoizey/statuses/110301423422706373"
     ],
-    "lastTootTimestamp": 1676058731663
+    "lastTootTimestamp": 1683066153472
   },
   "https://nicolas-hoizey.com/links/2023/02/17/push/": {
     "id": "https://nicolas-hoizey.com/links/2023/02/17/push/",
