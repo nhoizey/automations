@@ -946,5 +946,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110253111131675336"
     ],
     "lastTootTimestamp": 1682328966680
+  },
+  "https://nicolas-hoizey.com/links/2023/05/02/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/02/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/02/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/",
+    "lang": "en",
+    "title": "🔗 30th anniversary of licensing the Web for general use and at no cost",
+    "date_published": "2023-05-02T21:54:02Z",
+    "content_text": "🔗 “30th anniversary of licensing the Web for general use and at no cost” by @koalie@mastodon.social\n\n#W3C #Web \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/02/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.w3.org/blog/2023/04/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/",
+        "mime_type": "image/png",
+        "title": "Screenshot of 30th anniversary of licensing the Web for general use and at no cost"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110306903111457395"
+    ],
+    "lastTootTimestamp": 1683149766898
   }
 }
