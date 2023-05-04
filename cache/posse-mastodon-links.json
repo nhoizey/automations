@@ -965,5 +965,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110306903111457395"
     ],
     "lastTootTimestamp": 1683149766898
+  },
+  "https://nicolas-hoizey.com/links/2023/05/04/introducing-new-developer-friendly-pricing/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/04/introducing-new-developer-friendly-pricing/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/04/introducing-new-developer-friendly-pricing/",
+    "lang": "en",
+    "title": "🔗 [Algolia] introducing new developer-friendly pricing",
+    "date_published": "2023-05-04T14:57:43Z",
+    "content_text": "🔗 “[Algolia] introducing new developer-friendly pricing”\n\n#Algolia #search \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/04/introducing-new-developer-friendly-pricing/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.algolia.com/blog/algolia/introducing-new-developer-friendly-pricing/",
+        "mime_type": "image/png",
+        "title": "Screenshot of [Algolia] introducing new developer-friendly pricing"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110312392334947017"
+    ],
+    "lastTootTimestamp": 1683233525811
   }
 }
