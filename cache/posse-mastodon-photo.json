@@ -3368,7 +3368,10 @@
         "title": "The typical country town street"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110310411303330083"
+    ],
+    "lastTootTimestamp": 1683203299210
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/the-village/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/the-village/",
