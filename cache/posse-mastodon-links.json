@@ -829,9 +829,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110114322473120053"
+      "https://mamot.fr/users/nhoizey/statuses/110114322473120053",
+      "https://mamot.fr/users/nhoizey/statuses/110317873064662629"
     ],
-    "lastTootTimestamp": 1680211219523
+    "lastTootTimestamp": 1683317155063
   },
   "https://nicolas-hoizey.com/links/2023/04/07/on-container-queries-responsive-images-and-jpeg-xl/": {
     "id": "https://nicolas-hoizey.com/links/2023/04/07/on-container-queries-responsive-images-and-jpeg-xl/",
