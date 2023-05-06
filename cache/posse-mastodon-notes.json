@@ -797,5 +797,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110253123603174793"
     ],
     "lastTootTimestamp": 1682329156922
+  },
+  "https://nicolas-hoizey.com/notes/2023/05/06/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/05/06/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/05/06/1/",
+    "lang": "en",
+    "title": "💬 Note from 6 May 2023, 19:40",
+    "date_published": "2023-05-06T17:40:55Z",
+    "content_text": "Is it ok to use Workbox's `injectManifest` with the recent recipes `warmCache` option?\n\nI tried this without success in the Service Worker in Pack11ty:\n\n```javascript\nstaticResourceCache({\n  warmCache: self.__WB_MANIFEST,\n});\n```\n\nOther caches are warmed up, not this one.\n\n#ServiceWorker #Workbox\n\n⚓️ https://nicolas-hoizey.com/notes/2023/05/06/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110323791036093387"
+    ],
+    "lastTootTimestamp": 1683407456226
   }
 }
