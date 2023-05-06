@@ -16,14 +16,5 @@
   "scripts": {
     "test": "echo \"No test script yet\"",
     "build": "echo \"No build script yet\""
-  },
-  "devDependencies": {
-    "bent": "^7.3.12",
-    "buffer": "^6.0.3",
-    "dotenv": "^16.0.3",
-    "masto": "^4.11.1",
-    "moment": "^2.29.4",
-    "node-fetch": "^2.6.9",
-    "twitter": "^1.7.1"
   }
 }
