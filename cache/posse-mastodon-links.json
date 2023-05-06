@@ -897,7 +897,7 @@
     "lang": "en",
     "title": "🔗 3 Methods for Scoped Styles in Web Components That Work Everywhere",
     "date_published": "2023-04-08T10:29:57Z",
-    "content_text": "🔗 “3 Methods for Scoped Styles in Web Components That Work Everywhere” by @zachleat@zachleat.com\n\n#WebC #webComponents #JavaScript #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
+    "content_text": "🔗 “3 Methods for Scoped Styles in Web Components That Work Everywhere” by @zachleat@zachleat.com\n\n#WebC #webComponent #JavaScript #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
     "attachments": [
       {
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zachleat.com/web/styling-web-components/",
@@ -985,5 +985,56 @@
       "https://mamot.fr/users/nhoizey/statuses/110312392334947017"
     ],
     "lastTootTimestamp": 1683233525811
+  },
+  "https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/",
+    "lang": "en",
+    "title": "🔗 HTML with Superpowers",
+    "date_published": "2023-05-06T12:40:09Z",
+    "content_text": "🔗 “HTML with Superpowers” by @davatron5000@mastodon.social\n\n#webComponent \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://htmlwithsuperpowers.netlify.app/",
+        "mime_type": "image/png",
+        "title": "Screenshot of HTML with Superpowers"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110323355162956021"
+    ],
+    "lastTootTimestamp": 1683400806563
+  },
+  "https://nicolas-hoizey.com/links/2023/05/06/the-intersectionality-of-web-performance/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/06/the-intersectionality-of-web-performance/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/06/the-intersectionality-of-web-performance/",
+    "lang": "en",
+    "title": "🔗 The intersectionality of web performance",
+    "date_published": "2023-05-06T10:19:49Z",
+    "content_text": "🔗 “The intersectionality of web performance” by @adactio@mastodon.social\n\n#WebPerf #accessibility #sustainability \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/06/the-intersectionality-of-web-performance/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://adactio.com/journal/20154",
+        "mime_type": "image/png",
+        "title": "Screenshot of The intersectionality of web performance"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/05/05/supportscss/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/05/supportscss/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/05/supportscss/",
+    "lang": "en",
+    "title": "🔗 SupportsCSS",
+    "date_published": "2023-05-05T21:47:15Z",
+    "content_text": "🔗 “SupportsCSS” by @5t3ph@front-end.social\n\n#CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/05/supportscss/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://supportscss.dev/",
+        "mime_type": "image/png",
+        "title": "Screenshot of SupportsCSS"
+      }
+    ],
+    "toots": []
   }
 }
