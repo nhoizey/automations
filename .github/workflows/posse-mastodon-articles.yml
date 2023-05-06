@@ -1,9 +1,8 @@
 name: "POSSE articles to Mastodon"
 on:
   schedule:
-    # At every 16th minute from 13 through 59 past every hour
-    # https://crontab.guru/#1/16_*_*_*_*
-    - cron: "13/16 * * * *"
+    # https://crontab.guru/#13/37_*_*_*_*
+    - cron: "13/37 * * * *"
   workflow_dispatch:
 
 env:

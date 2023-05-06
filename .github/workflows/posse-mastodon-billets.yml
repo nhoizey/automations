@@ -1,9 +1,8 @@
 name: POSSE billets to Mastodon
 on:
   # schedule:
-  # At every 16th minute from 5 through 59 past every hour
-  # https://crontab.guru/#1/7_*_*_*_*
-  # - cron: "9/16 * * * *"
+  # https://crontab.guru/#9/37_*_*_*_*
+  # - cron: "9/37 * * * *"
   workflow_dispatch:
 
 env:

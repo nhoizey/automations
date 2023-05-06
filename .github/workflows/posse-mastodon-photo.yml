@@ -1,7 +1,6 @@
 name: "POSSE photos to Mastodon with GitHub Action"
 on:
   schedule:
-    # At 12:17 (UTC) every day
     # https://crontab.guru/#17_12_*_*_*
     - cron: "17 12 * * *"
   workflow_dispatch:
