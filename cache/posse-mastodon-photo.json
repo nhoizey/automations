@@ -2364,7 +2364,10 @@
         "title": "Alone"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110327397360853802"
+    ],
+    "lastTootTimestamp": 1683462485697
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/close-to-me/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/close-to-me/",
