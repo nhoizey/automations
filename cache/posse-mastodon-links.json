@@ -810,9 +810,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110111965303879137"
+      "https://mamot.fr/users/nhoizey/statuses/110111965303879137",
+      "https://mamot.fr/users/nhoizey/statuses/110341127204787952"
     ],
-    "lastTootTimestamp": 1680175251996
+    "lastTootTimestamp": 1683671987166
   },
   "https://nicolas-hoizey.com/links/2023/03/30/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/": {
     "id": "https://nicolas-hoizey.com/links/2023/03/30/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/",
