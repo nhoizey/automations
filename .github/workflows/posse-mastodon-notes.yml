@@ -1,8 +1,8 @@
 name: "POSSE notes to Mastodon"
 on:
   schedule:
-    # https://crontab.guru/#5/37_*_*_*_*
-    - cron: "5/37 * * * *"
+    # https://crontab.guru/#2/7_0-2,8-23_*_*_*
+    - cron: "2/17 0-2,8-23 * * *"
   workflow_dispatch:
 
 env:
