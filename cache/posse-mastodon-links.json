@@ -1042,5 +1042,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110328861447755742"
     ],
     "lastTootTimestamp": 1683484824495
+  },
+  "https://nicolas-hoizey.com/links/2023/05/09/htmx-is-the-future/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/09/htmx-is-the-future/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/09/htmx-is-the-future/",
+    "lang": "en",
+    "title": "🔗 HTMX is the Future",
+    "date_published": "2023-05-09T12:37:27Z",
+    "content_text": "🔗 “HTMX is the Future” by @quii@mastodon.cloud\n\n#HTMX #REST #architecture #SPA \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/09/htmx-is-the-future/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://quii.dev/HTMX_is_the_Future",
+        "mime_type": "image/png",
+        "title": "Screenshot of HTMX is the Future"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110339950462968069"
+    ],
+    "lastTootTimestamp": 1683654029489
   }
 }
