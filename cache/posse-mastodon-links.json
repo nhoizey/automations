@@ -947,9 +947,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110253111131675336"
+      "https://mamot.fr/users/nhoizey/statuses/110253111131675336",
+      "https://mamot.fr/users/nhoizey/statuses/110346790526088784"
     ],
-    "lastTootTimestamp": 1682328966680
+    "lastTootTimestamp": 1683758400534
   },
   "https://nicolas-hoizey.com/links/2023/05/02/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/02/30th-anniversary-of-licensing-the-web-for-general-use-and-at-no-cost/",
