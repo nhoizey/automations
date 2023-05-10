@@ -889,9 +889,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110158385425321985"
+      "https://mamot.fr/users/nhoizey/statuses/110158385425321985",
+      "https://mamot.fr/users/nhoizey/statuses/110345381840096485"
     ],
-    "lastTootTimestamp": 1680883569280
+    "lastTootTimestamp": 1683736905737
   },
   "https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/": {
     "id": "https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
