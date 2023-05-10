@@ -1062,5 +1062,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110339950462968069"
     ],
     "lastTootTimestamp": 1683654029489
+  },
+  "https://nicolas-hoizey.com/links/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/",
+    "lang": "en",
+    "title": "🔗 The ongoing defence of frontend as a full-time job",
+    "date_published": "2023-05-09T22:34:00Z",
+    "content_text": "🔗 “The ongoing defence of frontend as a full-time job” by @codepo8@toot.cafe \n\n#HTML #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://christianheilmann.com/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The ongoing defence of frontend as a full-time job"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110341907705845193"
+    ],
+    "lastTootTimestamp": 1683683894608
   }
 }
