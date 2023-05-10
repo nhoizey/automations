@@ -869,9 +869,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110157745273178973"
+      "https://mamot.fr/users/nhoizey/statuses/110157745273178973",
+      "https://mamot.fr/users/nhoizey/statuses/110343252235601554"
     ],
-    "lastTootTimestamp": 1680873801987
+    "lastTootTimestamp": 1683704410553
   },
   "https://nicolas-hoizey.com/links/2023/04/07/how-tweetbot-died-and-lived-again/": {
     "id": "https://nicolas-hoizey.com/links/2023/04/07/how-tweetbot-died-and-lived-again/",
