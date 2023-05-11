@@ -909,9 +909,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110162814140661708"
+      "https://mamot.fr/users/nhoizey/statuses/110162814140661708",
+      "https://mamot.fr/users/nhoizey/statuses/110347571113594689"
     ],
-    "lastTootTimestamp": 1680951143804
+    "lastTootTimestamp": 1683770311389
   },
   "https://nicolas-hoizey.com/links/2023/04/20/pixels-vs-relative-units-in-css-why-it-s-still-a-big-deal/": {
     "id": "https://nicolas-hoizey.com/links/2023/04/20/pixels-vs-relative-units-in-css-why-it-s-still-a-big-deal/",
