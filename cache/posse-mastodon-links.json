@@ -735,9 +735,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110032397801001737"
+      "https://mamot.fr/users/nhoizey/statuses/110032397801001737",
+      "https://mamot.fr/users/nhoizey/statuses/110352452627319889"
     ],
-    "lastTootTimestamp": 1678961148220
+    "lastTootTimestamp": 1683844797403
   },
   "https://nicolas-hoizey.com/links/2023/03/16/accessibility-beyond-code-compliance/": {
     "id": "https://nicolas-hoizey.com/links/2023/03/16/accessibility-beyond-code-compliance/",
