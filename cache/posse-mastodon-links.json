@@ -792,9 +792,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110094515735838487"
+      "https://mamot.fr/users/nhoizey/statuses/110094515735838487",
+      "https://mamot.fr/users/nhoizey/statuses/110351039573346925"
     ],
-    "lastTootTimestamp": 1679908992740
+    "lastTootTimestamp": 1683823237205
   },
   "https://nicolas-hoizey.com/links/2023/03/30/sass-and-native-nesting/": {
     "id": "https://nicolas-hoizey.com/links/2023/03/30/sass-and-native-nesting/",
