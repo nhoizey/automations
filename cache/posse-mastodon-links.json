@@ -974,9 +974,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110306903111457395"
+      "https://mamot.fr/users/nhoizey/statuses/110306903111457395",
+      "https://mamot.fr/users/nhoizey/statuses/110356700253572939"
     ],
-    "lastTootTimestamp": 1683149766898
+    "lastTootTimestamp": 1683909611018
   },
   "https://nicolas-hoizey.com/links/2023/05/04/introducing-new-developer-friendly-pricing/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/04/introducing-new-developer-friendly-pricing/",
