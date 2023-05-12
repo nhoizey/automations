@@ -934,9 +934,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110230462095190029"
+      "https://mamot.fr/users/nhoizey/statuses/110230462095190029",
+      "https://mamot.fr/users/nhoizey/statuses/110355991341951025"
     ],
-    "lastTootTimestamp": 1681983370570
+    "lastTootTimestamp": 1683898797599
   },
   "https://nicolas-hoizey.com/links/2023/04/21/testing-the-web-share-api/": {
     "id": "https://nicolas-hoizey.com/links/2023/04/21/testing-the-web-share-api/",
