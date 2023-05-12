@@ -810,5 +810,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110323791036093387"
     ],
     "lastTootTimestamp": 1683407456226
+  },
+  "https://nicolas-hoizey.com/notes/2023/05/12/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/05/12/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/05/12/1/",
+    "lang": "en",
+    "title": "💬 Note from 12 May 2023, 18:10",
+    "date_published": "2023-05-12T16:10:34Z",
+    "content_text": "Why would anyone use the `path` package from npm instead of Node’s `path` module?\n\nhttps://www.npmjs.com/package/path\n\nJust found it in one of my own projects, where I'm the only contributor… 😅\n\n#Node #npm\n\n⚓️ https://nicolas-hoizey.com/notes/2023/05/12/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110356757335043333"
+    ],
+    "lastTootTimestamp": 1683910481915
   }
 }
