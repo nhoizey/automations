@@ -853,9 +853,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110156207040568098"
+      "https://mamot.fr/users/nhoizey/statuses/110156207040568098",
+      "https://mamot.fr/users/nhoizey/statuses/110353231362246053"
     ],
-    "lastTootTimestamp": 1680850331848
+    "lastTootTimestamp": 1683856681768
   },
   "https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/": {
     "id": "https://nicolas-hoizey.com/links/2023/04/07/largest-contentul-paint-change-in-chrome-112-to-ignore-low-entropy-images/",
