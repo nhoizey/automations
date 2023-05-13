@@ -775,9 +775,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110061599283963246"
+      "https://mamot.fr/users/nhoizey/statuses/110061599283963246",
+      "https://mamot.fr/users/nhoizey/statuses/110358893628492845"
     ],
-    "lastTootTimestamp": 1679406727549
+    "lastTootTimestamp": 1683943079209
   },
   "https://nicolas-hoizey.com/links/2023/03/27/the-yaml-document-from-hell/": {
     "id": "https://nicolas-hoizey.com/links/2023/03/27/the-yaml-document-from-hell/",
