@@ -823,5 +823,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110356757335043333"
     ],
     "lastTootTimestamp": 1683910481915
+  },
+  "https://nicolas-hoizey.com/notes/2023/05/13/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/05/13/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/05/13/1/",
+    "lang": "en",
+    "title": "💬 Note from 13 May 2023, 18:29",
+    "date_published": "2023-05-13T16:29:06Z",
+    "content_text": "If someone is creating service workers with #Workbox recipes and injectManifest, a build with #esbuild, and doesn't have any issues, I'm interested! 😅\n\nI have a very strange issue:\n\nhttps://github.com/GoogleChrome/workbox/issues/3207\n\nBonus points if this is with @eleventy@fosstodon.org\n\n#ServiceWorker\n\n⚓️ https://nicolas-hoizey.com/notes/2023/05/13/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110362352736160039"
+    ],
+    "lastTootTimestamp": 1683995861111
   }
 }
