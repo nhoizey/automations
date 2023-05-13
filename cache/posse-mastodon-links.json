@@ -995,9 +995,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110312392334947017"
+      "https://mamot.fr/users/nhoizey/statuses/110312392334947017",
+      "https://mamot.fr/users/nhoizey/statuses/110360945943350411"
     ],
-    "lastTootTimestamp": 1683233525811
+    "lastTootTimestamp": 1683974395090
   },
   "https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/",
