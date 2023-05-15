@@ -1015,9 +1015,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110323355162956021"
+      "https://mamot.fr/users/nhoizey/statuses/110323355162956021",
+      "https://mamot.fr/users/nhoizey/statuses/110371562597573738"
     ],
-    "lastTootTimestamp": 1683400806563
+    "lastTootTimestamp": 1684136392783
   },
   "https://nicolas-hoizey.com/links/2023/05/06/the-intersectionality-of-web-performance/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/06/the-intersectionality-of-web-performance/",
