@@ -906,7 +906,7 @@
     "lang": "en",
     "title": "🔗 3 Methods for Scoped Styles in Web Components That Work Everywhere",
     "date_published": "2023-04-08T10:29:57Z",
-    "content_text": "🔗 “3 Methods for Scoped Styles in Web Components That Work Everywhere” by @zachleat@zachleat.com\n\n#WebC #webComponent #JavaScript #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
+    "content_text": "🔗 “3 Methods for Scoped Styles in Web Components That Work Everywhere” by @zachleat@zachleat.com\n\n#WebC #WebComponents #JavaScript #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/04/08/3-methods-for-scoped-styles-in-web-components-that-work-everywhere/",
     "attachments": [
       {
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zachleat.com/web/styling-web-components/",
@@ -1006,7 +1006,7 @@
     "lang": "en",
     "title": "🔗 HTML with Superpowers",
     "date_published": "2023-05-06T12:40:09Z",
-    "content_text": "🔗 “HTML with Superpowers” by @davatron5000@mastodon.social\n\n#webComponent \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/",
+    "content_text": "🔗 “HTML with Superpowers” by @davatron5000@mastodon.social\n\n#WebComponents \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/06/html-with-superpowers/",
     "attachments": [
       {
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://htmlwithsuperpowers.netlify.app/",
@@ -1096,5 +1096,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110341907705845193"
     ],
     "lastTootTimestamp": 1683683894608
+  },
+  "https://nicolas-hoizey.com/links/2023/05/16/building-a-modern-design-system-in-layers/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/16/building-a-modern-design-system-in-layers/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/16/building-a-modern-design-system-in-layers/",
+    "lang": "en",
+    "title": "🔗 Building a modern design system in layers",
+    "date_published": "2023-05-16T08:06:37Z",
+    "content_text": "🔗 “Building a modern design system in layers” by @dalmaer@indieweb.social\n\n#DesignSystem #WebComponents \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/16/building-a-modern-design-system-in-layers/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://blog.almaer.com/building-a-modern-design-system-in-layers/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Building a modern design system in layers"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110378640452928704"
+    ],
+    "lastTootTimestamp": 1684244391882
   }
 }
