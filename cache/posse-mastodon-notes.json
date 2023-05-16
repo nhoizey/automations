@@ -836,5 +836,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110362352736160039"
     ],
     "lastTootTimestamp": 1683995861111
+  },
+  "https://nicolas-hoizey.com/notes/2023/05/16/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/05/16/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/05/16/1/",
+    "lang": "en",
+    "title": "💬 Note from 16 May 2023, 10:39",
+    "date_published": "2023-05-16T08:39:45Z",
+    "content_text": "Limiting the image density on mobile devices drasticaly improves performance, with no visual loss, so we did it!\n\nI still wish it was much easier than dealing with `<picture>` and `x` descriptors for fluid images… 😞\n\nWith a `<img maxdensity=\"2.5\" …>` attribute for example!\n\nIf you agree, comment:\nhttps://github.com/whatwg/html/issues/4421\n\n#CoreWebVitals #image #LCP #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/05/16/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/05/16/1/webperf-core-web-vitals-largest-contentful-paint-lcp.png",
+        "mime_type": "image/png",
+        "title": "Graph of performance monitoring showing a great improvement of LCP"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110377686562424455"
+    ],
+    "lastTootTimestamp": 1684229836633
   }
 }
