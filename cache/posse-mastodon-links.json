@@ -1035,9 +1035,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110334384542289458"
+      "https://mamot.fr/users/nhoizey/statuses/110334384542289458",
+      "https://mamot.fr/users/nhoizey/statuses/110382887530573079"
     ],
-    "lastTootTimestamp": 1683569100225
+    "lastTootTimestamp": 1684309197122
   },
   "https://nicolas-hoizey.com/links/2023/05/05/supportscss/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/05/supportscss/",
