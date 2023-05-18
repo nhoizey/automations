@@ -1095,9 +1095,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110341907705845193"
+      "https://mamot.fr/users/nhoizey/statuses/110341907705845193",
+      "https://mamot.fr/users/nhoizey/statuses/110390674946721355"
     ],
-    "lastTootTimestamp": 1683683894608
+    "lastTootTimestamp": 1684428024655
   },
   "https://nicolas-hoizey.com/links/2023/05/16/building-a-modern-design-system-in-layers/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/16/building-a-modern-design-system-in-layers/",
