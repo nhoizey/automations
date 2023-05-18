@@ -1075,9 +1075,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110339950462968069"
+      "https://mamot.fr/users/nhoizey/statuses/110339950462968069",
+      "https://mamot.fr/users/nhoizey/statuses/110388549408675083"
     ],
-    "lastTootTimestamp": 1683654029489
+    "lastTootTimestamp": 1684395590525
   },
   "https://nicolas-hoizey.com/links/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/09/the-ongoing-defence-of-frontend-as-a-full-time-job/",
