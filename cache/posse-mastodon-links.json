@@ -1118,5 +1118,40 @@
       "https://mamot.fr/users/nhoizey/statuses/110378640452928704"
     ],
     "lastTootTimestamp": 1684244391882
+  },
+  "https://nicolas-hoizey.com/links/2023/05/19/early-days-examples-of-view-transitions/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/19/early-days-examples-of-view-transitions/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/19/early-days-examples-of-view-transitions/",
+    "lang": "en",
+    "title": "🔗 Early Days Examples of View Transitions",
+    "date_published": "2023-05-19T12:48:28Z",
+    "content_text": "🔗 “Early Days Examples of View Transitions” by @chriscoyier@front-end.social\n\n#CSS #ViewTransitions \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/19/early-days-examples-of-view-transitions/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://chriscoyier.net/2023/05/18/early-days-examples-of-view-transitions/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Early Days Examples of View Transitions"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110395627774114217"
+    ],
+    "lastTootTimestamp": 1684503598329
+  },
+  "https://nicolas-hoizey.com/links/2023/05/19/getting-started-with-view-transitions-on-multi-page-apps/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/19/getting-started-with-view-transitions-on-multi-page-apps/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/19/getting-started-with-view-transitions-on-multi-page-apps/",
+    "lang": "en",
+    "title": "🔗 Getting started with View Transitions on multi-page apps",
+    "date_published": "2023-05-19T12:28:12Z",
+    "content_text": "🔗 “Getting started with View Transitions on multi-page apps” by @davatron5000@mastodon.social\n\n#CSS #ViewTransitions \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/19/getting-started-with-view-transitions-on-multi-page-apps/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://daverupert.com/2023/05/getting-started-view-transitions/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Getting started with View Transitions on multi-page apps"
+      }
+    ],
+    "toots": []
   }
 }
