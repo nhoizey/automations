@@ -310,5 +310,17 @@
       "https://mamot.fr/users/nhoizey/statuses/110159435719330490"
     ],
     "lastTootTimestamp": 1680899593074
+  },
+  "https://nicolas-hoizey.com/articles/2023/05/19/html-and-css-based-view-transitions-are-coming/": {
+    "id": "https://nicolas-hoizey.com/articles/2023/05/19/html-and-css-based-view-transitions-are-coming/",
+    "url": "https://nicolas-hoizey.com/articles/2023/05/19/html-and-css-based-view-transitions-are-coming/",
+    "lang": "en",
+    "title": "🖋 HTML and CSS based View Transitions are coming",
+    "date_published": "2023-05-19T17:47:56Z",
+    "content_text": "🖋 “HTML and CSS based View Transitions are coming”\n\nWhile same-document View Transitions have now been available for a while in Chromium browsers for Single Page Applications (SPA), they were requiring the use of a JavaScript API. Chrome Canary now allows us to develop and test View Transitions with HTML and CSS only, obviously targeting Multiple Pages Applications (aka Web sites 🤷‍♂️).\n\n#CSS #ViewTransitions \n\n⚓️ https://nicolas-hoizey.com/articles/2023/05/19/html-and-css-based-view-transitions-are-coming/",
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110396731425897286"
+    ],
+    "lastTootTimestamp": 1684520438349
   }
 }
