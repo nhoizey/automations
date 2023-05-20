@@ -210,7 +210,10 @@
         "title": "Loch Alsh"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110401007780031725"
+    ],
+    "lastTootTimestamp": 1684585690168
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/portree-harbour/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/portree-harbour/",
