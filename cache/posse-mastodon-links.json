@@ -1157,5 +1157,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110396337748348955"
     ],
     "lastTootTimestamp": 1684514431149
+  },
+  "https://nicolas-hoizey.com/links/2023/05/25/display-contents-considered-harmful/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/25/display-contents-considered-harmful/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/25/display-contents-considered-harmful/",
+    "lang": "en",
+    "title": "🔗 display: contents considered harmful",
+    "date_published": "2023-05-25T14:22:44Z",
+    "content_text": "🔗 “display: contents considered harmful” by @eric@social.ericwbailey.website\n\n#CSS #accessibility \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/25/display-contents-considered-harmful/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://ericwbailey.website/published/display-contents-considered-harmful/",
+        "mime_type": "image/png",
+        "title": "Screenshot of display: contents considered harmful"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110430310896210320"
+    ],
+    "lastTootTimestamp": 1685032820287
   }
 }
