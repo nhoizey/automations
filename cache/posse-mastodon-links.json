@@ -1176,5 +1176,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110430310896210320"
     ],
     "lastTootTimestamp": 1685032820287
+  },
+  "https://nicolas-hoizey.com/links/2023/05/26/my-double-standards-about-js-framework-compilers/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/26/my-double-standards-about-js-framework-compilers/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/26/my-double-standards-about-js-framework-compilers/",
+    "lang": "en",
+    "title": "🔗 My double standards about JS framework compilers",
+    "date_published": "2023-05-26T07:14:44Z",
+    "content_text": "🔗 “My double standards about JS framework compilers” by @davatron5000@mastodon.social\n\n#JavaScript #VueJs #Svelte \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/26/my-double-standards-about-js-framework-compilers/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://daverupert.com/2023/05/js-compiler-double-standards/",
+        "mime_type": "image/png",
+        "title": "Screenshot of My double standards about JS framework compilers"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110433847662571190"
+    ],
+    "lastTootTimestamp": 1685086787056
   }
 }
