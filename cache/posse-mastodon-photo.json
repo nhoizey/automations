@@ -2730,7 +2730,10 @@
         "title": "At the school of life"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110440643392002587"
+    ],
+    "lastTootTimestamp": 1685190481635
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/zebras/grant-s-zebra/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/zebras/grant-s-zebra/",
