@@ -1135,9 +1135,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110395627774114217"
+      "https://mamot.fr/users/nhoizey/statuses/110395627774114217",
+      "https://mamot.fr/users/nhoizey/statuses/110443861646123830"
     ],
-    "lastTootTimestamp": 1684503598329
+    "lastTootTimestamp": 1685239588295
   },
   "https://nicolas-hoizey.com/links/2023/05/19/getting-started-with-view-transitions-on-multi-page-apps/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/19/getting-started-with-view-transitions-on-multi-page-apps/",
