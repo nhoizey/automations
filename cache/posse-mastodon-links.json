@@ -1155,9 +1155,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110396337748348955"
+      "https://mamot.fr/users/nhoizey/statuses/110396337748348955",
+      "https://mamot.fr/users/nhoizey/statuses/110445171767395329"
     ],
-    "lastTootTimestamp": 1684514431149
+    "lastTootTimestamp": 1685259579149
   },
   "https://nicolas-hoizey.com/links/2023/05/25/display-contents-considered-harmful/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/25/display-contents-considered-harmful/",
