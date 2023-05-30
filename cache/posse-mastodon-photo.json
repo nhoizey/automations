@@ -1222,7 +1222,10 @@
         "title": "Butterfly"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110457633256482575"
+    ],
+    "lastTootTimestamp": 1685449726436
   },
   "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/la-demoiselle-du-quai-des-dames/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/la-demoiselle-du-quai-des-dames/",
@@ -6703,6 +6706,57 @@
         "mime_type": "image/jpeg",
         "title": "The flowering of the carnations",
         "_alt_text": "Photo of miniature figures “opening” carnation flowers"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/": {
+    "id": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+    "url": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+    "language": "en",
+    "title": "Shy scarlet macaw",
+    "date_published": "2021-08-17T10:34:13Z",
+    "content_text": "“Shy scarlet macaw”\n\nMacaws are large striking parrots with long tails, long narrow wings and vividly coloured plumage. They all have a characteristic bare face patch around the eyes.\n\nThe scarlet macaw (Ara macao) is a large yellow, red and…\n\n🔎 https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/\n\n📅 17 August 2021\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 1.4× TC WR\n🎞️ ISO 800, ƒ/8, 1/90s\n\n#Animals #Birds #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/shy-scarlet-macaw/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Shy scarlet macaw",
+        "_alt_text": "Photo of a Ara macaw with red, yellow and blue feathers, its head tilted forward and its beak hidden in the feathers."
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/animals/birds/blue-and-yellow-macaw/": {
+    "id": "https://nicolas-hoizey.photo/galleries/animals/birds/blue-and-yellow-macaw/",
+    "url": "https://nicolas-hoizey.photo/galleries/animals/birds/blue-and-yellow-macaw/",
+    "language": "en",
+    "title": "Blue-and-yellow macaw",
+    "date_published": "2021-08-17T10:34:38Z",
+    "content_text": "“Blue-and-yellow macaw”\n\nThe blue-and-yellow macaw (Ara ararauna), also known as the blue-and-gold macaw, is a large South American parrot with a mostly blue dorsum, light yellow/orange venter, and gradient hues of green on top of its head. It…\n\n🔎 https://nicolas-hoizey.photo/galleries/animals/birds/blue-and-yellow-macaw/\n\n📅 17 August 2021\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 1.4× TC WR\n🎞️ ISO 800, ƒ/8, 1/125s\n\n#Animals #Birds #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/blue-and-yellow-macaw/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Blue-and-yellow macaw",
+        "_alt_text": "Photo of a Blue-and-yellow macaw's head"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/": {
+    "id": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+    "url": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+    "language": "en",
+    "title": "Scarlet ibis",
+    "date_published": "2021-08-17T13:12:24Z",
+    "content_text": "“Scarlet ibis”\n\nThe Scarlet ibis resembles most of the other species of ibis, but its remarkably brilliant scarlet coloration makes it unmistakable.\n\ninhabits tropical South America and part of the Caribbean. It is one of the two national…\n\n🔎 https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/\n\n📅 17 August 2021\n\n📸 Fujifilm X-T3 + Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR + Fujinon XF 1.4× TC WR\n🎞️ ISO 400, ƒ/6.8, 1/400s\n\n#Animals #Birds #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/scarlet-ibis/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Scarlet ibis",
+        "_alt_text": "Photo of a Scarlet ibis in a tree branches"
       }
     ],
     "toots": []
