@@ -920,5 +920,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110462561438948394"
     ],
     "lastTootTimestamp": 1685524928760
+  },
+  "https://nicolas-hoizey.com/notes/2023/05/31/3/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/05/31/3/",
+    "url": "https://nicolas-hoizey.com/notes/2023/05/31/3/",
+    "lang": "en",
+    "title": "💬 Note from 31 May 2023, 12:36",
+    "date_published": "2023-05-31T10:36:35Z",
+    "content_text": "General question about synthetic performance monitoring:\n\nHow do you define the device/network settings of your tests?\n\n- Do you use low end devices / bad network to easily detect issues?\n- Or do you try to be close to your RUM data, to have more predictability when you deploy changes?\n\nI usualy do the former, but I think both could be useful.\n\n#WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/05/31/3/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110462923209344859"
+    ],
+    "lastTootTimestamp": 1685530444618
   }
 }
