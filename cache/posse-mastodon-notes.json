@@ -907,5 +907,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110462451378453903"
     ],
     "lastTootTimestamp": 1685523245083
+  },
+  "https://nicolas-hoizey.com/notes/2023/05/31/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/05/31/2/",
+    "url": "https://nicolas-hoizey.com/notes/2023/05/31/2/",
+    "lang": "en",
+    "title": "💬 Note from 31 May 2023, 11:09",
+    "date_published": "2023-05-31T09:09:33Z",
+    "content_text": "Who still thinks writing a Service Worker for basic features (performance with cache, offline fallback) is cumbersome?\n\nUsing #Workbox recipes make it so easy!\n\nHere's the Service Worker for https://pack11ty.dev 😍\n\nhttps://github.com/nhoizey/pack11ty/blob/main/src/assets/js/service-worker.js\n\n#PWA #ServiceWorker\n\n⚓️ https://nicolas-hoizey.com/notes/2023/05/31/2/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110462561438948394"
+    ],
+    "lastTootTimestamp": 1685524928760
   }
 }
