@@ -1197,5 +1197,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110433847662571190"
     ],
     "lastTootTimestamp": 1685086787056
+  },
+  "https://nicolas-hoizey.com/links/2023/05/31/watch-out-for-layout-shifts-with-ch-units/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/31/watch-out-for-layout-shifts-with-ch-units/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/31/watch-out-for-layout-shifts-with-ch-units/",
+    "lang": "en",
+    "title": "🔗 Watch Out for Layout Shifts with ‘ch’ Units",
+    "date_published": "2023-05-31T15:57:53Z",
+    "content_text": "🔗 “Watch Out for Layout Shifts with ‘ch’ Units” by @paulhebert@sunny.garden\n\n#WebPerf #CoreWebVitals #CLS #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/31/watch-out-for-layout-shifts-with-ch-units/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cloudfour.com/thinks/watch-out-for-layout-shifts-with-ch-units/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Watch Out for Layout Shifts with ‘ch’ Units"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110464285377033289"
+    ],
+    "lastTootTimestamp": 1685551229705
   }
 }
