@@ -1216,5 +1216,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110464285377033289"
     ],
     "lastTootTimestamp": 1685551229705
+  },
+  "https://nicolas-hoizey.com/links/2023/05/31/is-there-a-viable-animated-gif-alternative-yet-or-what/": {
+    "id": "https://nicolas-hoizey.com/links/2023/05/31/is-there-a-viable-animated-gif-alternative-yet-or-what/",
+    "url": "https://nicolas-hoizey.com/links/2023/05/31/is-there-a-viable-animated-gif-alternative-yet-or-what/",
+    "lang": "en",
+    "title": "🔗 Is there a viable animated GIF alternative yet or what?",
+    "date_published": "2023-05-31T22:48:17Z",
+    "content_text": "🔗 “Is there a viable animated GIF alternative yet or what?” by @tylersticka@mastodon.social\n\n#WebPerf #video #GIF \n\n⚓️ https://nicolas-hoizey.com/links/2023/05/31/is-there-a-viable-animated-gif-alternative-yet-or-what/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cloudfour.com/thinks/animated-gif-alternative/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Is there a viable animated GIF alternative yet or what?"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110466571326252463"
+    ],
+    "lastTootTimestamp": 1685586110530
   }
 }
