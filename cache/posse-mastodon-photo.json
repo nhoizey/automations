@@ -3787,7 +3787,10 @@
         "title": "Toucan toco"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110468957261888839"
+    ],
+    "lastTootTimestamp": 1685622517034
   },
   "https://nicolas-hoizey.photo/galleries/landscapes/the-moroccan-high-atlas/": {
     "id": "https://nicolas-hoizey.photo/galleries/landscapes/the-moroccan-high-atlas/",
