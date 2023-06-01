@@ -933,5 +933,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110462923209344859"
     ],
     "lastTootTimestamp": 1685530444618
+  },
+  "https://nicolas-hoizey.com/notes/2023/06/02/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/06/02/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/06/02/1/",
+    "lang": "en",
+    "title": "💬 Note from 2 June 2023, 00:33",
+    "date_published": "2023-06-01T22:33:28Z",
+    "content_text": "Looks like `<link rel=\"preconnect\" …>` will start working again in Firefox 115! 🥳\n\nhttps://bugzilla.mozilla.org/show_bug.cgi?id=1543990#c26\n\n#Firefox #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/06/02/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110471416845423273"
+    ],
+    "lastTootTimestamp": 1685660047238
   }
 }
