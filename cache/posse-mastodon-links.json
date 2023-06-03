@@ -1195,9 +1195,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110433847662571190"
+      "https://mamot.fr/users/nhoizey/statuses/110433847662571190",
+      "https://mamot.fr/users/nhoizey/statuses/110482684621141632"
     ],
-    "lastTootTimestamp": 1685086787056
+    "lastTootTimestamp": 1685831979866
   },
   "https://nicolas-hoizey.com/links/2023/05/31/watch-out-for-layout-shifts-with-ch-units/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/31/watch-out-for-layout-shifts-with-ch-units/",
