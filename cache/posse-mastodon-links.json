@@ -1175,9 +1175,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110430310896210320"
+      "https://mamot.fr/users/nhoizey/statuses/110430310896210320",
+      "https://mamot.fr/users/nhoizey/statuses/110479145842982473"
     ],
-    "lastTootTimestamp": 1685032820287
+    "lastTootTimestamp": 1685777982540
   },
   "https://nicolas-hoizey.com/links/2023/05/26/my-double-standards-about-js-framework-compilers/": {
     "id": "https://nicolas-hoizey.com/links/2023/05/26/my-double-standards-about-js-framework-compilers/",
