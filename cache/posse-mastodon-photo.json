@@ -6754,7 +6754,10 @@
         "_alt_text": "Photo of a Blue-and-yellow macaw's head"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110485942165492371"
+    ],
+    "lastTootTimestamp": 1685881687221
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
