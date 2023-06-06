@@ -959,5 +959,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110494567198213799"
     ],
     "lastTootTimestamp": 1686013294429
+  },
+  "https://nicolas-hoizey.com/notes/2023/06/06/2/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/06/06/2/",
+    "url": "https://nicolas-hoizey.com/notes/2023/06/06/2/",
+    "lang": "en",
+    "title": "💬 Note from 6 June 2023, 09:40",
+    "date_published": "2023-06-06T07:40:35Z",
+    "content_text": "Apparently, an image whose part above the fold is indeed the largest, but of which only a small part can be seen, can be considered an LCP element, even if another image has a larger part visible... 😭\n\nYou can see this for my photography site in this WebPageTest result:\n\nhttps://www.webpagetest.org/vitals.php?test=230606_BiDcN4_4NJ&run=3&cached=0#lcp\n\n#CoreWebVitals #image #LCP #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/06/06/2/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/06/06/2/webpagetest-lcp-hidden-image.jpg",
+        "mime_type": "image/jpg",
+        "title": "Screenshot from WebPageTest showing the image mostly hidden behind another one is the LCP"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110496230467676162"
+    ],
+    "lastTootTimestamp": 1686038673078
   }
 }
