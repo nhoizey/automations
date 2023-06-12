@@ -978,5 +978,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110496230467676162"
     ],
     "lastTootTimestamp": 1686038673078
+  },
+  "https://nicolas-hoizey.com/notes/2023/06/12/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/06/12/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/06/12/1/",
+    "lang": "en",
+    "title": "💬 Note from 12 June 2023, 15:55",
+    "date_published": "2023-06-12T13:55:47Z",
+    "content_text": "The `media` attribute is back into the spec for `<video>`'s `<source>`! 🥳\n\nhttps://github.com/whatwg/html/pull/9341\n\nLet's hope `srcset` and `sizes` come next, but this needs a new issue:\nhttps://github.com/whatwg/html/issues/6363#issuecomment-1564464346\n\n#HTML #responsive #video\n\n⚓️ https://nicolas-hoizey.com/notes/2023/06/12/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110531619502648319"
+    ],
+    "lastTootTimestamp": 1686578666925
   }
 }
