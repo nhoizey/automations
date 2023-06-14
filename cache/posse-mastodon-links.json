@@ -1239,5 +1239,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110515246289743941"
     ],
     "lastTootTimestamp": 1686328831492
+  },
+  "https://nicolas-hoizey.com/links/2023/06/14/cyclic-dependency-space-toggles/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/14/cyclic-dependency-space-toggles/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/14/cyclic-dependency-space-toggles/",
+    "lang": "en",
+    "title": "🔗 Cyclic Dependency Space Toggles",
+    "date_published": "2023-06-14T12:13:42Z",
+    "content_text": "🔗 “Cyclic Dependency Space Toggles” by @kizu@front-end.social\n\n#CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/14/cyclic-dependency-space-toggles/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kizu.dev/cyclic-toggles/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Cyclic Dependency Space Toggles"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110542847861136723"
+    ],
+    "lastTootTimestamp": 1686749998077
   }
 }
