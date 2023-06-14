@@ -5996,7 +5996,10 @@
         "title": "A little nap"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110542566816108596"
+    ],
+    "lastTootTimestamp": 1686745709659
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/common-ostrich/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/common-ostrich/",
@@ -6799,6 +6802,23 @@
         "mime_type": "image/jpeg",
         "title": "Scarlet ibis",
         "_alt_text": "Photo of a Scarlet ibis in a tree branches"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+    "language": "en",
+    "title": "Le Gratin Mondain in Noyers-sur-Serein",
+    "date_published": "2019-12-26T15:56:09Z",
+    "content_text": "“Le Gratin Mondain in Noyers-sur-Serein”\n\nLe Gratin Mondain is a guest house in Noyers-sur-Serein, one of the most beautiful villages of France.\n\nNoyers has retained much of its medieval appearance. Its heritage is not based…\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/\n\n📅 26 December 2019\n\n📸 Fujifilm X-T3 + Fujinon XF 56mm f/1.2 R\n🎞️ ISO 320, ƒ/1.2, 1/150s\n\n#Travel #TravelPhotography #Europe #France #BourgogneFrancheComte #Yonne #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/le-gratin-mondain-in-noyers-sur-serein/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Le Gratin Mondain in Noyers-sur-Serein",
+        "_alt_text": "Photo of a small cobbled street, with a sign on one wall reading “Le Gratin Mondain”."
       }
     ],
     "toots": []
