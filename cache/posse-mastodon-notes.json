@@ -991,5 +991,18 @@
       "https://mamot.fr/users/nhoizey/statuses/110531619502648319"
     ],
     "lastTootTimestamp": 1686578666925
+  },
+  "https://nicolas-hoizey.com/notes/2023/06/14/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/06/14/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/06/14/1/",
+    "lang": "en",
+    "title": "💬 Note from 14 June 2023, 09:07",
+    "date_published": "2023-06-14T07:07:59Z",
+    "content_text": "I'm really worried about #WebPageTest, right now… 🤨\n\n#WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/06/14/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110541530377711944"
+    ],
+    "lastTootTimestamp": 1686729894841
   }
 }
