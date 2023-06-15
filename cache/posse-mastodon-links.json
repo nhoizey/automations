@@ -1258,5 +1258,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110542847861136723"
     ],
     "lastTootTimestamp": 1686749998077
+  },
+  "https://nicolas-hoizey.com/links/2023/06/15/new-recommendations-for-ecommerce-images/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/15/new-recommendations-for-ecommerce-images/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/15/new-recommendations-for-ecommerce-images/",
+    "lang": "en",
+    "title": "🔗 New Recommendations for Ecommerce Images",
+    "date_published": "2023-06-15T07:21:47Z",
+    "content_text": "🔗 “New Recommendations for Ecommerce Images” by @grigs@front-end.social\n\n#image #responsive #WebPerf #ecommerce \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/15/new-recommendations-for-ecommerce-images/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cloudfour.com/thinks/new-recommendations-for-ecommerce-images/",
+        "mime_type": "image/png",
+        "title": "Screenshot of New Recommendations for Ecommerce Images"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110547093341074567"
+    ],
+    "lastTootTimestamp": 1686814780146
   }
 }
