@@ -2598,7 +2598,10 @@
         "title": "Ladies"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110570879340883884"
+    ],
+    "lastTootTimestamp": 1687177724509
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
