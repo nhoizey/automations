@@ -1277,5 +1277,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110547093341074567"
     ],
     "lastTootTimestamp": 1686814780146
+  },
+  "https://nicolas-hoizey.com/links/2023/06/20/the-new-css/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/20/the-new-css/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/20/the-new-css/",
+    "lang": "en",
+    "title": "🔗 The New CSS",
+    "date_published": "2023-06-20T06:37:44Z",
+    "content_text": "🔗 “The New CSS” by @matthiasott@mastodon.social\n\n#CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/20/the-new-css/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://matthiasott.com/notes/the-new-css",
+        "mime_type": "image/png",
+        "title": "Screenshot of The New CSS"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110575405200705587"
+    ],
+    "lastTootTimestamp": 1687246784727
   }
 }
