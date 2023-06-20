@@ -1004,5 +1004,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110541530377711944"
     ],
     "lastTootTimestamp": 1686729894841
+  },
+  "https://nicolas-hoizey.com/notes/2023/06/20/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/06/20/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/06/20/1/",
+    "lang": "en",
+    "title": "💬 Note from 20 June 2023, 19:16",
+    "date_published": "2023-06-20T17:16:30Z",
+    "content_text": "Cloudflare in “Faster website, more customers: Cloudflare Observatory can help your business grow”:\n\n> The generated report provides an overall performance score ranging from 1 (least performant) to <mark>99 (most performant)</mark>\n\nFirst try on my photography site: 100 🤷‍♂️😅\n\nJoke aside, new tools to audit performance are always welcome!\n\n#Cloudflare #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/06/20/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/06/20/1/cloudflare-observatory-score-100.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of Cloudflare Observatory showing a 100 score"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110577755392331797"
+    ],
+    "lastTootTimestamp": 1687282645609
   }
 }
