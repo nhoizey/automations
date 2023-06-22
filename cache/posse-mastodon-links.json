@@ -1296,5 +1296,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110575405200705587"
     ],
     "lastTootTimestamp": 1687246784727
+  },
+  "https://nicolas-hoizey.com/links/2023/06/22/cropping-images-with-css-while-keeping-a-focal-point-in-the-center/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/22/cropping-images-with-css-while-keeping-a-focal-point-in-the-center/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/22/cropping-images-with-css-while-keeping-a-focal-point-in-the-center/",
+    "lang": "en",
+    "title": "🔗 Cropping Images with CSS While Keeping a Focal Point in the Center",
+    "date_published": "2023-06-22T11:00:55Z",
+    "content_text": "🔗 “Cropping Images with CSS While Keeping a Focal Point in the Center” by @johannes@front-end.social\n\n#image #WebPerf #CSS #ContainerQueries \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/22/cropping-images-with-css-while-keeping-a-focal-point-in-the-center/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://johannesodland.github.io/2023/02/26/cropping-images-with-css-while-keeping-a-focal-point-in-the-center.html",
+        "mime_type": "image/png",
+        "title": "Screenshot of Cropping Images with CSS While Keeping a Focal Point in the Center"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110588145377057257"
+    ],
+    "lastTootTimestamp": 1687441183294
   }
 }
