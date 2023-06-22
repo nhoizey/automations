@@ -6558,7 +6558,10 @@
         "title": "Empty"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110587865542133541"
+    ],
+    "lastTootTimestamp": 1687436914413
   },
   "https://nicolas-hoizey.photo/galleries/landscapes/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/": {
     "id": "https://nicolas-hoizey.photo/galleries/landscapes/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/",
