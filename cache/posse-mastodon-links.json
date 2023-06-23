@@ -1315,5 +1315,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110588145377057257"
     ],
     "lastTootTimestamp": 1687441183294
+  },
+  "https://nicolas-hoizey.com/links/2023/06/22/thoughts-from-meet-safari-for-spatial-computing/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/22/thoughts-from-meet-safari-for-spatial-computing/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/22/thoughts-from-meet-safari-for-spatial-computing/",
+    "lang": "en",
+    "title": "🔗 Thoughts from “Meet Safari for Spatial Computing”",
+    "date_published": "2023-06-22T23:03:56Z",
+    "content_text": "🔗 “Thoughts from “Meet Safari for Spatial Computing””\n\n#HTML \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/22/thoughts-from-meet-safari-for-spatial-computing/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://blog.jim-nielsen.com/2023/thoughts-on-safari-spatial-computing/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Thoughts from “Meet Safari for Spatial Computing”"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110591107115083234"
+    ],
+    "lastTootTimestamp": 1687486375813
   }
 }
