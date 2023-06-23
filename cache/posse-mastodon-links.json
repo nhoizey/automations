@@ -1275,9 +1275,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110547093341074567"
+      "https://mamot.fr/users/nhoizey/statuses/110547093341074567",
+      "https://mamot.fr/users/nhoizey/statuses/110595223482738992"
     ],
-    "lastTootTimestamp": 1686814780146
+    "lastTootTimestamp": 1687549186633
   },
   "https://nicolas-hoizey.com/links/2023/06/20/the-new-css/": {
     "id": "https://nicolas-hoizey.com/links/2023/06/20/the-new-css/",
