@@ -1336,5 +1336,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110591107115083234"
     ],
     "lastTootTimestamp": 1687486375813
+  },
+  "https://nicolas-hoizey.com/links/2023/06/24/synchronize-videos-3d-models-etc-to-scroll-driven-animations/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/24/synchronize-videos-3d-models-etc-to-scroll-driven-animations/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/24/synchronize-videos-3d-models-etc-to-scroll-driven-animations/",
+    "lang": "en",
+    "title": "🔗 Synchronize videos, 3D-models, etc. to Scroll-Driven Animations",
+    "date_published": "2023-06-24T08:45:14Z",
+    "content_text": "🔗 “Synchronize videos, 3D-models, etc. to Scroll-Driven Animations” by @bramus@front-end.social\n\n#CSS #animation #scroll \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/24/synchronize-videos-3d-models-etc-to-scroll-driven-animations/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bram.us/2023/06/21/synchronize-videos-3d-models-to-scroll-driven-animations/#the-demos",
+        "mime_type": "image/png",
+        "title": "Screenshot of Synchronize videos, 3D-models, etc. to Scroll-Driven Animations"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110598765173420444"
+    ],
+    "lastTootTimestamp": 1687603228636
   }
 }
