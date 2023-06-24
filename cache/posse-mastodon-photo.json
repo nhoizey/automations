@@ -2448,7 +2448,10 @@
         "_alt_text": "Tightly framed photo of an elephant eating grass"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110599190201941935"
+    ],
+    "lastTootTimestamp": 1687609714438
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephants-family-in-maasai-mara/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephants-family-in-maasai-mara/",
