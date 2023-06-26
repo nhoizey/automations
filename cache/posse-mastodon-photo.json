@@ -1494,7 +1494,10 @@
         "title": "Oddly vintage"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110610516123690391"
+    ],
+    "lastTootTimestamp": 1687782533844
   },
   "https://nicolas-hoizey.photo/galleries/misc/miniature/the-flowering-of-the-carnations/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-flowering-of-the-carnations/",
