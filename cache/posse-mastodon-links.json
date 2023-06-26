@@ -1355,5 +1355,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110598765173420444"
     ],
     "lastTootTimestamp": 1687603228636
+  },
+  "https://nicolas-hoizey.com/links/2023/06/26/maps-distort-how-we-see-the-world/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/26/maps-distort-how-we-see-the-world/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/26/maps-distort-how-we-see-the-world/",
+    "lang": "en",
+    "title": "🔗 Maps Distort How We See the World",
+    "date_published": "2023-06-26T07:49:06Z",
+    "content_text": "🔗 “Maps Distort How We See the World”\n\n#geography #society \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/26/maps-distort-how-we-see-the-world/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world",
+        "mime_type": "image/png",
+        "title": "Screenshot of Maps Distort How We See the World"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110610092129154643"
+    ],
+    "lastTootTimestamp": 1687776065042
   }
 }
