@@ -1374,5 +1374,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110610092129154643"
     ],
     "lastTootTimestamp": 1687776065042
+  },
+  "https://nicolas-hoizey.com/links/2023/06/27/what-does-the-image-decoding-attribute-actually-do/": {
+    "id": "https://nicolas-hoizey.com/links/2023/06/27/what-does-the-image-decoding-attribute-actually-do/",
+    "url": "https://nicolas-hoizey.com/links/2023/06/27/what-does-the-image-decoding-attribute-actually-do/",
+    "lang": "en",
+    "title": "🔗 What does the image decoding attribute actually do?",
+    "date_published": "2023-06-27T08:14:38Z",
+    "content_text": "🔗 “What does the image decoding attribute actually do?” by @tunetheweb@webperf.social\n\n#image #WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/06/27/what-does-the-image-decoding-attribute-actually-do/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.tunetheweb.com/blog/what-does-the-image-decoding-attribute-actually-do/",
+        "mime_type": "image/png",
+        "title": "Screenshot of What does the image decoding attribute actually do?"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110615753753120017"
+    ],
+    "lastTootTimestamp": 1687862453786
   }
 }
