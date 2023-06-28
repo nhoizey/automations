@@ -232,7 +232,10 @@
         "title": "Portree harbour"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110621842168915781"
+    ],
+    "lastTootTimestamp": 1687955355571
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/sailing-from-mallaig-to-isle-of-skye/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/sailing-from-mallaig-to-isle-of-skye/",
