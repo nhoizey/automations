@@ -1295,9 +1295,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110575405200705587"
+      "https://mamot.fr/users/nhoizey/statuses/110575405200705587",
+      "https://mamot.fr/users/nhoizey/statuses/110623535588052684"
     ],
-    "lastTootTimestamp": 1687246784727
+    "lastTootTimestamp": 1687981195153
   },
   "https://nicolas-hoizey.com/links/2023/06/22/cropping-images-with-css-while-keeping-a-focal-point-in-the-center/": {
     "id": "https://nicolas-hoizey.com/links/2023/06/22/cropping-images-with-css-while-keeping-a-focal-point-in-the-center/",
