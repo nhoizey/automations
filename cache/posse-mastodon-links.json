@@ -1335,9 +1335,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110591107115083234"
+      "https://mamot.fr/users/nhoizey/statuses/110591107115083234",
+      "https://mamot.fr/users/nhoizey/statuses/110639820313433941"
     ],
-    "lastTootTimestamp": 1687486375813
+    "lastTootTimestamp": 1688229681021
   },
   "https://nicolas-hoizey.com/links/2023/06/24/synchronize-videos-3d-models-etc-to-scroll-driven-animations/": {
     "id": "https://nicolas-hoizey.com/links/2023/06/24/synchronize-videos-3d-models-etc-to-scroll-driven-animations/",
