@@ -1845,7 +1845,10 @@
         "title": "While waiting"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110661478031112698"
+    ],
+    "lastTootTimestamp": 1688560156270
   },
   "https://nicolas-hoizey.photo/galleries/portraits/outdoor/zen/": {
     "id": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/zen/",
