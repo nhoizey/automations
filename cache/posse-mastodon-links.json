@@ -1375,9 +1375,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110610092129154643"
+      "https://mamot.fr/users/nhoizey/statuses/110610092129154643",
+      "https://mamot.fr/users/nhoizey/statuses/110659053649925032"
     ],
-    "lastTootTimestamp": 1687776065042
+    "lastTootTimestamp": 1688523157666
   },
   "https://nicolas-hoizey.com/links/2023/06/27/what-does-the-image-decoding-attribute-actually-do/": {
     "id": "https://nicolas-hoizey.com/links/2023/06/27/what-does-the-image-decoding-attribute-actually-do/",
