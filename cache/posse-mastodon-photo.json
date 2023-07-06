@@ -6444,7 +6444,10 @@
         "title": "So, you're still ok for this?"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110667141558390668"
+    ],
+    "lastTootTimestamp": 1688646569463
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
