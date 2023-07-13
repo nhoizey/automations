@@ -6548,7 +6548,10 @@
         "title": "What are you waiting for?"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110706776558659416"
+    ],
+    "lastTootTimestamp": 1689251351521
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/waiting-for-dusk/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/waiting-for-dusk/",
