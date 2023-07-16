@@ -5383,7 +5383,10 @@
         "title": "An evening on the Trälhavet shore"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110723760716602780"
+    ],
+    "lastTootTimestamp": 1689510509234
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/sweden/akersberga/ice-shards/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/sweden/akersberga/ice-shards/",
