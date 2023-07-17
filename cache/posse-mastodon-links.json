@@ -1399,5 +1399,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110664721888811355"
     ],
     "lastTootTimestamp": 1688609648195
+  },
+  "https://nicolas-hoizey.com/links/2023/07/17/permission/": {
+    "id": "https://nicolas-hoizey.com/links/2023/07/17/permission/",
+    "url": "https://nicolas-hoizey.com/links/2023/07/17/permission/",
+    "lang": "en",
+    "title": "🔗 Permission",
+    "date_published": "2023-07-17T12:21:55Z",
+    "content_text": "🔗 “Permission” by @adactio@mastodon.social\n\n#Google \n\n⚓️ https://nicolas-hoizey.com/links/2023/07/17/permission/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://adactio.com/journal/20315",
+        "mime_type": "image/png",
+        "title": "Screenshot of Permission"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110729706989874952"
+    ],
+    "lastTootTimestamp": 1689601243840
   }
 }
