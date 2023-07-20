@@ -3869,7 +3869,10 @@
         "title": "The Moroccan High Atlas"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110746410261809104"
+    ],
+    "lastTootTimestamp": 1689856114089
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
@@ -6957,6 +6960,23 @@
         "url": "https://nicolas-hoizey.photo/photos/butterfly/small.jpg",
         "mime_type": "image/jpeg",
         "title": "Butterfly"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/europe/france/occitania/cite-de-carcassonne/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/occitania/cite-de-carcassonne/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/europe/france/occitania/cite-de-carcassonne/",
+    "language": "en",
+    "title": "Cité de Carcassonne",
+    "date_published": "2022-08-16T12:28:45Z",
+    "content_text": "“Cité de Carcassonne”\n\nThe Cité de Carcassonne is a medieval citadel located in the French city of Carcassonne. It is situated on a hill and dominates the banks of the River Aude.\n\nWith its castle and ramparts, the city seems straight…\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/europe/france/occitania/cite-de-carcassonne/\n\n📅 16 August 2022\n\n📸 Fujifilm X-T3 + Fujinon XF 16-80mm f/4.0 R OIS WR\n🎞️ ISO 200, ƒ/11, 1/500s\n\n#Travel #TravelPhotography #Europe #France #Occitania #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/cite-de-carcassonne/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Cité de Carcassonne",
+        "_alt_text": "Photo taken from the banks of the river Aude, with a distant view of the silhouette of the citadel of Carcassonne."
       }
     ],
     "toots": []
