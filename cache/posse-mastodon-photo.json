@@ -4078,7 +4078,10 @@
         "_alt_text": "Photo in a very dark nightclub, with white and blue spotlights, red lights in the shape of lightning, and a DJ silhouette at the decks"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110757734089058375"
+    ],
+    "lastTootTimestamp": 1690028901723
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/the-blacksmith/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/the-blacksmith/",
