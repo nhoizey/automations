@@ -1419,5 +1419,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110777919641498247"
     ],
     "lastTootTimestamp": 1690336908768
+  },
+  "https://nicolas-hoizey.com/links/2023/07/26/nobody-cares-about-your-blog/": {
+    "id": "https://nicolas-hoizey.com/links/2023/07/26/nobody-cares-about-your-blog/",
+    "url": "https://nicolas-hoizey.com/links/2023/07/26/nobody-cares-about-your-blog/",
+    "lang": "en",
+    "title": "🔗 Nobody cares about your blog.",
+    "date_published": "2023-07-26T07:53:24Z",
+    "content_text": "🔗 “Nobody cares about your blog.”\n\n#blog \n\n⚓️ https://nicolas-hoizey.com/links/2023/07/26/nobody-cares-about-your-blog/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html",
+        "mime_type": "image/png",
+        "title": "Screenshot of Nobody cares about your blog."
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110779957128424177"
+    ],
+    "lastTootTimestamp": 1690367998333
   }
 }
