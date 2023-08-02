@@ -1438,5 +1438,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110779957128424177"
     ],
     "lastTootTimestamp": 1690367998333
+  },
+  "https://nicolas-hoizey.com/links/2023/08/02/the-virtual-keyboard-api/": {
+    "id": "https://nicolas-hoizey.com/links/2023/08/02/the-virtual-keyboard-api/",
+    "url": "https://nicolas-hoizey.com/links/2023/08/02/the-virtual-keyboard-api/",
+    "lang": "en",
+    "title": "🔗 The virtual keyboard API",
+    "date_published": "2023-08-02T07:51:52Z",
+    "content_text": "🔗 “The virtual keyboard API” by @shadeed9@front-end.social\n\n#CSS #mobile \n\n⚓️ https://nicolas-hoizey.com/links/2023/08/02/the-virtual-keyboard-api/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://ishadeed.com/article/virtual-keyboard-api/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The virtual keyboard API"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110819592124810799"
+    ],
+    "lastTootTimestamp": 1690972780394
   }
 }
