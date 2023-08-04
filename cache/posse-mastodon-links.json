@@ -1435,9 +1435,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110779957128424177"
+      "https://mamot.fr/users/nhoizey/statuses/110779957128424177",
+      "https://mamot.fr/users/nhoizey/statuses/110828865231821031"
     ],
-    "lastTootTimestamp": 1690367998333
+    "lastTootTimestamp": 1691114278557
   },
   "https://nicolas-hoizey.com/links/2023/08/02/the-virtual-keyboard-api/": {
     "id": "https://nicolas-hoizey.com/links/2023/08/02/the-virtual-keyboard-api/",
