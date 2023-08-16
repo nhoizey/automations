@@ -1479,7 +1479,10 @@
         "title": "Le Roof"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110899291681571102"
+    ],
+    "lastTootTimestamp": 1692188899124
   },
   "https://nicolas-hoizey.photo/galleries/misc/miniature/a-l-epee-royale/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/a-l-epee-royale/",
