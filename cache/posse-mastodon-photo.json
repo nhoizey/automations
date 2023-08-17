@@ -6229,7 +6229,10 @@
         "title": "Nothing to see… or maybe…"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110904954013086511"
+    ],
+    "lastTootTimestamp": 1692275299482
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
