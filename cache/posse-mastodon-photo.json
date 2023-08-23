@@ -1778,7 +1778,10 @@
         "title": "Dreamer"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110938928184217264"
+    ],
+    "lastTootTimestamp": 1692793704176
   },
   "https://nicolas-hoizey.photo/galleries/portraits/outdoor/in-all-its-simplicity/": {
     "id": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/in-all-its-simplicity/",
