@@ -1459,5 +1459,40 @@
       "https://mamot.fr/users/nhoizey/statuses/110867723306350856"
     ],
     "lastTootTimestamp": 1691707204429
+  },
+  "https://nicolas-hoizey.com/links/2023/08/25/the-ideal-viewport-doesn-t-exist/": {
+    "id": "https://nicolas-hoizey.com/links/2023/08/25/the-ideal-viewport-doesn-t-exist/",
+    "url": "https://nicolas-hoizey.com/links/2023/08/25/the-ideal-viewport-doesn-t-exist/",
+    "lang": "en",
+    "title": "🔗 The ideal viewport doesn’t exist",
+    "date_published": "2023-08-25T18:53:07Z",
+    "content_text": "🔗 “The ideal viewport doesn’t exist” by @leannecodes@mastodon.social\n\n#responsive #viewport \n\n⚓️ https://nicolas-hoizey.com/links/2023/08/25/the-ideal-viewport-doesn-t-exist/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://viewports.fyi/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The ideal viewport doesn’t exist"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110951948875577433"
+    ],
+    "lastTootTimestamp": 1692992388098
+  },
+  "https://nicolas-hoizey.com/links/2023/08/25/enhance-vs-lit-vs-webc-or-how-to-server-render-a-web-component/": {
+    "id": "https://nicolas-hoizey.com/links/2023/08/25/enhance-vs-lit-vs-webc-or-how-to-server-render-a-web-component/",
+    "url": "https://nicolas-hoizey.com/links/2023/08/25/enhance-vs-lit-vs-webc-or-how-to-server-render-a-web-component/",
+    "lang": "en",
+    "title": "🔗 Enhance vs. Lit vs. WebC…or, How to Server-Render a Web Component",
+    "date_published": "2023-08-25T18:03:52Z",
+    "content_text": "🔗 “Enhance vs. Lit vs. WebC…or, How to Server-Render a Web Component” by @jaredwhite@indieweb.social\n\n#WebComponents #WebC \n\n⚓️ https://nicolas-hoizey.com/links/2023/08/25/enhance-vs-lit-vs-webc-or-how-to-server-render-a-web-component/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.spicyweb.dev/web-components-ssr-node/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Enhance vs. Lit vs. WebC…or, How to Server-Render a Web Component"
+      }
+    ],
+    "toots": []
   }
 }
