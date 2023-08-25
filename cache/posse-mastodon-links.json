@@ -1466,7 +1466,7 @@
     "lang": "en",
     "title": "🔗 The ideal viewport doesn’t exist",
     "date_published": "2023-08-25T18:53:07Z",
-    "content_text": "🔗 “The ideal viewport doesn’t exist” by @leannecodes@mastodon.social\n\n#responsive #viewport \n\n⚓️ https://nicolas-hoizey.com/links/2023/08/25/the-ideal-viewport-doesn-t-exist/",
+    "content_text": "🔗 “The ideal viewport doesn’t exist” by @andy@bell.bz @leannecodes@mastodon.social\n\n#responsive #viewport \n\n⚓️ https://nicolas-hoizey.com/links/2023/08/25/the-ideal-viewport-doesn-t-exist/",
     "attachments": [
       {
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://viewports.fyi/",
@@ -1493,6 +1493,9 @@
         "title": "Screenshot of Enhance vs. Lit vs. WebC…or, How to Server-Render a Web Component"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110952657378631883"
+    ],
+    "lastTootTimestamp": 1693003203768
   }
 }
