@@ -1497,5 +1497,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110952657378631883"
     ],
     "lastTootTimestamp": 1693003203768
+  },
+  "https://nicolas-hoizey.com/links/2023/08/30/educational-sensational-inspirational-foundational/": {
+    "id": "https://nicolas-hoizey.com/links/2023/08/30/educational-sensational-inspirational-foundational/",
+    "url": "https://nicolas-hoizey.com/links/2023/08/30/educational-sensational-inspirational-foundational/",
+    "lang": "en",
+    "title": "🔗 Educational Sensational Inspirational Foundational",
+    "date_published": "2023-08-30T16:23:44Z",
+    "content_text": "🔗 “Educational Sensational Inspirational Foundational” by @zachleat@zachleat.com\n\n#Web #CSS #HTML #JavaScript #responsive \n\n⚓️ https://nicolas-hoizey.com/links/2023/08/30/educational-sensational-inspirational-foundational/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://esif.dev/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Educational Sensational Inspirational Foundational"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110980260501733146"
+    ],
+    "lastTootTimestamp": 1693424386807
   }
 }
