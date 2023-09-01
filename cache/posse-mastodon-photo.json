@@ -5307,7 +5307,10 @@
         "_alt_text": "Photo of smoking incense spirals, hanging from the ceiling of a temple, with a light beam in the darkness"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/110989888635068019"
+    ],
+    "lastTootTimestamp": 1693571298941
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
@@ -7477,6 +7480,54 @@
         "url": "https://nicolas-hoizey.photo/photos/wood-pier-in-sunset/small.jpg",
         "mime_type": "image/jpeg",
         "title": "Wood pier in sunset"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-workshop/": {
+    "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-workshop/",
+    "url": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-workshop/",
+    "language": "en",
+    "title": "The miniature workshop",
+    "date_published": "2006-12-26T15:00:35Z",
+    "content_text": "“The miniature workshop”\n\nThe Cinema and Miniature museum is located in the Presqu'île, the central part of the City of Lyon, France.\n\nThe museum's aim is to bring the secrets of film-making to a wider public, through a selection of fascinating artifacts that interact…\n\n🔎 https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-workshop/\n\n📅 26 December 2006\n\n📸 Canon EOS 350D + EF-S 17-85mm f/4-5.6 IS USM\n🎞️ ISO 1600, ƒ/4, 1/40s\n\n#Miscellaneous #Miniature #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-miniature-workshop/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "The miniature workshop"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/": {
+    "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/",
+    "url": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/",
+    "language": "en",
+    "title": "The miniature bistro",
+    "date_published": "2006-12-26T15:02:08Z",
+    "content_text": "“The miniature bistro”\n\nThe Cinema and Miniature museum is located in the Presqu'île, the central part of the City of Lyon, France.\n\nThe museum's aim is to bring the secrets of film-making to a wider public, through a selection of fascinating artifacts that interact…\n\n🔎 https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/\n\n📅 26 December 2006\n\n📸 Canon EOS 350D + EF-S 17-85mm f/4-5.6 IS USM\n🎞️ ISO 800, ƒ/4, 1/25s\n\n#Miscellaneous #Miniature #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-miniature-bistro/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "The miniature bistro"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/": {
+    "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
+    "url": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
+    "language": "en",
+    "title": "The miniature paleontological museum",
+    "date_published": "2006-12-26T15:01:05Z",
+    "content_text": "“The miniature paleontological museum”\n\nThe Cinema and Miniature museum is located in the Presqu'île, the central part of the City of Lyon, France.\n\nThe museum's aim is to bring the secrets of film-making to a wider public, through a selection of fascinating artifacts…\n\n🔎 https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/\n\n📅 26 December 2006\n\n📸 Canon EOS 350D + EF-S 17-85mm f/4-5.6 IS USM\n🎞️ ISO 1600, ƒ/4, 1/25s\n\n#Miscellaneous #Miniature #Photography #PhotoOfTheDay #DailyPhoto #MastoArt",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-miniature-paleontological-museum/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "The miniature paleontological museum"
       }
     ],
     "toots": []
