@@ -7355,7 +7355,10 @@
         "title": "Along the shore"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111001212959336129"
+    ],
+    "lastTootTimestamp": 1693744102871
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/le-guilvinec-by-night/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/le-guilvinec-by-night/",
