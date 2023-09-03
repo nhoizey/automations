@@ -1475,9 +1475,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/110951948875577433"
+      "https://mamot.fr/users/nhoizey/statuses/110951948875577433",
+      "https://mamot.fr/users/nhoizey/statuses/111000079451866035"
     ],
-    "lastTootTimestamp": 1692992388098
+    "lastTootTimestamp": 1693726812060
   },
   "https://nicolas-hoizey.com/links/2023/08/25/enhance-vs-lit-vs-webc-or-how-to-server-render-a-web-component/": {
     "id": "https://nicolas-hoizey.com/links/2023/08/25/enhance-vs-lit-vs-webc-or-how-to-server-render-a-web-component/",
