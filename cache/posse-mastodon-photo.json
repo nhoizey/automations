@@ -6226,7 +6226,10 @@
         "title": "Follow the path around"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111012538653419280"
+    ],
+    "lastTootTimestamp": 1693916915154
   },
   "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/maasai-mara-national-reserve/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/maasai-mara-national-reserve/",
