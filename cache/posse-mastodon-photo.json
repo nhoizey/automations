@@ -2127,7 +2127,10 @@
         "_alt_text": "Photo of a boat on a canal, with houses in the background, all reflected in the water"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111018201363365360"
+    ],
+    "lastTootTimestamp": 1694003316908
   },
   "https://nicolas-hoizey.photo/galleries/urban/architecture/color-patches/": {
     "id": "https://nicolas-hoizey.photo/galleries/urban/architecture/color-patches/",
