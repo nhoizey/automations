@@ -2900,7 +2900,10 @@
         "title": "Grant's zebras"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111057837981322826"
+    ],
+    "lastTootTimestamp": 1694608123704
   },
   "https://nicolas-hoizey.photo/galleries/animals/reptiles/spiderman-is-watching/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/reptiles/spiderman-is-watching/",
