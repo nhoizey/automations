@@ -5570,7 +5570,10 @@
         "title": "Österskär"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111063499931792746"
+    ],
+    "lastTootTimestamp": 1694694518186
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/sweden/akersberga/panorama-over-traelhavet/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/sweden/akersberga/panorama-over-traelhavet/",
