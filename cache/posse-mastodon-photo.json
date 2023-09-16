@@ -1532,7 +1532,10 @@
         "title": "Let's ride!"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111074821735618858"
+    ],
+    "lastTootTimestamp": 1694867275185
   },
   "https://nicolas-hoizey.photo/galleries/misc/miniature/oddly-vintage/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/oddly-vintage/",
