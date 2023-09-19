@@ -334,7 +334,10 @@
         "title": "Loch Tulla Viewpoint"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111091811636348886"
+    ],
+    "lastTootTimestamp": 1695126520534
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/rotterdam/rotterdam-cube-houses-disoriented/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/rotterdam/rotterdam-cube-houses-disoriented/",
