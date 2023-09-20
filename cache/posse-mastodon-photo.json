@@ -2747,7 +2747,10 @@
         "title": "Lioness on the lookout"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111097473895276810"
+    ],
+    "lastTootTimestamp": 1695212919700
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/monkeys/a-very-curious-vervet-monkey/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/monkeys/a-very-curious-vervet-monkey/",
