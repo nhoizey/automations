@@ -646,7 +646,10 @@
         "title": "Kaleidoscope House"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111120120797156545"
+    ],
+    "lastTootTimestamp": 1695558486104
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/betlemi-street-stairs/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/betlemi-street-stairs/",
