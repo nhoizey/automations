@@ -187,7 +187,10 @@
         "_alt_text": "Photo of the front of a white Scottish castle, with a bench on a grassy area in front."
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111125785291072256"
+    ],
+    "lastTootTimestamp": 1695644917353
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilan-donan-and-loch-alsh/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilan-donan-and-loch-alsh/",
