@@ -5649,7 +5649,10 @@
         "title": "Aurélien B&W"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111142772168859241"
+    ],
+    "lastTootTimestamp": 1695904116542
   },
   "https://nicolas-hoizey.photo/galleries/portraits/studio/aurelien/": {
     "id": "https://nicolas-hoizey.photo/galleries/portraits/studio/aurelien/",
