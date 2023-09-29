@@ -1519,5 +1519,88 @@
       "https://mamot.fr/users/nhoizey/statuses/111029099109139212"
     ],
     "lastTootTimestamp": 1694169603359
+  },
+  "https://nicolas-hoizey.com/links/2023/09/29/i-m-a-spotless-giraffe/": {
+    "id": "https://nicolas-hoizey.com/links/2023/09/29/i-m-a-spotless-giraffe/",
+    "url": "https://nicolas-hoizey.com/links/2023/09/29/i-m-a-spotless-giraffe/",
+    "lang": "en",
+    "title": "🔗 I'm a Spotless Giraffe.",
+    "date_published": "2023-09-29T18:15:21Z",
+    "content_text": "🔗 “I'm a Spotless Giraffe.” by @ben@a11y.info\n\n#AI #society \n\n⚓️ https://nicolas-hoizey.com/links/2023/09/29/i-m-a-spotless-giraffe/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://benmyers.dev/blog/spotless-giraffe/",
+        "mime_type": "image/png",
+        "title": "Screenshot of I&#39;m a Spotless Giraffe."
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111150130138585838"
+    ],
+    "lastTootTimestamp": 1696016390258
+  },
+  "https://nicolas-hoizey.com/links/2023/09/29/cooper-hewitt-guidelines-for-image-description/": {
+    "id": "https://nicolas-hoizey.com/links/2023/09/29/cooper-hewitt-guidelines-for-image-description/",
+    "url": "https://nicolas-hoizey.com/links/2023/09/29/cooper-hewitt-guidelines-for-image-description/",
+    "lang": "en",
+    "title": "🔗 Cooper Hewitt Guidelines for Image Description",
+    "date_published": "2023-09-29T18:08:25Z",
+    "content_text": "🔗 “Cooper Hewitt Guidelines for Image Description”\n\n#accessibility \n\n⚓️ https://nicolas-hoizey.com/links/2023/09/29/cooper-hewitt-guidelines-for-image-description/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cooperhewitt.org/cooper-hewitt-guidelines-for-image-description/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Cooper Hewitt Guidelines for Image Description"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/09/29/smart-quotes-for-smart-people/": {
+    "id": "https://nicolas-hoizey.com/links/2023/09/29/smart-quotes-for-smart-people/",
+    "url": "https://nicolas-hoizey.com/links/2023/09/29/smart-quotes-for-smart-people/",
+    "lang": "en",
+    "title": "🔗 Smart Quotes for Smart People",
+    "date_published": "2023-09-29T18:01:03Z",
+    "content_text": "🔗 “Smart Quotes for Smart People” by @jasonsantamaria@typo.social\n\n#typography \n\n⚓️ https://nicolas-hoizey.com/links/2023/09/29/smart-quotes-for-smart-people/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://smartquotesforsmartpeople.com/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Smart Quotes for Smart People"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/": {
+    "id": "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/",
+    "url": "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/",
+    "lang": "en",
+    "title": "🔗 Two-way data binding and reactivity with 15 lines of vanilla JavaScript",
+    "date_published": "2023-09-29T17:48:30Z",
+    "content_text": "🔗 “Two-way data binding and reactivity with 15 lines of vanilla JavaScript” by @cferdinandi@mastodon.social\n\n#JavaScript \n\n⚓️ https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://gomakethings.com/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Two-way data binding and reactivity with 15 lines of vanilla JavaScript"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/09/29/we-re-bringing-responsive-video-back/": {
+    "id": "https://nicolas-hoizey.com/links/2023/09/29/we-re-bringing-responsive-video-back/",
+    "url": "https://nicolas-hoizey.com/links/2023/09/29/we-re-bringing-responsive-video-back/",
+    "lang": "en",
+    "title": "🔗 We're Bringing Responsive Video Back!",
+    "date_published": "2023-09-29T17:40:02Z",
+    "content_text": "🔗 “We're Bringing Responsive Video Back!” by @scottjehl@mstdn.social\n\n#video #responsive \n\n⚓️ https://nicolas-hoizey.com/links/2023/09/29/we-re-bringing-responsive-video-back/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://scottjehl.com/posts/responsive-video/",
+        "mime_type": "image/png",
+        "title": "Screenshot of We&#39;re Bringing Responsive Video Back!"
+      }
+    ],
+    "toots": []
   }
 }
