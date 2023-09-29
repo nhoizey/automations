@@ -1569,7 +1569,10 @@
         "title": "Screenshot of Smart Quotes for Smart People"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111150838234924854"
+    ],
+    "lastTootTimestamp": 1696027194952
   },
   "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/": {
     "id": "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/",
@@ -1599,6 +1602,22 @@
         "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://scottjehl.com/posts/responsive-video/",
         "mime_type": "image/png",
         "title": "Screenshot of We&#39;re Bringing Responsive Video Back!"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/": {
+    "id": "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/",
+    "url": "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/",
+    "lang": "en",
+    "title": "🔗 OKLCH in CSS: why we moved from RGB and HSL",
+    "date_published": "2023-09-29T21:46:46Z",
+    "content_text": "🔗 “OKLCH in CSS: why we moved from RGB and HSL” by @sitnik_en@mastodon.social\n\n#CSS #color \n\n⚓️ https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl",
+        "mime_type": "image/png",
+        "title": "Screenshot of OKLCH in CSS: why we moved from RGB and HSL"
       }
     ],
     "toots": []
