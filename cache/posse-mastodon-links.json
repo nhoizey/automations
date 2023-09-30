@@ -1588,7 +1588,10 @@
         "title": "Screenshot of Two-way data binding and reactivity with 15 lines of vanilla JavaScript"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111151599243739628"
+    ],
+    "lastTootTimestamp": 1696038807034
   },
   "https://nicolas-hoizey.com/links/2023/09/29/we-re-bringing-responsive-video-back/": {
     "id": "https://nicolas-hoizey.com/links/2023/09/29/we-re-bringing-responsive-video-back/",
