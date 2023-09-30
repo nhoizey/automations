@@ -1607,7 +1607,10 @@
         "title": "Screenshot of We&#39;re Bringing Responsive Video Back!"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111154376438825034"
+    ],
+    "lastTootTimestamp": 1696081183778
   },
   "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/": {
     "id": "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/",
