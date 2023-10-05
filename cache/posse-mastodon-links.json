@@ -1633,5 +1633,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111152962017197497"
     ],
     "lastTootTimestamp": 1696059601521
+  },
+  "https://nicolas-hoizey.com/links/2023/10/05/how-i-am-blogging-the-indieweb-way/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/05/how-i-am-blogging-the-indieweb-way/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/05/how-i-am-blogging-the-indieweb-way/",
+    "lang": "en",
+    "title": "🔗 How I am blogging the IndieWeb way",
+    "date_published": "2023-10-05T09:16:03Z",
+    "content_text": "🔗 “How I am blogging the IndieWeb way” by @liztai@hachyderm.io\n\n#IndieWeb #POSSE #PESOS \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/05/how-i-am-blogging-the-indieweb-way/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://elizabethtai.com/2023/07/03/how-i-am-blogging-the-indieweb-way/",
+        "mime_type": "image/png",
+        "title": "Screenshot of How I am blogging the IndieWeb way"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111181980056429229"
+    ],
+    "lastTootTimestamp": 1696502381446
   }
 }
