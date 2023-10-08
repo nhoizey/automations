@@ -1574,9 +1574,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111150838234924854"
+      "https://mamot.fr/users/nhoizey/statuses/111150838234924854",
+      "https://mamot.fr/users/nhoizey/statuses/111200383835985694"
     ],
-    "lastTootTimestamp": 1696027194952
+    "lastTootTimestamp": 1696783201117
   },
   "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/": {
     "id": "https://nicolas-hoizey.com/links/2023/09/29/two-way-data-binding-and-reactivity-with-15-lines-of-vanilla-javascript/",
