@@ -522,7 +522,10 @@
         "title": "The path of light"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111199393424998613"
+    ],
+    "lastTootTimestamp": 1696768088345
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/svetitskhoveli-cathedral/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/svetitskhoveli-cathedral/",
