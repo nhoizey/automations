@@ -1614,9 +1614,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111154376438825034"
+      "https://mamot.fr/users/nhoizey/statuses/111154376438825034",
+      "https://mamot.fr/users/nhoizey/statuses/111202564983342215"
     ],
-    "lastTootTimestamp": 1696081183778
+    "lastTootTimestamp": 1696816482487
   },
   "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/": {
     "id": "https://nicolas-hoizey.com/links/2023/09/29/oklch-in-css-why-we-moved-from-rgb-and-hsl/",
