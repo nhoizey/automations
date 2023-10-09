@@ -1635,9 +1635,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111152962017197497"
+      "https://mamot.fr/users/nhoizey/statuses/111152962017197497",
+      "https://mamot.fr/users/nhoizey/statuses/111204631209932075"
     ],
-    "lastTootTimestamp": 1696059601521
+    "lastTootTimestamp": 1696848010613
   },
   "https://nicolas-hoizey.com/links/2023/10/05/how-i-am-blogging-the-indieweb-way/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/05/how-i-am-blogging-the-indieweb-way/",
