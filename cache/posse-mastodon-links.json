@@ -1658,5 +1658,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111181980056429229"
     ],
     "lastTootTimestamp": 1696502381446
+  },
+  "https://nicolas-hoizey.com/links/2023/10/11/the-indieweb-privacy-challenge-webmentions-silo-backfeeds-and-the-gdpr/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/11/the-indieweb-privacy-challenge-webmentions-silo-backfeeds-and-the-gdpr/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/11/the-indieweb-privacy-challenge-webmentions-silo-backfeeds-and-the-gdpr/",
+    "lang": "en",
+    "title": "🔗 The Indieweb privacy challenge (Webmentions, silo backfeeds, and the GDPR)",
+    "date_published": "2023-10-11T07:29:14Z",
+    "content_text": "🔗 “The Indieweb privacy challenge (Webmentions, silo backfeeds, and the GDPR)” by @sebastiangreger@sebastiangreger.net\n\n#IndieWeb #Webmention #privacy \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/11/the-indieweb-privacy-challenge-webmentions-silo-backfeeds-and-the-gdpr/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://sebastiangreger.net/2018/05/indieweb-privacy-challenge-webmentions-backfeeds-gdpr/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The Indieweb privacy challenge (Webmentions, silo backfeeds, and the GDPR)"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/",
+    "lang": "en",
+    "title": "🔗 The ethics of syndicating comments using WebMentions",
+    "date_published": "2023-10-11T07:19:10Z",
+    "content_text": "🔗 “The ethics of syndicating comments using WebMentions”\n\n#IndieWeb #Webmention #privacy \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The ethics of syndicating comments using WebMentions"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111215246907956498"
+    ],
+    "lastTootTimestamp": 1697009993320
   }
 }
