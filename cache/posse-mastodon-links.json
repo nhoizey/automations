@@ -1673,7 +1673,10 @@
         "title": "Screenshot of The Indieweb privacy challenge (Webmentions, silo backfeeds, and the GDPR)"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111216662760893190"
+    ],
+    "lastTootTimestamp": 1697031597483
   },
   "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/",
