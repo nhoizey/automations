@@ -1655,9 +1655,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111181980056429229"
+      "https://mamot.fr/users/nhoizey/statuses/111181980056429229",
+      "https://mamot.fr/users/nhoizey/statuses/111230110523175615"
     ],
-    "lastTootTimestamp": 1696502381446
+    "lastTootTimestamp": 1697236794015
   },
   "https://nicolas-hoizey.com/links/2023/10/11/the-indieweb-privacy-challenge-webmentions-silo-backfeeds-and-the-gdpr/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/11/the-indieweb-privacy-challenge-webmentions-silo-backfeeds-and-the-gdpr/",
