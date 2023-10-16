@@ -1051,7 +1051,10 @@
         "title": "Lost in (white) space"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111244694413023389"
+    ],
+    "lastTootTimestamp": 1697459326514
   },
   "https://nicolas-hoizey.photo/galleries/urban/misc/menace/": {
     "id": "https://nicolas-hoizey.photo/galleries/urban/misc/menace/",
