@@ -6839,7 +6839,10 @@
         "title": "Peaceful cohabitation"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111256018494258619"
+    ],
+    "lastTootTimestamp": 1697632118272
   },
   "https://nicolas-hoizey.photo/galleries/landscapes/empty/": {
     "id": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
