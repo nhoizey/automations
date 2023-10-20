@@ -1675,9 +1675,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111216662760893190"
+      "https://mamot.fr/users/nhoizey/statuses/111216662760893190",
+      "https://mamot.fr/users/nhoizey/statuses/111264849591510126"
     ],
-    "lastTootTimestamp": 1697031597483
+    "lastTootTimestamp": 1697766870268
   },
   "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/11/the-ethics-of-syndicating-comments-using-webmentions/",
