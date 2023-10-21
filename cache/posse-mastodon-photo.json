@@ -2707,7 +2707,10 @@
         "title": "A nap in the shade"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111273003363673483"
+    ],
+    "lastTootTimestamp": 1697891288794
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
