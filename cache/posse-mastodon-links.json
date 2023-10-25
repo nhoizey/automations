@@ -1757,5 +1757,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111290271823744758"
     ],
     "lastTootTimestamp": 1698154782656
+  },
+  "https://nicolas-hoizey.com/links/2023/10/25/building-a-photography-website/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/25/building-a-photography-website/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/25/building-a-photography-website/",
+    "lang": "en",
+    "title": "🔗 Building a photography website",
+    "date_published": "2023-10-25T22:28:24Z",
+    "content_text": "🔗 “Building a photography website” by @darekkay@fosstodon.org\n\n#photography #Eleventy \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/25/building-a-photography-website/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://darekkay.com/blog/photography-website/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Building a photography website"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/10/25/it-s-2023-here-is-why-your-web-design-sucks/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/25/it-s-2023-here-is-why-your-web-design-sucks/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/25/it-s-2023-here-is-why-your-web-design-sucks/",
+    "lang": "en",
+    "title": "🔗 It's 2023, here is why your web design sucks.",
+    "date_published": "2023-10-25T16:34:28Z",
+    "content_text": "🔗 “It's 2023, here is why your web design sucks.” by @hbuchel@hachyderm.io\n\n#design \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/25/it-s-2023-here-is-why-your-web-design-sucks/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/",
+        "mime_type": "image/png",
+        "title": "Screenshot of It&#39;s 2023, here is why your web design sucks."
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111298058121831937"
+    ],
+    "lastTootTimestamp": 1698273592108
   }
 }
