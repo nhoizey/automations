@@ -7340,7 +7340,10 @@
         "title": "An evening at Château de Chambord"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111301316209676156"
+    ],
+    "lastTootTimestamp": 1698323306622
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/setting-sun-on-chambord/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/setting-sun-on-chambord/",
