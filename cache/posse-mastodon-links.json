@@ -1795,5 +1795,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111298058121831937"
     ],
     "lastTootTimestamp": 1698273592108
+  },
+  "https://nicolas-hoizey.com/links/2023/10/26/comparing-manual-and-free-automated-wcag-reviews/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/26/comparing-manual-and-free-automated-wcag-reviews/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/26/comparing-manual-and-free-automated-wcag-reviews/",
+    "lang": "en",
+    "title": "🔗 Comparing Manual and Free Automated WCAG Reviews",
+    "date_published": "2023-10-26T10:58:46Z",
+    "content_text": "🔗 “Comparing Manual and Free Automated WCAG Reviews” by @aardrian@toot.cafe\n\n#accessibility #test #tool \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/26/comparing-manual-and-free-automated-wcag-reviews/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://adrianroselli.com/2023/01/comparing-manual-and-free-automated-wcag-reviews.html",
+        "mime_type": "image/png",
+        "title": "Screenshot of Comparing Manual and Free Automated WCAG Reviews"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111301597619186842"
+    ],
+    "lastTootTimestamp": 1698327600564
   }
 }
