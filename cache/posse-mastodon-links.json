@@ -1814,5 +1814,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111301597619186842"
     ],
     "lastTootTimestamp": 1698327600564
+  },
+  "https://nicolas-hoizey.com/links/2023/10/26/the-web-is-for-user-agency/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/26/the-web-is-for-user-agency/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/26/the-web-is-for-user-agency/",
+    "lang": "en",
+    "title": "🔗 The Web Is For User Agency",
+    "date_published": "2023-10-26T18:57:54Z",
+    "content_text": "🔗 “The Web Is For User Agency” by @robin@mastodon.social\n\n#Web \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/26/the-web-is-for-user-agency/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://berjon.com/user-agency/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The Web Is For User Agency"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111303011883599449"
+    ],
+    "lastTootTimestamp": 1698349180670
   }
 }
