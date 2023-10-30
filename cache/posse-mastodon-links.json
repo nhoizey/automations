@@ -1833,5 +1833,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111303011883599449"
     ],
     "lastTootTimestamp": 1698349180670
+  },
+  "https://nicolas-hoizey.com/links/2023/10/30/view-transitions-and-stacking-context-why-does-my-css-view-transition-ignore-z-index/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/30/view-transitions-and-stacking-context-why-does-my-css-view-transition-ignore-z-index/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/30/view-transitions-and-stacking-context-why-does-my-css-view-transition-ignore-z-index/",
+    "lang": "en",
+    "title": "🔗 View transitions and stacking context: Why does my CSS View Transition ignore z-index?",
+    "date_published": "2023-10-30T09:33:11Z",
+    "content_text": "🔗 “View transitions and stacking context: Why does my CSS View Transition ignore z-index?” by @NicMakesStuff@indieweb.social\n\n#ViewTransitions #CSS \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/30/view-transitions-and-stacking-context-why-does-my-css-view-transition-ignore-z-index/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nicchan.me/blog/view-transitions-and-stacking-context/",
+        "mime_type": "image/png",
+        "title": "Screenshot of View transitions and stacking context: Why does my CSS View Transition ignore z-index?"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111323538931332692"
+    ],
+    "lastTootTimestamp": 1698662398436
   }
 }
