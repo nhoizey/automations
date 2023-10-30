@@ -1049,5 +1049,24 @@
       "https://mamot.fr/users/nhoizey/statuses/110776947853015067"
     ],
     "lastTootTimestamp": 1690322080770
+  },
+  "https://nicolas-hoizey.com/notes/2023/10/30/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/10/30/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/10/30/1/",
+    "lang": "en",
+    "title": "💬 Note from 30 October 2023, 10:24",
+    "date_published": "2023-10-30T09:24:03Z",
+    "content_text": "I love (some) boring @speedcurve@webperf.social graphs… 😅\n\n#CLS #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/10/30/1/",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.com/notes/2023/10/30/1/speedcurve-graph-cls-0.png",
+        "mime_type": "image/png",
+        "title": "Screenshot of a CLS graph from SpeedCurve showing one year of value zero"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111323292447716516"
+    ],
+    "lastTootTimestamp": 1698658637345
   }
 }
