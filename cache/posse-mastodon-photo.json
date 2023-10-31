@@ -6666,7 +6666,10 @@
         "title": "Common Ostrich"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111329627895841598"
+    ],
+    "lastTootTimestamp": 1698755308621
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/flamingos-wading-in-wetlands-in-amboseli-national-park/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/flamingos-wading-in-wetlands-in-amboseli-national-park/",
