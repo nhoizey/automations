@@ -1871,5 +1871,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111330621248261978"
     ],
     "lastTootTimestamp": 1698770467491
+  },
+  "https://nicolas-hoizey.com/links/2023/10/31/io-considered-harmful/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/31/io-considered-harmful/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/31/io-considered-harmful/",
+    "lang": "en",
+    "title": "🔗 .io considered harmful",
+    "date_published": "2023-10-31T21:53:48Z",
+    "content_text": "🔗 “.io considered harmful” by @cariad@hachyderm.io\n\n#Internet #society \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/31/io-considered-harmful/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.beep.blog/io/",
+        "mime_type": "image/png",
+        "title": "Screenshot of .io considered harmful"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/",
+    "lang": "en",
+    "title": "🔗 How to Improve TTFB on Cloudflare with Speculation Rules",
+    "date_published": "2023-10-31T17:50:54Z",
+    "content_text": "🔗 “How to Improve TTFB on Cloudflare with Speculation Rules”\n\n#WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cdnplanet.com/blog/how-improve-ttfb-on-cloudflare-with-speculation-rules/",
+        "mime_type": "image/png",
+        "title": "Screenshot of How to Improve TTFB on Cloudflare with Speculation Rules"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111332031693593029"
+    ],
+    "lastTootTimestamp": 1698791988833
   }
 }
