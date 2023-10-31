@@ -1852,5 +1852,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111323538931332692"
     ],
     "lastTootTimestamp": 1698662398436
+  },
+  "https://nicolas-hoizey.com/links/2023/10/31/staticshape-migrate-to-an-ssg-at-scale/": {
+    "id": "https://nicolas-hoizey.com/links/2023/10/31/staticshape-migrate-to-an-ssg-at-scale/",
+    "url": "https://nicolas-hoizey.com/links/2023/10/31/staticshape-migrate-to-an-ssg-at-scale/",
+    "lang": "en",
+    "title": "🔗 StaticShape — Migrate to an SSG at scale",
+    "date_published": "2023-10-31T16:02:20Z",
+    "content_text": "🔗 “StaticShape — Migrate to an SSG at scale” by @cloudcannon@techhub.social\n\n#CloudCannon #JAMstack \n\n⚓️ https://nicolas-hoizey.com/links/2023/10/31/staticshape-migrate-to-an-ssg-at-scale/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://staticshape.app/",
+        "mime_type": "image/png",
+        "title": "Screenshot of StaticShape — Migrate to an SSG at scale"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111330621248261978"
+    ],
+    "lastTootTimestamp": 1698770467491
   }
 }
