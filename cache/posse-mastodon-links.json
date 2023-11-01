@@ -1886,7 +1886,10 @@
         "title": "Screenshot of .io considered harmful"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111332804060865902"
+    ],
+    "lastTootTimestamp": 1698803773635
   },
   "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/",
