@@ -1911,5 +1911,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111332031693593029"
     ],
     "lastTootTimestamp": 1698791988833
+  },
+  "https://nicolas-hoizey.com/links/2023/11/02/a-bold-new-look-for-the-gov-uk-homepage/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/02/a-bold-new-look-for-the-gov-uk-homepage/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/02/a-bold-new-look-for-the-gov-uk-homepage/",
+    "lang": "en",
+    "title": "🔗 A bold new look for the GOV.UK homepage",
+    "date_published": "2023-11-02T11:18:57Z",
+    "content_text": "🔗 “A bold new look for the GOV.UK homepage”\n\n#UX #responsive \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/02/a-bold-new-look-for-the-gov-uk-homepage/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/",
+        "mime_type": "image/png",
+        "title": "Screenshot of A bold new look for the GOV.UK homepage"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111341232974926666"
+    ],
+    "lastTootTimestamp": 1698932398712
   }
 }
