@@ -1754,9 +1754,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111290271823744758"
+      "https://mamot.fr/users/nhoizey/statuses/111290271823744758",
+      "https://mamot.fr/users/nhoizey/statuses/111338460180081226"
     ],
-    "lastTootTimestamp": 1698154782656
+    "lastTootTimestamp": 1698890079393
   },
   "https://nicolas-hoizey.com/links/2023/10/25/building-a-photography-website/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/25/building-a-photography-website/",
