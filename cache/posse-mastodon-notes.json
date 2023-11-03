@@ -1068,5 +1068,18 @@
       "https://mamot.fr/users/nhoizey/statuses/111323292447716516"
     ],
     "lastTootTimestamp": 1698658637345
+  },
+  "https://nicolas-hoizey.com/notes/2023/11/02/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/11/02/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/11/02/1/",
+    "lang": "en",
+    "title": "💬 Note from 2 November 2023, 21:01",
+    "date_published": "2023-11-02T20:01:08Z",
+    "content_text": "I created a new page in my photography site to show some statistics about the settings used to shoot the photos I share there: apertures, focal lengths, ISOs, shutter speeds.\n\n<https://nicolas-hoizey.photo/statistics/>\n\nDo you think any other statistics could be interesting?\n\nThis is of course using @eleventy@fosstodon.org 's collections and filters, based on photo data stored in Markdown files.\n\n#photography\n\n⚓️ https://nicolas-hoizey.com/notes/2023/11/02/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111343721036097274"
+    ],
+    "lastTootTimestamp": 1698970352893
   }
 }
