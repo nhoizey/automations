@@ -1081,5 +1081,18 @@
       "https://mamot.fr/users/nhoizey/statuses/111343721036097274"
     ],
     "lastTootTimestamp": 1698970352893
+  },
+  "https://nicolas-hoizey.com/notes/2023/11/03/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/11/03/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/11/03/1/",
+    "lang": "en",
+    "title": "💬 Note from 3 November 2023, 12:55",
+    "date_published": "2023-11-03T11:55:21Z",
+    "content_text": "Let's say a SPA first load has been optimized with SSR and the LCP image is loaded pretty fast because it's in the HTML.\n\nBut the JavaScript then builds a carousel in the DOM, which initially shows the very same image.\n\nI guess there's a second render of the image. How can I check this easily?\n\nWould it make sense that the LCP takes the late second render of the image, instead of the fast first one?\n\n#image #LCP #WebPerf\n\n⚓️ https://nicolas-hoizey.com/notes/2023/11/03/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111346611350576962"
+    ],
+    "lastTootTimestamp": 1699014457933
   }
 }
