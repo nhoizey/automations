@@ -1835,9 +1835,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111303011883599449"
+      "https://mamot.fr/users/nhoizey/statuses/111303011883599449",
+      "https://mamot.fr/users/nhoizey/statuses/111351143552960291"
     ],
-    "lastTootTimestamp": 1698349180670
+    "lastTootTimestamp": 1699083614773
   },
   "https://nicolas-hoizey.com/links/2023/10/30/view-transitions-and-stacking-context-why-does-my-css-view-transition-ignore-z-index/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/30/view-transitions-and-stacking-context-why-does-my-css-view-transition-ignore-z-index/",
