@@ -1855,9 +1855,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111323538931332692"
+      "https://mamot.fr/users/nhoizey/statuses/111323538931332692",
+      "https://mamot.fr/users/nhoizey/statuses/111372436374782717"
     ],
-    "lastTootTimestamp": 1698662398436
+    "lastTootTimestamp": 1699408514177
   },
   "https://nicolas-hoizey.com/links/2023/10/31/staticshape-migrate-to-an-ssg-at-scale/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/31/staticshape-migrate-to-an-ssg-at-scale/",
