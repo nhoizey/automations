@@ -1935,5 +1935,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111341232974926666"
     ],
     "lastTootTimestamp": 1698932398712
+  },
+  "https://nicolas-hoizey.com/links/2023/11/08/crux-to-sea-level-lessons-in-distilling-rum/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/08/crux-to-sea-level-lessons-in-distilling-rum/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/08/crux-to-sea-level-lessons-in-distilling-rum/",
+    "lang": "en",
+    "title": "🔗 CrUX to Sea Level: Lessons in Distilling RUM",
+    "date_published": "2023-11-08T10:54:30Z",
+    "content_text": "🔗 “CrUX to Sea Level: Lessons in Distilling RUM” by @DRoss@hachyderm.io\n\n#WebPerf #CrUX \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/08/crux-to-sea-level-lessons-in-distilling-rum/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.youtube.com/watch?v=9AwStx9wfxA",
+        "mime_type": "image/png",
+        "title": "Screenshot of CrUX to Sea Level: Lessons in Distilling RUM"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111375383577052783"
+    ],
+    "lastTootTimestamp": 1699453486349
   }
 }
