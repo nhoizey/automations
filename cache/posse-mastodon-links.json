@@ -1895,9 +1895,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111332804060865902"
+      "https://mamot.fr/users/nhoizey/statuses/111332804060865902",
+      "https://mamot.fr/users/nhoizey/statuses/111381581311959054"
     ],
-    "lastTootTimestamp": 1698803773635
+    "lastTootTimestamp": 1699548054859
   },
   "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/31/how-to-improve-ttfb-on-cloudflare-with-speculation-rules/",
