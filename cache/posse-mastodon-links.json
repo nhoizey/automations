@@ -1875,9 +1875,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111330621248261978"
+      "https://mamot.fr/users/nhoizey/statuses/111330621248261978",
+      "https://mamot.fr/users/nhoizey/statuses/111379453472981545"
     ],
-    "lastTootTimestamp": 1698770467491
+    "lastTootTimestamp": 1699515586529
   },
   "https://nicolas-hoizey.com/links/2023/10/31/io-considered-harmful/": {
     "id": "https://nicolas-hoizey.com/links/2023/10/31/io-considered-harmful/",
