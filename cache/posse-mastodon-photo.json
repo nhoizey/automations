@@ -3855,7 +3855,10 @@
         "title": "Tubes"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111386251165242596"
+    ],
+    "lastTootTimestamp": 1699619311194
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/coco/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/coco/",
