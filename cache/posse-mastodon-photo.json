@@ -6808,7 +6808,10 @@
         "title": "On the move…"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111391911905170210"
+    ],
+    "lastTootTimestamp": 1699705687198
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/who-is-the-observer/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/who-is-the-observer/",
