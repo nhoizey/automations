@@ -1958,5 +1958,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111375383577052783"
     ],
     "lastTootTimestamp": 1699453486349
+  },
+  "https://nicolas-hoizey.com/links/2023/11/13/stop-using-ai-generated-images/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/13/stop-using-ai-generated-images/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/13/stop-using-ai-generated-images/",
+    "lang": "en",
+    "title": "🔗 Stop Using AI-Generated Images",
+    "date_published": "2023-11-13T09:06:43Z",
+    "content_text": "🔗 “Stop Using AI-Generated Images” by @michelle@front-end.social\n\n#AI #image #society \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/13/stop-using-ai-generated-images/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://css-irl.info/stop-using-ai-generated-images/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Stop Using AI-Generated Images"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111402812144148390"
+    ],
+    "lastTootTimestamp": 1699872011717
   }
 }
