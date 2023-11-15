@@ -4085,7 +4085,10 @@
         "title": "A peaceful canal in Venice"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111414563329497872"
+    ],
+    "lastTootTimestamp": 1700051320469
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/another-colourful-window-in-burano/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/another-colourful-window-in-burano/",
@@ -6815,7 +6818,7 @@
         "url": "https://nicolas-hoizey.photo/photos/on-the-move/small.jpg",
         "mime_type": "image/jpeg",
         "title": "On the move…",
-        "_alt_text": "Photo of three elephants in the savannah of Amboseli Park in Kenya. A relatively young one with visible tusks is quite close to the camera and seems interested, ears spread. Two other elephants are a little further away. Around them, a few white little eg"
+        "_alt_text": "Photo of three elephants in the savannah of Amboseli Park in Kenya. A relatively young one with visible tusks is quite close to the camera and seems interested, ears spread. Two other elephants are a little further away. Around them, a few white little egrets are looking for food. In the distance, we can recognise the typical silhouette of Kilimanjaro, covered by its ice cap."
       }
     ],
     "toots": [
