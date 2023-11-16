@@ -898,7 +898,10 @@
         "_alt_text": "Photo of an old green and white boat on the sea in Victoria Harbour in Hong Kong, with many buildings in the background"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111420225717231432"
+    ],
+    "lastTootTimestamp": 1700137722497
   },
   "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/tian-tan-buddha/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/tian-tan-buddha/",
