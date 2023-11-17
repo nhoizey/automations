@@ -1978,5 +1978,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111402812144148390"
     ],
     "lastTootTimestamp": 1699872011717
+  },
+  "https://nicolas-hoizey.com/links/2023/11/17/netlify-image-cdn/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/17/netlify-image-cdn/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/17/netlify-image-cdn/",
+    "lang": "en",
+    "title": "🔗 Netlify Image CDN",
+    "date_published": "2023-11-17T09:24:28Z",
+    "content_text": "🔗 “Netlify Image CDN”\n\n#image #WebPerf #CDN \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/17/netlify-image-cdn/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://docs.netlify.com/image-cdn/overview/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Netlify Image CDN"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111425460527168343"
+    ],
+    "lastTootTimestamp": 1700217598543
   }
 }
