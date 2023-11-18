@@ -1997,5 +1997,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111425460527168343"
     ],
     "lastTootTimestamp": 1700217598543
+  },
+  "https://nicolas-hoizey.com/links/2023/11/18/complex-mpa-view-transitions/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/18/complex-mpa-view-transitions/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/18/complex-mpa-view-transitions/",
+    "lang": "en",
+    "title": "🔗 Complex MPA View Transitions",
+    "date_published": "2023-11-18T10:35:04Z",
+    "content_text": "🔗 “Complex MPA View Transitions” by @tylergaw@mastodon.social\n\n#ViewTransitions #CSS #animation \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/18/complex-mpa-view-transitions/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://tylergaw.com/blog/complex-mpa-view-transitions/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Complex MPA View Transitions"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111431830315852789"
+    ],
+    "lastTootTimestamp": 1700314793750
   }
 }
