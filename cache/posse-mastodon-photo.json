@@ -7744,7 +7744,10 @@
         "title": "The miniature bistro"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111437210625049565"
+    ],
+    "lastTootTimestamp": 1700396890745
   },
   "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/": {
     "id": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
