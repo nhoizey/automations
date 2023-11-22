@@ -2017,5 +2017,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111431830315852789"
     ],
     "lastTootTimestamp": 1700314793750
+  },
+  "https://nicolas-hoizey.com/links/2023/11/22/psychology-of-speed-a-guide-to-perceived-performance/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/22/psychology-of-speed-a-guide-to-perceived-performance/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/22/psychology-of-speed-a-guide-to-perceived-performance/",
+    "lang": "en",
+    "title": "🔗 Psychology of Speed: A Guide to Perceived Performance",
+    "date_published": "2023-11-22T10:22:10Z",
+    "content_text": "🔗 “Psychology of Speed: A Guide to Perceived Performance” by @fox@front-end.social\n\n#WebPerf #UX \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/22/psychology-of-speed-a-guide-to-perceived-performance/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calibreapp.com/blog/perceived-performance",
+        "mime_type": "image/png",
+        "title": "Screenshot of Psychology of Speed: A Guide to Perceived Performance"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111453775214781738"
+    ],
+    "lastTootTimestamp": 1700649646391
   }
 }
