@@ -2036,5 +2036,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111453775214781738"
     ],
     "lastTootTimestamp": 1700649646391
+  },
+  "https://nicolas-hoizey.com/links/2023/11/23/desktop-progressive-web-applications/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/23/desktop-progressive-web-applications/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/23/desktop-progressive-web-applications/",
+    "lang": "en",
+    "title": "🔗 Desktop progressive web applications",
+    "date_published": "2023-11-23T09:16:26Z",
+    "content_text": "🔗 “Desktop progressive web applications” by @trys@mastodon.social\n\n#PWA \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/23/desktop-progressive-web-applications/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.trysmudford.com/blog/desktop-progressive-web-applications/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Desktop progressive web applications"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111459433691293459"
+    ],
+    "lastTootTimestamp": 1700735987813
+  },
+  "https://nicolas-hoizey.com/links/2023/11/23/an-interactive-guide-to-css-grid/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/23/an-interactive-guide-to-css-grid/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/23/an-interactive-guide-to-css-grid/",
+    "lang": "en",
+    "title": "🔗 An Interactive Guide to CSS Grid",
+    "date_published": "2023-11-23T08:10:52Z",
+    "content_text": "🔗 “An Interactive Guide to CSS Grid” by @joshwcomeau@bird.makeup\n\n#CSS #Grid \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/23/an-interactive-guide-to-css-grid/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.joshwcomeau.com/css/interactive-guide-to-grid/",
+        "mime_type": "image/png",
+        "title": "Screenshot of An Interactive Guide to CSS Grid"
+      }
+    ],
+    "toots": []
   }
 }
