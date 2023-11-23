@@ -1094,5 +1094,18 @@
       "https://mamot.fr/users/nhoizey/statuses/111346611350576962"
     ],
     "lastTootTimestamp": 1699014457933
+  },
+  "https://nicolas-hoizey.com/notes/2023/11/23/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/11/23/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/11/23/1/",
+    "lang": "en",
+    "title": "💬 Note from 23 November 2023, 09:52",
+    "date_published": "2023-11-23T08:52:32Z",
+    "content_text": "I wonder if MDN could add screenshots of the live examples, so people can see the result even if their browser doesn't support a feature yet.\n\nFor example for CSS Grid masonry layout:\n<https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout>\n\nI'm using Firefox, so I had to activate the `layout.css.grid-template-masonry-value.enabled` flag to see the “good” result.\n\n#CSS #Grid #MDN\n\n⚓️ https://nicolas-hoizey.com/notes/2023/11/23/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111459059738683393"
+    ],
+    "lastTootTimestamp": 1700730281795
   }
 }
