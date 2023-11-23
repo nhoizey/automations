@@ -2071,5 +2071,24 @@
       }
     ],
     "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/11/23/freezing-a-page-in-devtools/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/23/freezing-a-page-in-devtools/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/23/freezing-a-page-in-devtools/",
+    "lang": "en",
+    "title": "🔗 Freezing a page in DevTools",
+    "date_published": "2023-11-23T12:33:56Z",
+    "content_text": "🔗 “Freezing a page in DevTools” by @patrickbrosset@mas.to\n\n#development \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/23/freezing-a-page-in-devtools/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://patrickbrosset.com/articles/2023-11-22-freezing-a-page-in-devtools/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Freezing a page in DevTools"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111460853922699762"
+    ],
+    "lastTootTimestamp": 1700757661358
   }
 }
