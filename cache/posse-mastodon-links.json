@@ -1995,9 +1995,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111425460527168343"
+      "https://mamot.fr/users/nhoizey/statuses/111425460527168343",
+      "https://mamot.fr/users/nhoizey/statuses/111474364955889812"
     ],
-    "lastTootTimestamp": 1700217598543
+    "lastTootTimestamp": 1700963821394
   },
   "https://nicolas-hoizey.com/links/2023/11/18/complex-mpa-view-transitions/": {
     "id": "https://nicolas-hoizey.com/links/2023/11/18/complex-mpa-view-transitions/",
