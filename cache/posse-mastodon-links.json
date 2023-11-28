@@ -2095,5 +2095,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111460853922699762"
     ],
     "lastTootTimestamp": 1700757661358
+  },
+  "https://nicolas-hoizey.com/links/2023/11/28/the-future-of-jamstack/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/28/the-future-of-jamstack/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/28/the-future-of-jamstack/",
+    "lang": "en",
+    "title": "🔗 The Future of Jamstack",
+    "date_published": "2023-11-28T08:10:36Z",
+    "content_text": "🔗 “The Future of Jamstack” by @cloudcannon@techhub.social\n\n#JAMstack \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/28/the-future-of-jamstack/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://thefutureofjamstack.org/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The Future of Jamstack"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/11/28/the-tension-and-future-of-jamstack/": {
+    "id": "https://nicolas-hoizey.com/links/2023/11/28/the-tension-and-future-of-jamstack/",
+    "url": "https://nicolas-hoizey.com/links/2023/11/28/the-tension-and-future-of-jamstack/",
+    "lang": "en",
+    "title": "🔗 The Tension and Future of Jamstack",
+    "date_published": "2023-11-28T08:04:51Z",
+    "content_text": "🔗 “The Tension and Future of Jamstack” by @zachleat@zachleat.com\n\n#JAMstack #Netlify \n\n⚓️ https://nicolas-hoizey.com/links/2023/11/28/the-tension-and-future-of-jamstack/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zachleat.com/web/jamstack-future/",
+        "mime_type": "image/png",
+        "title": "Screenshot of The Tension and Future of Jamstack"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111487746656077038"
+    ],
+    "lastTootTimestamp": 1701168009465
   }
 }
