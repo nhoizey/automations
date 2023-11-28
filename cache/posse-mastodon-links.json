@@ -2110,7 +2110,10 @@
         "title": "Screenshot of The Future of Jamstack"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111489167833489118"
+    ],
+    "lastTootTimestamp": 1701189696560
   },
   "https://nicolas-hoizey.com/links/2023/11/28/the-tension-and-future-of-jamstack/": {
     "id": "https://nicolas-hoizey.com/links/2023/11/28/the-tension-and-future-of-jamstack/",
