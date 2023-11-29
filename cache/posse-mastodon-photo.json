@@ -7416,7 +7416,10 @@
         "title": "Fog over Niort"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111493835298875091"
+    ],
+    "lastTootTimestamp": 1701260914790
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/an-evening-at-chateau-de-chambord/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/an-evening-at-chateau-de-chambord/",
