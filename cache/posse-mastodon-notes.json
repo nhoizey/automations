@@ -1107,5 +1107,18 @@
       "https://mamot.fr/users/nhoizey/statuses/111459059738683393"
     ],
     "lastTootTimestamp": 1700730281795
+  },
+  "https://nicolas-hoizey.com/notes/2023/12/01/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2023/12/01/1/",
+    "url": "https://nicolas-hoizey.com/notes/2023/12/01/1/",
+    "lang": "en",
+    "title": "💬 Note from 1 December 2023, 09:35",
+    "date_published": "2023-12-01T08:35:34Z",
+    "content_text": "Turbo Pascal is 40!\n\nhttps://mastodon.social/@nixCraft/111502805010199174\n\nI created my first game with Turbo Pascal, back in 1986, thanks to TO7/70 computers available in my collège when I was in 3e (high school's 9th grade in the US).\n\nThe game was a lot like Flappy Bird! 😁\n\n#development\n\n⚓️ https://nicolas-hoizey.com/notes/2023/12/01/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111504358017647349"
+    ],
+    "lastTootTimestamp": 1701421478701
   }
 }
