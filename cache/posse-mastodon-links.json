@@ -2055,9 +2055,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111459433691293459"
+      "https://mamot.fr/users/nhoizey/statuses/111459433691293459",
+      "https://mamot.fr/users/nhoizey/statuses/111507563931614431"
     ],
-    "lastTootTimestamp": 1700735987813
+    "lastTootTimestamp": 1701470397070
   },
   "https://nicolas-hoizey.com/links/2023/11/23/an-interactive-guide-to-css-grid/": {
     "id": "https://nicolas-hoizey.com/links/2023/11/23/an-interactive-guide-to-css-grid/",
