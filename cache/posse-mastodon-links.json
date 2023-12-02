@@ -2075,9 +2075,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111462264583123547"
+      "https://mamot.fr/users/nhoizey/statuses/111462264583123547",
+      "https://mamot.fr/users/nhoizey/statuses/111511102121761854"
     ],
-    "lastTootTimestamp": 1700779186436
+    "lastTootTimestamp": 1701524385567
   },
   "https://nicolas-hoizey.com/links/2023/11/23/freezing-a-page-in-devtools/": {
     "id": "https://nicolas-hoizey.com/links/2023/11/23/freezing-a-page-in-devtools/",
