@@ -2094,9 +2094,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111460853922699762"
+      "https://mamot.fr/users/nhoizey/statuses/111460853922699762",
+      "https://mamot.fr/users/nhoizey/statuses/111509688714185092"
     ],
-    "lastTootTimestamp": 1700757661358
+    "lastTootTimestamp": 1701502818635
   },
   "https://nicolas-hoizey.com/links/2023/11/28/the-future-of-jamstack/": {
     "id": "https://nicolas-hoizey.com/links/2023/11/28/the-future-of-jamstack/",
