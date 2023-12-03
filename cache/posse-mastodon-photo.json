@@ -7549,7 +7549,10 @@
         "title": "Ploumanac'h lighthouse"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111516483107325305"
+    ],
+    "lastTootTimestamp": 1701606492901
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/",
@@ -7851,6 +7854,23 @@
         "mime_type": "image/jpeg",
         "title": "Soft touch danger",
         "_alt_text": "Macro photo of small figurines wearing biohazard work clothing on a white mushroom."
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/equally-surprised/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/equally-surprised/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/equally-surprised/",
+    "language": "en",
+    "title": "Equally surprised",
+    "date_published": "2023-10-16T12:45:37Z",
+    "content_text": "“Equally surprised”\n\nThis stoat popped out from under a rock I'd chosen as the foreground for a landscape photo in the Vallée de la Clarée, and we were both equally surprised. She quickly returned to the shelter.\n\nBy the time I got out my second camera,…\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/equally-surprised/\n\n📅 16 October 2023\n\n📸 Fujifilm X-T3 + 100-400mm\n🎛️ ISO 160, ƒ/8, 1/160 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/equally-surprised/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Equally surprised",
+        "_alt_text": "Photo of an stoat on a rock, looking in our direction, with one of its front paws raised."
       }
     ],
     "toots": []
