@@ -2754,7 +2754,10 @@
         "title": "Don't be afraid, I'm just yawning"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111522146922884902"
+    ],
+    "lastTootTimestamp": 1701692916945
   },
   "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/ladies/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/ladies/",
