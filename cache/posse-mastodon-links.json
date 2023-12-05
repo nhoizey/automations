@@ -2156,5 +2156,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111521722245575685"
     ],
     "lastTootTimestamp": 1701686435766
+  },
+  "https://nicolas-hoizey.com/links/2023/12/05/all-mobile-apps-expand-until/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/05/all-mobile-apps-expand-until/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/05/all-mobile-apps-expand-until/",
+    "lang": "en",
+    "title": "🔗 All Mobile Apps Expand Until...",
+    "date_published": "2023-12-05T15:23:41Z",
+    "content_text": "🔗 “All Mobile Apps Expand Until...”\n\n#mobile #chat \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/05/all-mobile-apps-expand-until/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.lukew.com/ff/entry.asp?1696",
+        "mime_type": "image/png",
+        "title": "Screenshot of All Mobile Apps Expand Until..."
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111528804094089820"
+    ],
+    "lastTootTimestamp": 1701794496224
   }
 }
