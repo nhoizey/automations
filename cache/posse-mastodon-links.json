@@ -2175,5 +2175,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111528804094089820"
     ],
     "lastTootTimestamp": 1701794496224
+  },
+  "https://nicolas-hoizey.com/links/2023/12/05/sizes-auto-pretty-much-requires-width-and-height-attributes/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/05/sizes-auto-pretty-much-requires-width-and-height-attributes/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/05/sizes-auto-pretty-much-requires-width-and-height-attributes/",
+    "lang": "en",
+    "title": "🔗 Sizes=“auto” pretty much requires width and height attributes",
+    "date_published": "2023-12-05T22:32:57Z",
+    "content_text": "🔗 “Sizes=‘auto’ pretty much requires width and height attributes” by @eeeps@front-end.social\n\n#image #responsive #WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/05/sizes-auto-pretty-much-requires-width-and-height-attributes/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://ericportis.com/posts/2023/auto-sizes-pretty-much-requires-width-and-height/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Sizes=&quot;auto&quot; pretty much requires width and height attributes"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111533045080296271"
+    ],
+    "lastTootTimestamp": 1701859208528
   }
 }
