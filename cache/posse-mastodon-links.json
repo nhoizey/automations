@@ -2196,5 +2196,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111533045080296271"
     ],
     "lastTootTimestamp": 1701859208528
+  },
+  "https://nicolas-hoizey.com/links/2023/12/07/please-expose-your-rss/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/07/please-expose-your-rss/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/07/please-expose-your-rss/",
+    "lang": "en",
+    "title": "🔗 Please, Expose your RSS",
+    "date_published": "2023-12-07T09:03:32Z",
+    "content_text": "🔗 “Please, Expose your RSS” by @robb@social.lol\n\n#feed \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/07/please-expose-your-rss/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://rknight.me/please-expose-your-rss/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Please, Expose your RSS"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111538707299052967"
+    ],
+    "lastTootTimestamp": 1701945608747
   }
 }
