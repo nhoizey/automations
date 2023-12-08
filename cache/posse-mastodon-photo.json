@@ -7673,7 +7673,10 @@
         "title": "Phare des Baleines"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111544796086978554"
+    ],
+    "lastTootTimestamp": 1702038521628
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/calvados/le-galatee-sans-voie-lactee/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/calvados/le-galatee-sans-voie-lactee/",
