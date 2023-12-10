@@ -7401,7 +7401,10 @@
         "_alt_text": "Photo of sunbeams on the mountain, with a tent in the foreground"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111556119230817719"
+    ],
+    "lastTootTimestamp": 1702211293147
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/le-gratin-mondain-in-noyers-sur-serein/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/le-gratin-mondain-in-noyers-sur-serein/",
