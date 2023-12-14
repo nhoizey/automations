@@ -2217,5 +2217,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111538707299052967"
     ],
     "lastTootTimestamp": 1701945608747
+  },
+  "https://nicolas-hoizey.com/links/2023/12/14/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/14/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/14/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/",
+    "lang": "en",
+    "title": "🔗 Introducing Spectrum 2: Our vision for the future of Adobe experience design",
+    "date_published": "2023-12-14T12:43:42Z",
+    "content_text": "🔗 “Introducing Spectrum 2: Our vision for the future of Adobe experience design”\n\n#DesignSystem \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/14/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://adobe.design/stories/design-for-scale/introducing-spectrum-2#inclusive-and-accessible",
+        "mime_type": "image/png",
+        "title": "Screenshot of Introducing Spectrum 2: Our vision for the future of Adobe experience design"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111579050590071727"
+    ],
+    "lastTootTimestamp": 1702561196911
   }
 }
