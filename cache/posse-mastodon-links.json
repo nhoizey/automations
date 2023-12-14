@@ -2236,5 +2236,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111579050590071727"
     ],
     "lastTootTimestamp": 1702561196911
+  },
+  "https://nicolas-hoizey.com/links/2023/12/14/getting-started-with-web-performance/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/14/getting-started-with-web-performance/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/14/getting-started-with-web-performance/",
+    "lang": "en",
+    "title": "🔗 Getting started with Web Performance 🚀",
+    "date_published": "2023-12-14T16:23:26Z",
+    "content_text": "🔗 “Getting started with Web Performance 🚀” by @accudio@mastodon.scot\n\n#WebPerf \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/14/getting-started-with-web-performance/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.htmhell.dev/adventcalendar/2023/14/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Getting started with Web Performance 🚀"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111579759493795797"
+    ],
+    "lastTootTimestamp": 1702572015617
   }
 }
