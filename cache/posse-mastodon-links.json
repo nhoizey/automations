@@ -2175,9 +2175,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111528804094089820"
+      "https://mamot.fr/users/nhoizey/statuses/111528804094089820",
+      "https://mamot.fr/users/nhoizey/statuses/111577633886194963"
     ],
-    "lastTootTimestamp": 1701794496224
+    "lastTootTimestamp": 1702539579709
   },
   "https://nicolas-hoizey.com/links/2023/12/05/sizes-auto-pretty-much-requires-width-and-height-attributes/": {
     "id": "https://nicolas-hoizey.com/links/2023/12/05/sizes-auto-pretty-much-requires-width-and-height-attributes/",
