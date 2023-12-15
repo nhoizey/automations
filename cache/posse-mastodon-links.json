@@ -2256,5 +2256,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111579759493795797"
     ],
     "lastTootTimestamp": 1702572015617
+  },
+  "https://nicolas-hoizey.com/links/2023/12/15/how-comics-were-made-a-visual-history-from-the-drawing-board-to-the-printed-page/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/15/how-comics-were-made-a-visual-history-from-the-drawing-board-to-the-printed-page/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/15/how-comics-were-made-a-visual-history-from-the-drawing-board-to-the-printed-page/",
+    "lang": "en",
+    "title": "🔗 How Comics Were Made! A Visual History from the Drawing Board to the Printed Page",
+    "date_published": "2023-12-15T11:38:23Z",
+    "content_text": "🔗 “How Comics Were Made! A Visual History from the Drawing Board to the Printed Page” by @glennf@twit.social\n\n#book #comics \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/15/how-comics-were-made-a-visual-history-from-the-drawing-board-to-the-printed-page/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://howcomicsweremade.ink/",
+        "mime_type": "image/png",
+        "title": "Screenshot of How Comics Were Made! A Visual History from the Drawing Board to the Printed Page"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2023/12/15/pipe-dreams-the-life-and-times-of-yahoo-pipes/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/15/pipe-dreams-the-life-and-times-of-yahoo-pipes/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/15/pipe-dreams-the-life-and-times-of-yahoo-pipes/",
+    "lang": "en",
+    "title": "🔗 Pipe Dreams: The life and times of Yahoo Pipes",
+    "date_published": "2023-12-15T11:18:38Z",
+    "content_text": "🔗 “Pipe Dreams: The life and times of Yahoo Pipes” by @glennf@twit.social\n\n#Yahoo \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/15/pipe-dreams-the-life-and-times-of-yahoo-pipes/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://retool.com/pipes",
+        "mime_type": "image/png",
+        "title": "Screenshot of Pipe Dreams: The life and times of Yahoo Pipes"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111584711875339547"
+    ],
+    "lastTootTimestamp": 1702647581355
   }
 }
