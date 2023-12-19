@@ -2295,5 +2295,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111584711875339547"
     ],
     "lastTootTimestamp": 1702647581355
+  },
+  "https://nicolas-hoizey.com/links/2023/12/19/netlify-s-disingenuous-survey-based-attack-on-next-js-and-eleventy-too/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/19/netlify-s-disingenuous-survey-based-attack-on-next-js-and-eleventy-too/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/19/netlify-s-disingenuous-survey-based-attack-on-next-js-and-eleventy-too/",
+    "lang": "en",
+    "title": "🔗 Netlify’s Disingenuous Survey-based Attack on Next.js (and Eleventy, too)",
+    "date_published": "2023-12-19T17:57:36Z",
+    "content_text": "🔗 “Netlify’s Disingenuous Survey-based Attack on Next.js (and Eleventy, too)” by @zachleat@zachleat.com\n\n#Eleventy #Netlify \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/19/netlify-s-disingenuous-survey-based-attack-on-next-js-and-eleventy-too/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zachleat.com/web/netlify-and-nextjs/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Netlify’s Disingenuous Survey-based Attack on Next.js (and Eleventy, too)"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111608776780824289"
+    ],
+    "lastTootTimestamp": 1703014785251
   }
 }
