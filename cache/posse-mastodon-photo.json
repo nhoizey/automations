@@ -1056,7 +1056,10 @@
         "_alt_text": "Photo of a completely rusted nut and bolt"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111607081275843192"
+    ],
+    "lastTootTimestamp": 1702988911247
   },
   "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/": {
     "id": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
