@@ -7671,7 +7671,10 @@
         "_alt_text": "Photo of the Atlantic coast at Guilvinec, with rocks uncovered at low tide, and glimmers of the town in the distance."
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111629728474074881"
+    ],
+    "lastTootTimestamp": 1703334480066
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/seine-et-marne/koezio-labyrinth/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/seine-et-marne/koezio-labyrinth/",
