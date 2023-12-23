@@ -2235,9 +2235,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111579050590071727"
+      "https://mamot.fr/users/nhoizey/statuses/111579050590071727",
+      "https://mamot.fr/users/nhoizey/statuses/111627237122863682"
     ],
-    "lastTootTimestamp": 1702561196911
+    "lastTootTimestamp": 1703296465011
   },
   "https://nicolas-hoizey.com/links/2023/12/14/getting-started-with-web-performance/": {
     "id": "https://nicolas-hoizey.com/links/2023/12/14/getting-started-with-web-performance/",
