@@ -2294,9 +2294,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111584711875339547"
+      "https://mamot.fr/users/nhoizey/statuses/111584711875339547",
+      "https://mamot.fr/users/nhoizey/statuses/111632909426473479"
     ],
-    "lastTootTimestamp": 1702647581355
+    "lastTootTimestamp": 1703383018666
   },
   "https://nicolas-hoizey.com/links/2023/12/19/netlify-s-disingenuous-survey-based-attack-on-next-js-and-eleventy-too/": {
     "id": "https://nicolas-hoizey.com/links/2023/12/19/netlify-s-disingenuous-survey-based-attack-on-next-js-and-eleventy-too/",
