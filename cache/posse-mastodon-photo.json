@@ -486,7 +486,10 @@
         "title": "Faded blue"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111663702495296164"
+    ],
+    "lastTootTimestamp": 1703852882409
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/zemo-kalaki/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/zemo-kalaki/",
@@ -7946,6 +7949,23 @@
         "mime_type": "image/jpeg",
         "title": "Equally surprised",
         "_alt_text": "Photo of an stoat on a rock, looking in our direction, with one of its front paws raised."
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
+    "language": "en",
+    "title": "The path to reach the sky is sometimes twisted",
+    "date_published": "2023-10-18T12:50:34Z",
+    "content_text": "“The path to reach the sky is sometimes twisted”\n\nThis European larch is an exception among its kind. It sheds its needles in autumn, which turn yellow, red and brown before dropping. It is the only conifer in Europe to do this.\n\nIt is sometimes called the mountain oak, because of the…\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/\n\n📅 18 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 100, ƒ/8, 1/40 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/the-path-to-reach-the-sky-is-sometimes-twisted/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "The path to reach the sky is sometimes twisted",
+        "_alt_text": "A crooked tree in a field with dry grass, coniferous trees in the background, and mountains partially obscured by mist."
       }
     ],
     "toots": []
