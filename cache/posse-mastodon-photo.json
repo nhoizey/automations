@@ -3805,7 +3805,10 @@
         "title": "Aux couleurs modernes"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111675027470542870"
+    ],
+    "lastTootTimestamp": 1704025687816
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/sittin-on-the-dock-of-the-bay/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/sittin-on-the-dock-of-the-bay/",
