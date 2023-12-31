@@ -2319,5 +2319,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111657614757275195"
     ],
     "lastTootTimestamp": 1703759991146
+  },
+  "https://nicolas-hoizey.com/links/2023/12/31/an-interactive-intro-to-crdts/": {
+    "id": "https://nicolas-hoizey.com/links/2023/12/31/an-interactive-intro-to-crdts/",
+    "url": "https://nicolas-hoizey.com/links/2023/12/31/an-interactive-intro-to-crdts/",
+    "lang": "en",
+    "title": "🔗 An Interactive Intro to CRDTs",
+    "date_published": "2023-12-31T14:23:25Z",
+    "content_text": "🔗 “An Interactive Intro to CRDTs” by @jakelazaroff@mastodon.social\n\n#network #synchronization \n\n⚓️ https://nicolas-hoizey.com/links/2023/12/31/an-interactive-intro-to-crdts/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+        "mime_type": "image/png",
+        "title": "Screenshot of An Interactive Intro to CRDTs"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111676018323203677"
+    ],
+    "lastTootTimestamp": 1704040807074
   }
 }
