@@ -5332,7 +5332,10 @@
         "title": "Pollination"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111692015726977587"
+    ],
+    "lastTootTimestamp": 1704284908109
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/le-petit-poucet/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/le-petit-poucet/",
@@ -7978,6 +7981,23 @@
         "mime_type": "image/jpeg",
         "title": "The path to reach the sky is sometimes twisted",
         "_alt_text": "A crooked tree in a field with dry grass, coniferous trees in the background, and mountains partially obscured by mist."
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/european-larch-trees-dressed-for-autumn/": {
+    "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/european-larch-trees-dressed-for-autumn/",
+    "url": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/european-larch-trees-dressed-for-autumn/",
+    "language": "en",
+    "title": "European larch trees dressed for autumn",
+    "date_published": "2023-10-18T12:48:31Z",
+    "content_text": "“European larch trees dressed for autumn”\n\nThese European larch are an exception among their kind. They shed their needles in autumn, which turn yellow, red and brown before dropping. It is the only conifer in Europe to do this.\n\nIt is sometimes called the mountain oak, because of the…\n\n🔎 https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/european-larch-trees-dressed-for-autumn/\n\n📅 18 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 100, ƒ/8, 1/50 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/european-larch-trees-dressed-for-autumn/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "European larch trees dressed for autumn",
+        "_alt_text": "A misty mountain landscape with larch trees in autumn colors and a dry grassy field."
       }
     ],
     "toots": []
