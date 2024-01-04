@@ -2338,5 +2338,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111676018323203677"
     ],
     "lastTootTimestamp": 1704040807074
+  },
+  "https://nicolas-hoizey.com/links/2024/01/04/rss-parrot-turn-mastodon-into-your-feed-reader/": {
+    "id": "https://nicolas-hoizey.com/links/2024/01/04/rss-parrot-turn-mastodon-into-your-feed-reader/",
+    "url": "https://nicolas-hoizey.com/links/2024/01/04/rss-parrot-turn-mastodon-into-your-feed-reader/",
+    "lang": "en",
+    "title": "🔗 RSS Parrot: Turn Mastodon into your feed reader",
+    "date_published": "2024-01-04T13:45:42Z",
+    "content_text": "🔗 “RSS Parrot: Turn Mastodon into your feed reader” by @twilliability@genart.social\n\n#Mastodon #feed \n\n⚓️ https://nicolas-hoizey.com/links/2024/01/04/rss-parrot-turn-mastodon-into-your-feed-reader/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://rss-parrot.net/",
+        "mime_type": "image/png",
+        "title": "Screenshot of RSS Parrot: Turn Mastodon into your feed reader"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111698671966437561"
+    ],
+    "lastTootTimestamp": 1704386474220
   }
 }
