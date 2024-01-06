@@ -27,6 +27,7 @@ jobs:
           cacheTimestampFile: "posse-pixelfed-photo-timestamp.json"
           # globalDelayToots: 1200 # 20 hours
           globalDelayToots: 1
+          nbTootsPerItem: 1000
           delayTootsSameItem: 525600 # 1 year
 
       - name: Pull any changes from Git 📥
