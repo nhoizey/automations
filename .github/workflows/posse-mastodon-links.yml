@@ -1,4 +1,4 @@
-name: "POSSE links to Mastodon"
+name: "🔗 → 🐘 POSSE links to Mastodon"
 on:
   schedule:
     # https://crontab.guru/#37_1/3_*_*_*

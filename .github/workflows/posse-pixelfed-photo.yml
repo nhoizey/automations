@@ -1,4 +1,4 @@
-name: "POSSE photos to Pixelfed"
+name: "📸 → 🖼️ POSSE photos to Pixelfed"
 on:
   schedule:
     # https://crontab.guru/#39_17_*_*_*

@@ -1,4 +1,4 @@
-name: "POSSE photos to Mastodon with GitHub Action"
+name: "📸 → 🐘 POSSE photos to Mastodon"
 on:
   schedule:
     # https://crontab.guru/#17_12_*_*_*

@@ -1,4 +1,4 @@
-name: "POSSE notes to Mastodon"
+name: "💬 → 🐘 POSSE notes to Mastodon"
 on:
   schedule:
     # https://crontab.guru/#2/7_0-2,8-23_*_*_*

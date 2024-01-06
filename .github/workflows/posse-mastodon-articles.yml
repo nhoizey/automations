@@ -1,4 +1,4 @@
-name: "POSSE articles to Mastodon"
+name: "🖋 → 🐘 POSSE articles to Mastodon"
 on:
   schedule:
     # https://crontab.guru/#13/37_*_*_*_*
