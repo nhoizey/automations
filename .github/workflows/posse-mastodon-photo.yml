@@ -25,7 +25,7 @@ jobs:
           mastodonToken: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           cacheFile: "posse-mastodon-photo.json"
           cacheTimestampFile: "posse-mastodon-photo-timestamp.json"
-          globalDelayToots: 1200 # 20 hours
+          globalDelayToots: 1380 # 23 hours
 
       - name: Pull any changes from Git 📥
         run: git pull
