@@ -25,11 +25,8 @@ jobs:
           mastodonToken: ${{ secrets.PIXELFED_TOKEN }}
           cacheFile: "posse-pixelfed-photo.json"
           cacheTimestampFile: "posse-pixelfed-photo-timestamp.json"
-          # globalDelayToots: 1200 # 20 hours
-          globalDelayToots: 1 # 1 minute
-          nbTootsPerItem: 1000
-          # delayTootsSameItem: 525600 # 1 year
-          delayTootsSameItem: 1 # 1 minute
+          globalDelayToots: 1200 # 20 hours
+          nbTootsPerItem: 1
 
       - name: Pull any changes from Git 📥
         run: git pull
