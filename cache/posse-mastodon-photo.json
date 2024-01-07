@@ -5904,7 +5904,10 @@
         "_alt_text": "Photo of a nice yellow and white streetcar in a street of Lisbon in Portugal"
       }
     ],
-    "toots": []
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111714664263519609"
+    ],
+    "lastTootTimestamp": 1704630497335
   },
   "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/": {
     "id": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
