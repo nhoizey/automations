@@ -1,8 +1,8 @@
 name: "📸 → 🖼️ POSSE photos to Pixelfed"
 on:
   schedule:
-    # https://crontab.guru/#39_17_*_*_*
-    - cron: "39 17 * * *"
+    # https://crontab.guru/#3/27_7-22_*_*_*
+    - cron: "3/27 7-22 * * *"
   workflow_dispatch:
 
 concurrency:
