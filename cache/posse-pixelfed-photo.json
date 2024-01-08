@@ -4571,9 +4571,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/649943114802497322"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1704715313977
   },
   "https://nicolas-hoizey.photo/galleries/animals/birds/coco/": {
     "id": "https://nicolas-hoizey.photo/galleries/animals/birds/coco/",
