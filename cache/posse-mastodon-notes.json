@@ -1133,5 +1133,18 @@
       "https://mamot.fr/users/nhoizey/statuses/111618074740116077"
     ],
     "lastTootTimestamp": 1703156658154
+  },
+  "https://nicolas-hoizey.com/notes/2024/01/09/1/": {
+    "id": "https://nicolas-hoizey.com/notes/2024/01/09/1/",
+    "url": "https://nicolas-hoizey.com/notes/2024/01/09/1/",
+    "lang": "en",
+    "title": "💬 Note from 9 January 2024, 09:40",
+    "date_published": "2024-01-09T08:40:40Z",
+    "content_text": "Is it worth it maintaining a #TWA version of my responsive puzzle game esviji in Google Play Store?\n\nhttps://play.google.com/store/apps/details?id=com.esviji.twa\n\nGoogle requires periodic “artificial life support” to check the app is still relevant: API version update, app links from websites, developer account, etc.\n\nThe #PWA version has been available and installable on its own domain for years,\nwithout any required maintenance:\n\nhttps://play.esviji.com\n\n#esviji #game #store\n\n⚓️ https://nicolas-hoizey.com/notes/2024/01/09/1/",
+    "attachments": [],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111725382793296937"
+    ],
+    "lastTootTimestamp": 1704794049120
   }
 }
