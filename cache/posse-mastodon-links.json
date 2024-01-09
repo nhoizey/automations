@@ -2335,9 +2335,10 @@
       }
     ],
     "toots": [
-      "https://mamot.fr/users/nhoizey/statuses/111676018323203677"
+      "https://mamot.fr/users/nhoizey/statuses/111676018323203677",
+      "https://mamot.fr/users/nhoizey/statuses/111724148892228681"
     ],
-    "lastTootTimestamp": 1704040807074
+    "lastTootTimestamp": 1704775221249
   },
   "https://nicolas-hoizey.com/links/2024/01/04/rss-parrot-turn-mastodon-into-your-feed-reader/": {
     "id": "https://nicolas-hoizey.com/links/2024/01/04/rss-parrot-turn-mastodon-into-your-feed-reader/",
