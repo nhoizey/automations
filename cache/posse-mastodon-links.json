@@ -2377,5 +2377,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111721321831115521"
     ],
     "lastTootTimestamp": 1704732083741
+  },
+  "https://nicolas-hoizey.com/links/2024/01/09/a-global-design-system/": {
+    "id": "https://nicolas-hoizey.com/links/2024/01/09/a-global-design-system/",
+    "url": "https://nicolas-hoizey.com/links/2024/01/09/a-global-design-system/",
+    "lang": "en",
+    "title": "🔗 A Global Design System",
+    "date_published": "2024-01-09T15:50:44Z",
+    "content_text": "🔗 “A Global Design System” by @brad_frost@mastodon.social\n\n#DesignSystem \n\n⚓️ https://nicolas-hoizey.com/links/2024/01/09/a-global-design-system/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://bradfrost.com/blog/post/a-global-design-system/",
+        "mime_type": "image/png",
+        "title": "Screenshot of A Global Design System"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111726985002216619"
+    ],
+    "lastTootTimestamp": 1704818496833
   }
 }
