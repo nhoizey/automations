@@ -12190,5 +12190,25 @@
       "https://pixelfed.social/p/nhoizey/651681332389531137"
     ],
     "lastTootTimestamp": 1705129737367
+  },
+  "https://nicolas-hoizey.photo/photos/bend-resist-thrive/": {
+    "id": "https://nicolas-hoizey.photo/photos/bend-resist-thrive/",
+    "url": "https://nicolas-hoizey.photo/photos/bend-resist-thrive/",
+    "language": "en",
+    "title": "Bend, resist, thrive",
+    "date_published": "2023-10-16T08:26:27Z",
+    "content_text": "“Bend, resist, thrive”\n\nSome areas are especially subject to the influence of the wind, and in particular strong prevailing winds, i.e. those blowing most often from a privileged direction.\n\nUnlike animals, plants cannot escape these winds. From the moment they germinate until they die out, they are constantly subject to the effects of this ecological factor.\n\n🔎 https://nicolas-hoizey.photo/photos/bend-resist-thrive/\n\n📅 16 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 160, ƒ/9, 1/320 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/bend-resist-thrive/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Bend, resist, thrive",
+        "_alt_text": "Mountainous landscape with a bent tree in the foreground and wooded, rocky slopes under a blue sky with light clouds."
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/652043731893158585"
+    ],
+    "lastTootTimestamp": 1705216140174
   }
 }
