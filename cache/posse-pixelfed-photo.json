@@ -12210,5 +12210,42 @@
       "https://pixelfed.social/p/nhoizey/652043731893158585"
     ],
     "lastTootTimestamp": 1705216140174
+  },
+  "https://nicolas-hoizey.photo/photos/misty-mountains/": {
+    "id": "https://nicolas-hoizey.photo/photos/misty-mountains/",
+    "url": "https://nicolas-hoizey.photo/photos/misty-mountains/",
+    "language": "en",
+    "title": "Misty Mountains",
+    "date_published": "2023-10-18T13:06:02Z",
+    "content_text": "“Misty Mountains”\n\nIn J.R.R. Tolkien's “The Hobbit,” the Misty Mountains represent a formidable and treacherous barrier that the protagonist, Bilbo Baggins, and his companions must traverse on their journey to the Lonely Mountain.\n\nThus, the Misty Mountains represent Bilbo's maturation as a character and an adventurer: when he enters them, he's still immature (literally being carried on someone else's back!), but when he leaves, he's confident enough to navigate his own way around.\n\n🔎 https://nicolas-hoizey.photo/photos/misty-mountains/\n\n📅 18 October 2023\n\n📸 Fujifilm X-T3 + 100-400mm\n🎛️ ISO 320, ƒ/8, 1/1250 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/misty-mountains/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Misty Mountains",
+        "_alt_text": "Mountain peaks shrouded in mist with a dark forest in the foreground."
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.photo/photos/la-main-de-crepin-mountain-peak/": {
+    "id": "https://nicolas-hoizey.photo/photos/la-main-de-crepin-mountain-peak/",
+    "url": "https://nicolas-hoizey.photo/photos/la-main-de-crepin-mountain-peak/",
+    "language": "en",
+    "title": "La Main de Crépin mountain peak",
+    "date_published": "2023-10-16T14:00:32Z",
+    "content_text": "“La Main de Crépin mountain peak”\n\nWith its high limestone walls and sharp peaks, the Cerces massif lives up to its nickname of France's little Dolomites.\n\nLa Main de Crépin once boasted five peaks giving the appearance of a hand, but two of them have unfortunately collapsed in recent years.\n\n🔎 https://nicolas-hoizey.photo/photos/la-main-de-crepin-mountain-peak/\n\n📅 16 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 100, ƒ/8, 1/15 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/la-main-de-crepin-mountain-peak/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "La Main de Crépin mountain peak",
+        "_alt_text": "Mountain landscape with a stream, weathered dwarf juniper roots in the foreground, pine trees and jagged peaks under a cloudy sky"
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/652195556754477790"
+    ],
+    "lastTootTimestamp": 1705252337988
   }
 }
