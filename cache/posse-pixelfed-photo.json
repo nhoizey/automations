@@ -2373,9 +2373,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/652558097628494025"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705338774475
   },
   "https://nicolas-hoizey.photo/photos/wisps-of-smoke/": {
     "id": "https://nicolas-hoizey.photo/photos/wisps-of-smoke/",
