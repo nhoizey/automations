@@ -12271,5 +12271,25 @@
       "https://pixelfed.social/p/nhoizey/652768560786300167"
     ],
     "lastTootTimestamp": 1705388952790
+  },
+  "https://nicolas-hoizey.photo/photos/oxygen-packed-torrent/": {
+    "id": "https://nicolas-hoizey.photo/photos/oxygen-packed-torrent/",
+    "url": "https://nicolas-hoizey.photo/photos/oxygen-packed-torrent/",
+    "language": "en",
+    "title": "Oxygen-packed torrent",
+    "date_published": "2023-10-19T10:18:41Z",
+    "content_text": "“Oxygen-packed torrent”\n\nIt's the low temperature of mountain torrential waters that allows them to become saturated with oxygen as they flow over the falls.\n\nThey are then home to animals that are major consumers of dissolved oxygen, such as the larvae of a host of insects.\n\nDuring floods, the torrent abandons the materials it transports. These form banks of gravel, sand and silt, which are then colonized by plants. The vegetation on these banks consumes some of the organic pollution in the water and protects the banks.\n\n🔎 https://nicolas-hoizey.photo/photos/oxygen-packed-torrent/\n\n📅 19 October 2023\n\n📸 Fujifilm X-T3 + 10-24mm\n🎛️ ISO 400, ƒ/8, 1/6 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/oxygen-packed-torrent/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Oxygen-packed torrent",
+        "_alt_text": "A small waterfall in a mountain forest with autumn leaves"
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/652920494255031912"
+    ],
+    "lastTootTimestamp": 1705425176569
   }
 }
