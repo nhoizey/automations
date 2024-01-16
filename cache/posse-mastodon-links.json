@@ -2397,5 +2397,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111726985002216619"
     ],
     "lastTootTimestamp": 1704818496833
+  },
+  "https://nicolas-hoizey.com/links/2024/01/16/reflow-red-flags/": {
+    "id": "https://nicolas-hoizey.com/links/2024/01/16/reflow-red-flags/",
+    "url": "https://nicolas-hoizey.com/links/2024/01/16/reflow-red-flags/",
+    "lang": "en",
+    "title": "🔗 Reflow Red Flags",
+    "date_published": "2024-01-16T09:15:18Z",
+    "content_text": "🔗 “Reflow Red Flags”\n\n#accessibility \n\n⚓️ https://nicolas-hoizey.com/links/2024/01/16/reflow-red-flags/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.tpgi.com/reflow-red-flags/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Reflow Red Flags"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111765199747656361"
+    ],
+    "lastTootTimestamp": 1705401607599
   }
 }
