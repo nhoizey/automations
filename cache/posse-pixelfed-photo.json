@@ -12251,5 +12251,25 @@
       "https://pixelfed.social/p/nhoizey/652195556754477790"
     ],
     "lastTootTimestamp": 1705252337988
+  },
+  "https://nicolas-hoizey.photo/photos/dry-branchs-of-dwarf-juniper/": {
+    "id": "https://nicolas-hoizey.photo/photos/dry-branchs-of-dwarf-juniper/",
+    "url": "https://nicolas-hoizey.photo/photos/dry-branchs-of-dwarf-juniper/",
+    "language": "en",
+    "title": "Dry branchs of dwarf juniper",
+    "date_published": "2023-10-17T14:02:55Z",
+    "content_text": "“Dry branchs of dwarf juniper”\n\nThis is the dwarf subspecies of the common juniper, found at altitude on rocky outcrops and mountain meadows. This recumbent shrub forms dense mats at ground level. This feature enables it to resist wind, but also to benefit from the protection of snow (which insulates and protects against frost) in winter.\n\n🔎 https://nicolas-hoizey.photo/photos/dry-branchs-of-dwarf-juniper/\n\n📅 17 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 100, ƒ/8, 1/5 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/dry-branchs-of-dwarf-juniper/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Dry branchs of dwarf juniper",
+        "_alt_text": "A rocky alpine landscape with a stream, sparse vegetation, and rugged mountains in the background under a cloudy sky."
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/652768560786300167"
+    ],
+    "lastTootTimestamp": 1705388952790
   }
 }
