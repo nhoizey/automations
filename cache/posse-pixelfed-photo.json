@@ -3640,9 +3640,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/653130952360263686"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705475353686
   },
   "https://nicolas-hoizey.photo/photos/young-olive-baboon-at-sunset/": {
     "id": "https://nicolas-hoizey.photo/photos/young-olive-baboon-at-sunset/",
