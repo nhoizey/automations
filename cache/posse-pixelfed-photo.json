@@ -3045,9 +3045,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/653282836095792837"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705511565610
   },
   "https://nicolas-hoizey.photo/photos/lesser-blue-eared-starling/": {
     "id": "https://nicolas-hoizey.photo/photos/lesser-blue-eared-starling/",
