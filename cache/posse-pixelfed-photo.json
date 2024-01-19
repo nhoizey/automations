@@ -6256,9 +6256,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/654007645919993544"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705684373741
   },
   "https://nicolas-hoizey.photo/photos/the-marne-in-joinville/": {
     "id": "https://nicolas-hoizey.photo/photos/the-marne-in-joinville/",
