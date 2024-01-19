@@ -4160,9 +4160,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/653855707898128466"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705648148875
   },
   "https://nicolas-hoizey.photo/photos/maasai-mara-national-reserve/": {
     "id": "https://nicolas-hoizey.photo/photos/maasai-mara-national-reserve/",
