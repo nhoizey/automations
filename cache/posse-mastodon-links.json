@@ -2418,5 +2418,40 @@
       "https://mamot.fr/users/nhoizey/statuses/111765199747656361"
     ],
     "lastTootTimestamp": 1705401607599
+  },
+  "https://nicolas-hoizey.com/links/2024/01/19/my-take-on-fading-content-using-transparent-gradients-in-css/": {
+    "id": "https://nicolas-hoizey.com/links/2024/01/19/my-take-on-fading-content-using-transparent-gradients-in-css/",
+    "url": "https://nicolas-hoizey.com/links/2024/01/19/my-take-on-fading-content-using-transparent-gradients-in-css/",
+    "lang": "en",
+    "title": "🔗 My take on fading content using transparent gradients in CSS",
+    "date_published": "2024-01-19T13:06:25Z",
+    "content_text": "🔗 “My take on fading content using transparent gradients in CSS” by @Kilian@mastodon.social\n\n#CSS \n\n⚓️ https://nicolas-hoizey.com/links/2024/01/19/my-take-on-fading-content-using-transparent-gradients-in-css/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://polypane.app/blog/my-take-on-fading-content-using-transparent-gradients-in-css/",
+        "mime_type": "image/png",
+        "title": "Screenshot of My take on fading content using transparent gradients in CSS"
+      }
+    ],
+    "toots": []
+  },
+  "https://nicolas-hoizey.com/links/2024/01/19/where-have-all-the-flowers-gone/": {
+    "id": "https://nicolas-hoizey.com/links/2024/01/19/where-have-all-the-flowers-gone/",
+    "url": "https://nicolas-hoizey.com/links/2024/01/19/where-have-all-the-flowers-gone/",
+    "lang": "en",
+    "title": "🔗 Where have all the flowers gone?",
+    "date_published": "2024-01-19T08:44:51Z",
+    "content_text": "🔗 “Where have all the flowers gone?” by @davatron5000@mastodon.social\n\n#IndieWeb \n\n⚓️ https://nicolas-hoizey.com/links/2024/01/19/where-have-all-the-flowers-gone/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://daverupert.com/2024/01/where-have-all-the-websites-gone/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Where have all the flowers gone?"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111782893901756869"
+    ],
+    "lastTootTimestamp": 1705671598986
   }
 }
