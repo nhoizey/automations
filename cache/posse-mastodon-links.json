@@ -2456,5 +2456,24 @@
       "https://mamot.fr/users/nhoizey/statuses/111782893901756869"
     ],
     "lastTootTimestamp": 1705671598986
+  },
+  "https://nicolas-hoizey.com/links/2024/01/20/platform-tilt-documenting-the-uneven-playing-field-for-an-independent-browser-like-firefox/": {
+    "id": "https://nicolas-hoizey.com/links/2024/01/20/platform-tilt-documenting-the-uneven-playing-field-for-an-independent-browser-like-firefox/",
+    "url": "https://nicolas-hoizey.com/links/2024/01/20/platform-tilt-documenting-the-uneven-playing-field-for-an-independent-browser-like-firefox/",
+    "lang": "en",
+    "title": "🔗 Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox",
+    "date_published": "2024-01-20T11:43:10Z",
+    "content_text": "🔗 “Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox” by @mozilla@mozilla.social\n\n#Firefox #Mozilla #browser \n\n⚓️ https://nicolas-hoizey.com/links/2024/01/20/platform-tilt-documenting-the-uneven-playing-field-for-an-independent-browser-like-firefox/",
+    "attachments": [
+      {
+        "url": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/",
+        "mime_type": "image/png",
+        "title": "Screenshot of Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox"
+      }
+    ],
+    "toots": [
+      "https://mamot.fr/users/nhoizey/statuses/111788555278907052"
+    ],
+    "lastTootTimestamp": 1705757984716
   }
 }
