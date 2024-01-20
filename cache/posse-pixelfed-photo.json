@@ -75,9 +75,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/654218063760302187"
     ],
-    "lastTootTimestamp": 1704500964401
+    "lastTootTimestamp": 1705734541261
   },
   "https://nicolas-hoizey.photo/photos/into-limbo/": {
     "id": "https://nicolas-hoizey.photo/photos/into-limbo/",
