@@ -6238,9 +6238,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/654370026524265868"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705770772007
   },
   "https://nicolas-hoizey.photo/photos/joinville/": {
     "id": "https://nicolas-hoizey.photo/photos/joinville/",
