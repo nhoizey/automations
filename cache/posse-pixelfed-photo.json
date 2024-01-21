@@ -2792,12 +2792,13 @@
     "language": "en",
     "title": "Color Patches",
     "date_published": "2017-12-19T17:35:09Z",
-    "content_text": "“Color Patches”\n\nFor some time to come, this group of buildings will house a good part of the Altice Campus, including SFR. They will then move to Balard, and leave the place to the SNCF.\n\n🔎 https://nicolas-hoizey.photo/photos/color-patches/\n\n📅 19 December 2017\n\n📸 Fujifilm X-T2 + 10-24mm\n🎛️ ISO 400, ƒ/6.4, 1 1/2 s\n\n#Urban #Architecture #Photography #Fujifilm",
+    "content_text": "“Color Patches”\n\nSome companies are trying to make their office buildings a little more interesting, not just functional, by adding a little artistic dimension.\n\n🔎 https://nicolas-hoizey.photo/photos/color-patches/\n\n📅 19 December 2017\n\n📸 Fujifilm X-T2 + 10-24mm\n🎛️ ISO 400, ƒ/6.4, 1 1/2 s\n\n#Urban #Architecture #Photography #Fujifilm",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/color-patches/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Color Patches"
+        "title": "Color Patches",
+        "_alt_text": "Nighttime view of modern office buildings with colorful illuminated windows reflecting in a still body of water"
       }
     ],
     "toots": [
@@ -12300,5 +12301,42 @@
       "https://pixelfed.social/p/nhoizey/652920494255031912"
     ],
     "lastTootTimestamp": 1705425176569
+  },
+  "https://nicolas-hoizey.photo/photos/male-european-green-woodpecker-in-the-grass/": {
+    "id": "https://nicolas-hoizey.photo/photos/male-european-green-woodpecker-in-the-grass/",
+    "url": "https://nicolas-hoizey.photo/photos/male-european-green-woodpecker-in-the-grass/",
+    "language": "en",
+    "title": "Male European green woodpecker in the grass",
+    "date_published": "2024-01-20T15:24:50Z",
+    "content_text": "“Male European green woodpecker in the grass”\n\nThe European green woodpecker spends much of its time feeding on ants on the ground and does not often 'drum' on trees like other woodpecker species.\n\nBoth sexes are green above and pale yellowish green below, with yellow rump and red crown and nape; the moustachial stripe has a red centre in the male but is solid black in the female.\n\nThough its vivid green and red plumage is particularly striking, it is a shy bird, and is more often heard than seen, drawing attention with its loud calls.\n\nWild animals photography:\n\n5047 photos shot on the memory card (10 fps burst mode)\n251 considered good enough to be preserved\nOnly 1 shared… 😅\n\n🔎 https://nicolas-hoizey.photo/photos/male-european-green-woodpecker-in-the-grass/\n\n📅 20 January 2024\n\n📸 Fujifilm X-H2s + 100-400mm\n🎛️ ISO 800, ƒ/9, 1/320 s\n\n#Animals #Birds #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/male-european-green-woodpecker-in-the-grass/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Male European green woodpecker in the grass",
+        "_alt_text": "A green woodpecker on grassy ground with scattered fallen leaves"
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/654781494324138707"
+    ],
+    "lastTootTimestamp": 1705868873545
+  },
+  "https://nicolas-hoizey.photo/photos/one-does-not-simply-walk-into-mordor/": {
+    "id": "https://nicolas-hoizey.photo/photos/one-does-not-simply-walk-into-mordor/",
+    "url": "https://nicolas-hoizey.photo/photos/one-does-not-simply-walk-into-mordor/",
+    "language": "en",
+    "title": "One Does Not Simply Walk Into Mordor",
+    "date_published": "2023-10-19T13:09:58Z",
+    "content_text": "“One Does Not Simply Walk Into Mordor”\n\nThe phrase “One does not simply walk into Mordor” originates from a scene in Peter Jackson’s 2001 film adaption of J.R.R. Tolkien’s Lord of the Rings: The Fellowship of the Ring.\n\nIn the scene, the Council of Elrond reveals that an evil ring must be destroyed by being thrown into the fires of Mount Doom, a volcano deep in the territory of Mordor. Boromir promptly points out the difficultly of the task by saying, “One does not simply walk into Mordor.”\n\nHere, between the Queyrellin and Châtelard ridges, the path leads into a very old glacial valley with a distinctive U-shape.\n\n🔎 https://nicolas-hoizey.photo/photos/one-does-not-simply-walk-into-mordor/\n\n📅 19 October 2023\n\n📸 Fujifilm X-T3 + 10-24mm\n🎛️ ISO 400, ƒ/8, 1/30 s\n\n#LandscapesAndNature #MountainLandscapePhotography #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/one-does-not-simply-walk-into-mordor/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "One Does Not Simply Walk Into Mordor",
+        "_alt_text": "A dark, gloomy landscape in a mountainous region with a lone figure walking along a path, surrounded by cloudy skies and rugged terrain. The vision is blurred by drops of water deposited on the photographic lens."
+      }
+    ],
+    "toots": []
   }
 }
