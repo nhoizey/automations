@@ -5990,9 +5990,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/655094865776287156"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1705943587144
   },
   "https://nicolas-hoizey.photo/photos/le-petit-poucet/": {
     "id": "https://nicolas-hoizey.photo/photos/le-petit-poucet/",
