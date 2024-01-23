@@ -12342,5 +12342,25 @@
       "https://pixelfed.social/p/nhoizey/654942927679998712"
     ],
     "lastTootTimestamp": 1705907362298
+  },
+  "https://nicolas-hoizey.photo/photos/there-was-once-a-glacier-here/": {
+    "id": "https://nicolas-hoizey.photo/photos/there-was-once-a-glacier-here/",
+    "url": "https://nicolas-hoizey.photo/photos/there-was-once-a-glacier-here/",
+    "language": "en",
+    "title": "There was once a glacier here",
+    "date_published": "2023-10-19T13:22:36Z",
+    "content_text": "“There was once a glacier here”\n\nBetween the Queyrellin and Châtelard ridges, the path leads into a very old glacial valley with a distinctive U-shape.\n\n🔎 https://nicolas-hoizey.photo/photos/there-was-once-a-glacier-here/\n\n📅 19 October 2023\n\n📸 Fujifilm X-T3 + 10-24mm\n🎛️ ISO 400, ƒ/8, 1/170 s\n\n#LandscapesAndNature #MountainLandscapePhotography #Photography #Fujifilm",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/there-was-once-a-glacier-here/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "There was once a glacier here",
+        "_alt_text": "A moody landscape showing rugged mountains under a cloudy sky with a dark rocky hillside to the right, undulating brown grassland, and several small winding streams or pools of water."
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/655305321655801768"
+    ],
+    "lastTootTimestamp": 1705993763751
   }
 }
